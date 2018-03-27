@@ -1,6 +1,6 @@
 # IT-Handbook-guide
 
-* [Active Directory Domain Services](https://drive.google.com/open?id=1rKO8IuN05d1A61dkMv1PZAmMvuTAqQqYONJ4NQopg1M)
+* Active Directory Domain Services
     - [Domain Naming explanation](https://docs.google.com/document/d/1rKO8IuN05d1A61dkMv1PZAmMvuTAqQqYONJ4NQopg1M/edit#heading=h.o532ckze62ul)
     - [DNS - Example setup](https://docs.google.com/document/d/1rKO8IuN05d1A61dkMv1PZAmMvuTAqQqYONJ4NQopg1M/edit#heading=h.vs1ie4rk8dmn)
   
