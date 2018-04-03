@@ -21,18 +21,13 @@
    
    #### AD DS - Websites
    - [Active Directory Security](https://adsecurity.org/)
-    
-## Group Policies
-   - [Drive Mapping](https://docs.google.com/document/d/1z7OLrTorIgvbdIiHmSDrXwGDjhjBTEC3ZLBObe7lJYg)
-   - [How to See Which Group Policies are Applied to Your PC and User Account](https://www.tecklyfe.com/how-to-see-which-group-policies-are-applied-to-your-pc-and-user-account)
-  
-## Windows Server Update Services (WSUS)
-   - [Windows Server Update Services (WSUS) & Windows Updates (WU) explained](https://docs.google.com/document/d/1JRByXOwB0qKXjh2qwyq-ob33PsbK9o3wrIe7l60WoTU)
-   
+<br />
+
 ## AWS
    - [AWS Educate](https://aws.amazon.com/education/awseducate/)
    - [AWS Free Tier](https://aws.amazon.com/free/)
    - [AWS Service Health Dashboard](http://status.aws.amazon.com/)
+<br />
 
 ## Educational books
 ##### Active Directory
@@ -63,3 +58,13 @@
 ##### Windows
    - [Windows Server 2008 R2 Unleashed 1st Edition](https://www.amazon.com/Windows-Server-2008-R2-Unleashed/dp/067233092X)
    - [Windows Server 2016 Unleashed (includes Content Update Program) 1st Edition](https://www.amazon.com/Windows-Server-Unleashed-Content-Program/dp/0134583752/)
+<br />
+
+## Group Policies
+   - [Drive Mapping](https://docs.google.com/document/d/1z7OLrTorIgvbdIiHmSDrXwGDjhjBTEC3ZLBObe7lJYg)
+   - [How to See Which Group Policies are Applied to Your PC and User Account](https://www.tecklyfe.com/how-to-see-which-group-policies-are-applied-to-your-pc-and-user-account)
+<br />
+
+## Windows Server Update Services (WSUS)
+   - [Windows Server Update Services (WSUS) & Windows Updates (WU) explained](https://docs.google.com/document/d/1JRByXOwB0qKXjh2qwyq-ob33PsbK9o3wrIe7l60WoTU)
+<br />
