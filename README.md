@@ -6,6 +6,10 @@
    - [Domain naming explained](https://docs.google.com/document/d/1QTrEi7ZSpEi4CYMOcE79W1x3F4pAlGE5o19yfCiW1Mg)
    - [Selecting the Forest Root Domain](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/selecting-the-forest-root-domain)
       - [Assigning the Forest Root Domain Name](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc738121(v=ws.10))
+   - [Designing OU Structures that Work](https://technet.microsoft.com/en-us/library/2008.05.oudesign.aspx)
+      - [Creating an Organizational Unit Design](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/creating-an-organizational-unit-design)
+      - [Delegating Administration of Account OUs and Resource OUs](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/delegating-administration-of-account-ous-and-resource-ous)
+ 
    - [Implementation DNS server addresses](https://docs.google.com/document/d/1_d0DV5Wi1qMSjhWtm3CdVbJJ6rYHdnjhKyqmxdDwpYE)
     
 ## Group Policies
