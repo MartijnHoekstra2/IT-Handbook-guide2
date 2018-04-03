@@ -15,8 +15,9 @@
     - [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
     - [Protecting Domain Administrative Credentials](https://blogs.technet.microsoft.com/askpfeplat/2017/10/31/protecting-domain-administrative-credentials/)
    
-   #### Tools
+   #### Tools & Websites
    - [Repadmin](http://techgenix.com/repadmin-tool/)
+   - [Active Directory Security](https://adsecurity.org/)
     
 ## Group Policies
    - [Drive Mapping](https://docs.google.com/document/d/1z7OLrTorIgvbdIiHmSDrXwGDjhjBTEC3ZLBObe7lJYg)
