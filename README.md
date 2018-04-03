@@ -12,7 +12,7 @@
     - [Implementation DNS server addresses](https://docs.google.com/document/d/1_d0DV5Wi1qMSjhWtm3CdVbJJ6rYHdnjhKyqmxdDwpYE)
    
    ### Tools
-    - test
+   - test
     
 ## Group Policies
    - [Drive Mapping](https://docs.google.com/document/d/1z7OLrTorIgvbdIiHmSDrXwGDjhjBTEC3ZLBObe7lJYg)
