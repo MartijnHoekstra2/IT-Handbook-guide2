@@ -28,3 +28,8 @@
   
 ## Windows Server Update Services (WSUS)
    - [Windows Server Update Services (WSUS) & Windows Updates (WU) explained](https://docs.google.com/document/d/1JRByXOwB0qKXjh2qwyq-ob33PsbK9o3wrIe7l60WoTU)
+   
+## AWS
+   - [AWS Educate](https://aws.amazon.com/education/awseducate/)
+   - [AWS Free Tier](https://aws.amazon.com/free/)
+   - [AWS Service Health Dashboard](http://status.aws.amazon.com/)
