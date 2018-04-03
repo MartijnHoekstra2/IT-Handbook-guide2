@@ -10,8 +10,9 @@
       - [Creating an Organizational Unit Design](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/creating-an-organizational-unit-design)
       - [Delegating Administration of Account OUs and Resource OUs](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/delegating-administration-of-account-ous-and-resource-ous)
     - [Implementation DNS server addresses](https://docs.google.com/document/d/1_d0DV5Wi1qMSjhWtm3CdVbJJ6rYHdnjhKyqmxdDwpYE)
-    - [Securing Privileged Access Reference Material](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material)
     - [Securing Privileged Access](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access)
+    - [Securing Privileged Access Reference Material](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material)
+    - [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
    
    #### Tools
    - [Repadmin](http://techgenix.com/repadmin-tool/)
