@@ -15,8 +15,10 @@
     - [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
     - [Protecting Domain Administrative Credentials](https://blogs.technet.microsoft.com/askpfeplat/2017/10/31/protecting-domain-administrative-credentials/)
    
-   #### Tools & Websites
+   #### AD DS - Tools 
    - [Repadmin](http://techgenix.com/repadmin-tool/)
+   
+   #### AD DS - Websites
    - [Active Directory Security](https://adsecurity.org/)
     
 ## Group Policies
