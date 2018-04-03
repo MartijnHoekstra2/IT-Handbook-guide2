@@ -3,9 +3,8 @@
 ## Active Directory Domain Services (AD DS)
    - [Active Directory Domain Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
    - [Planning Global Catalog Server Placement](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/planning-global-catalog-server-placement)
-   - [Domain Naming explained](https://docs.google.com/document/d/1rKO8IuN05d1A61dkMv1PZAmMvuTAqQqYONJ4NQopg1M)
-   - [DNS - Example setup](https://docs.google.com/document/d/1rKO8IuN05d1A61dkMv1PZAmMvuTAqQqYONJ4NQopg1M)
-   - [Group Policy Central Store setup](https://docs.google.com/document/d/1rKO8IuN05d1A61dkMv1PZAmMvuTAqQqYONJ4NQopg1M)
+   - [Domain naming explained](https://docs.google.com/document/d/1QTrEi7ZSpEi4CYMOcE79W1x3F4pAlGE5o19yfCiW1Mg)
+   - [Implementation DNS server addresses](https://docs.google.com/document/d/1_d0DV5Wi1qMSjhWtm3CdVbJJ6rYHdnjhKyqmxdDwpYE)
     
 ## Group Policies
    - [Drive Mapping](https://docs.google.com/document/d/1z7OLrTorIgvbdIiHmSDrXwGDjhjBTEC3ZLBObe7lJYg)
