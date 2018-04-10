@@ -1,3 +1,16 @@
+ SkipLocaleSelection=YES
+ KeyboardLocale=0809:00000809
+ UserLocale=en-GB
+ UILanguage=en-GB
+
+ SkipTimeZone=YES
+ TimeZoneName=GMT Standard Time
+
+
+
+
+
+
 ***MDT
 
 [Property Reference](https://technet.microsoft.com/en-us/library/bb490304.aspx)
