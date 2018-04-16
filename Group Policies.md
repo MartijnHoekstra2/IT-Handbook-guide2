@@ -1,4 +1,4 @@
-### Computer Configuration
+## Computer Configuration
   - Policies
     - Administrative Templates
       - Control Panel/Personalization
