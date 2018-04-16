@@ -2,8 +2,30 @@ Computer Configuration
   - Policies
     - Administrative Templates
       - Control Panel/Personalization
-        - Do not display the lock screen
+          - Do not display the lock screen
+      - Network/DNS Client
+          - Turn off multicast name resolution
       - System/Logon
-        - Always wait for the network at computer startup and logon
+          - Always wait for the network at computer startup and logon
       -  System/Power Management/Video and Display Settings
           - Turn off the display (plugged in)
+       - Windows Components/Cloud Content
+          - Do not show Windows tips
+          - Turn off Microsoft consumer experiences
+       - Windows Components/Credential User Interface
+          - Do not display the password reveal button
+       - Windows Components/Data Collection and Preview Builds
+          - Allow Telemetry
+          - Disable pre-release features or settings
+          - Do not show feedback notifications
+          - Toggle user control over Insider builds
+       - Windows Components/OneDrive
+          - Prevent the usage of OneDrive for file storage
+       - Windows Components/Search
+          - Allow Cortana
+          - Do not allow web search
+          - Don't search the web or display web results in Search
+       - Windows Components/Store
+          - Turn off the Store application
+       - Windows Components/Windows Update
+          - Turn off auto-restart for updates during active hours
