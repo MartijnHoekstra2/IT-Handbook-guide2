@@ -1,9 +1,6 @@
 ## Group Policy overview
   - [Restore Default Domain Policy and Default Domain Controller GPO settings to default](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dcgpofix)
-
-
-
-
+  - [Who broke my user GPOs](https://blogs.technet.microsoft.com/askpfeplat/2016/07/05/who-broke-my-user-gpos/)
 
 ## Computer Configuration
   - Policies
