@@ -2,7 +2,7 @@
 
 #### Group Policy - Tools 
   - [How to restore the Default Domain Policy and Default Domain Controller GPO settings](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dcgpofix)
-  - [How to See Which Group Policies are Applied to Your PC and User Account](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult)
+  - [How to see which Group Policies are Applied to Your PC and User Account](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult)
   
 #### Group Policy - Websites
   - [Group Policy Administrative Templates Catalog](https://getadmx.com/)
