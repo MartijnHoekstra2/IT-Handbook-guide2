@@ -1,10 +1,5 @@
-
-
-
    - [Planning Global Catalog Server Placement](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/planning-global-catalog-server-placement)
-   
-
-      - [Assigning the Forest Root Domain Name](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc738121(v=ws.10))
+         - [Assigning the Forest Root Domain Name](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc738121(v=ws.10))
    - [Designing OU Structures that Work](https://technet.microsoft.com/en-us/library/2008.05.oudesign.aspx)
       - [Creating an Organizational Unit Design](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/creating-an-organizational-unit-design)
       - [Delegating Administration of Account OUs and Resource OUs](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/delegating-administration-of-account-ous-and-resource-ous)
