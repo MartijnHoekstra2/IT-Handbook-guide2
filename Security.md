@@ -1,0 +1,1 @@
+  - [Protecting Domain Administrative Credentials](https://blogs.technet.microsoft.com/askpfeplat/2017/10/31/protecting-domain-administrative-credentials/)
