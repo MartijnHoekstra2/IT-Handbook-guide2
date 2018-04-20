@@ -1,5 +1,6 @@
 * [Active Directory Domain Services (AD DS)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Active%20Directory%20Domain%20Services%20(AD%20DS).md)
 * [Amazon Web Services (AWS)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Amazon%20Web%20Services%20(AWS).md)
+* [Contracts](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Contracts.md)
 * [Educational: Books](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Educational:%20Books.md)
 * [Educational: Online IT Training Videos Platforms](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Educational:%20Online%20IT%20Training%20Videos%20Platforms.md)
 * [Group Policies (GP)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Group%20Policies%20(GP).md)
