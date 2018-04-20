@@ -10,8 +10,6 @@
   - [Who broke my user GPOs](https://blogs.technet.microsoft.com/askpfeplat/2016/07/05/who-broke-my-user-gpos/)
 
 
-  - [Drive Mapping](https://docs.google.com/document/d/1z7OLrTorIgvbdIiHmSDrXwGDjhjBTEC3ZLBObe7lJYg)
-
 ## Computer Configuration
   - Policies
     - Administrative Templates
