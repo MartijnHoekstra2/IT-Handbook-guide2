@@ -4,7 +4,7 @@
 * DNS Settings: <br />
 [DNS servers on adapter name should include the loopback address, but not as the first entry](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ff807362(v=ws.10))<br />
 [DNS client and server best practices for AD](https://blogs.technet.microsoft.com/askds/2010/07/17/friday-mail-sack-saturday-edition/#dnsbest) <br />
-* Example: Implementation of DNS server addresses
+Example: Implementation of DNS server addresses
 
 |                      | Domain Controller 1 | Domain Controller 2 | Domain Controller 3 |
 |----------------------|---------------------|---------------------|---------------------|
