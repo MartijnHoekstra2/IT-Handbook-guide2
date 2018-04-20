@@ -3,7 +3,7 @@
 * [Lynda](https://www.lynda.com/)
 * [Pluralsight](https://www.pluralsight.com/)
 
-##### Recommended Educational Online IT Training Videos
+##### Other Educational Online IT Training Videos
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
 * [Udemy](https://www.udemy.com)
