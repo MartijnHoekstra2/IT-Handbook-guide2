@@ -1,4 +1,4 @@
-# Email security with: SPF, DKIM and DMARC
+# Mail Security: SPF, DKIM and DMARC
 [Source](http://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
 </br>
 </br>
