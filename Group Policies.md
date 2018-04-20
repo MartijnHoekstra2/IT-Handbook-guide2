@@ -1,7 +1,5 @@
 ## Group Policy overview
 
-
-
 #### Group Policy - Tools 
   - [How to restore the Default Domain Policy and Default Domain Controller GPO settings](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dcgpofix)
   - [How to See Which Group Policies are Applied to Your PC and User Account](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult)
@@ -12,10 +10,7 @@
   - [Who broke my user GPOs](https://blogs.technet.microsoft.com/askpfeplat/2016/07/05/who-broke-my-user-gpos/)
 
 
-
   - [Drive Mapping](https://docs.google.com/document/d/1z7OLrTorIgvbdIiHmSDrXwGDjhjBTEC3ZLBObe7lJYg)
-
-<br />
 
 ## Computer Configuration
   - Policies
