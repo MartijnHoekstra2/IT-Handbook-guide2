@@ -3,6 +3,9 @@
   - [Group Policy Search](https://gpsearch.azurewebsites.net/)
   - [Restore Default Domain Policy and Default Domain Controller GPO settings to default](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dcgpofix)
   - [Who broke my user GPOs](https://blogs.technet.microsoft.com/askpfeplat/2016/07/05/who-broke-my-user-gpos/)
+  - [Drive Mapping](https://docs.google.com/document/d/1z7OLrTorIgvbdIiHmSDrXwGDjhjBTEC3ZLBObe7lJYg)
+  - [How to See Which Group Policies are Applied to Your PC and User Account](https://www.tecklyfe.com/how-to-see-which-group-policies-are-applied-to-your-pc-and-user-account)
+<br />
 
 ## Computer Configuration
   - Policies
