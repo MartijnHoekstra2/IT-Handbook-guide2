@@ -1,12 +1,12 @@
 ## Active Directory Domain Services (AD DS)
 * [Active Directory Domain Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
-* Domain naming explained
-1. Use a valid TLD (Top Level Domain, also known as routable domain) registered to your company. Some examples of this are company.ca or company.com
-2. Use a subdomain of a valid TLD that is registered to your company. Some examples include corp.company.ca, ad.company.ca, etc.
-3. Use non-TLD name (or non-routable domain). For example, you may want to use domain.local, domain.int, or domain.corp
+* Information regardig Domain Naming:<br />
+    1. Use a valid TLD (Top Level Domain, also known as routable domain) registered to your company. Some examples of this are company.ca or company.com
+    1. Use a subdomain of a valid TLD that is registered to your company. Some examples include corp.company.ca, ad.company.ca, etc.
+    3. Use non-TLD name (or non-routable domain). For example, you may want to use domain.local, domain.int, or domain.corp
 
 
-* Information regarding DNS Settings: <br />
+* Information regarding DNS Settings:<br />
 [DNS servers on adapter name should include the loopback address, but not as the first entry](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ff807362(v=ws.10))<br />
 [DNS client and server best practices for AD](https://blogs.technet.microsoft.com/askds/2010/07/17/friday-mail-sack-saturday-edition/#dnsbest) <br />
 Below an example of an implementation of DNS server addresses<br /> 
