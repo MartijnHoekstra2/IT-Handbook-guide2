@@ -17,12 +17,7 @@
     - [Active Directory Security Groups](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-security-groups)
          - AGDLP | Account -> Global Group -> Domain Local Group -> Permission
    
-   #### AD DS - Tools 
-   - [Repadmin](http://techgenix.com/repadmin-tool/)
-   - [User Profile migrate](https://www.forensit.com/domain-migration.html)
-   
-   #### AD DS - Websites
-   - [Active Directory Security](https://adsecurity.org/)
+
 <br />
 
 
