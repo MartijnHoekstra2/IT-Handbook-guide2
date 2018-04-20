@@ -6,5 +6,6 @@
 * [Identity and Access (IAM)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Identity%20and%20Access%20(IAM).md)
 * [Mail Security: SPF, DKIM and DMARC](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Mail%20Security:%20SPF%2C%20DKIM%20and%20DMARC.md)
 * [Microsoft Deployment Toolkit (MDT)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Microsoft%20Deployment%20Toolkit%20(MDT).md)
+* [WiFi](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/WiFi.md)
 * [Windows Deployment Services (WDS)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Windows%20Deployment%20Services%20(WDS).md)
 * [Windows Server Update Services (WSUS)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Windows%20Server%20Update%20Services%20(WSUS).md)
