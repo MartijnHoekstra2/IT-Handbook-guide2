@@ -1,6 +1,6 @@
 #### Socumentation Software 
 * [BookStack](https://www.bookstackapp.com/)
 * [Confluence](https://nl.atlassian.com/software/confluence)
-* [DocuWiki](https://www.dokuwiki.org)
+* [DokuWiki](https://www.dokuwiki.org)
 * [IT Glue](https://itglue.com/)
 * [MediaWiki](https://www.mediawiki.org)
