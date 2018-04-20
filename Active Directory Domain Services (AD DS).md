@@ -1,5 +1,5 @@
 ## Active Directory Domain Services (AD DS)
-* [Active Directory Domain Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)</br>
+* [Active Directory Domain Services](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
 * [Domain naming explained](https://docs.google.com/document/d/1QTrEi7ZSpEi4CYMOcE79W1x3F4pAlGE5o19yfCiW1Mg)</br>
  
 1. *Example: Implementation of DNS server addresses*
