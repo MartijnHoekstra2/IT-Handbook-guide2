@@ -1,4 +1,4 @@
-#### Socumentation Software 
+#### Documentation Software 
 * [BookStack](https://www.bookstackapp.com/)
 * [Confluence](https://nl.atlassian.com/software/confluence)
 * [DokuWiki](https://www.dokuwiki.org)
