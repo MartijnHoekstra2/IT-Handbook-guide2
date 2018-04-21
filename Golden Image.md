@@ -32,3 +32,14 @@
 1. Import your **Operating System**
     1. Select **Fulll set of source files** that you have created earlier
 1. Test    
+
+#### Deployment information for deploying software
+MDT offers the option to add **Applications**, but I wouldn't recommended this.
+Using GPO's is more consistent across all the device in the Domain.
+What you could do if necassery is to run a few Powershell scripts at the deployment and then else via gpo.
+
+
+#### Bootstrap.ini
+
+
+#### Custom-Settings.ini
