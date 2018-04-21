@@ -25,5 +25,10 @@
 #### Secure the MDT Deployment Share
 1. [MDT: Secure the Deployment Share](http://www.ingmarverheij.com/mdt-secure-deployment-share/)
 
-#### Configure DHCP for PXE booting with WDS for BIOS or UEFI<br />
+#### Configure DHCP for PXE booting with WDS for BIOS or UEFI
 1. [Configure DHCP for PXE booting with WDS for BIOS or UEFI](https://gal.vin/2017/05/05/pxe-booting-for-uefi-bios/)
+
+#### Customize the Deployment Share
+1. Import your **Operating System**
+    1. Full set of sourc files
+1. Test    
