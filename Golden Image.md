@@ -34,9 +34,9 @@
 1. Test    
 
 #### Deployment information for deploying software
-MDT offers the option to add **Applications**, but I wouldn't recommended this.
-Using GPO's is more consistent across all the device in the Domain.
-What you could do if necassery is to run a few Powershell scripts at the deployment and then else via gpo.
+MDT offers the option to add **Applications**, but I wouldn't recommended this.<br />
+Using GPO's is more consistent across all the device in the Domain.<br />
+What you could do if necassery is to run a few Powershell scripts at the deployment and then else via gpo.<br />
 
 
 #### Bootstrap.ini
