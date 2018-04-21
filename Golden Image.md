@@ -10,6 +10,8 @@
 
 #### Install deployment software
 1. Install Windows ADK<br />
+  1. Deployment Tools
+  1. Windows Preinstallation Environment (Windows PE)
 1. Install MDT<br />
 1. Install WDS<br />
 
