@@ -14,5 +14,4 @@
 1. Install WDS<br />
 
 ### Configure DHCP for PXE booting with WDS for BIOS or UEFI<br />
-1. Configure DHCP for PXE booting with WDS for BIOS or UEFI<br />
-https://docs.google.com/document/d/1yVPLyzj_lNcWbFArwDryS0wyW2YpI1boqkFOkqpLSkQ
+1. [Configure DHCP for PXE booting with WDS for BIOS or UEFI](https://docs.google.com/document/d/1yVPLyzj_lNcWbFArwDryS0wyW2YpI1boqkFOkqpLSkQ)
