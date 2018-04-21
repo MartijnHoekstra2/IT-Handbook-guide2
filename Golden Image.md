@@ -1,4 +1,4 @@
-### Download and edit Windows 10
+#### Download and edit Windows 10
 1. Download Windows 10:<br />
 https://www.microsoft.com/en-us/software-download/windows10
 
@@ -11,14 +11,14 @@ https://community.spiceworks.com/how_to/123554-removing-apps-from-windows-10-med
 1. Enable or Disable Windows Features Using DISM:<br />
 https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/enable-or-disable-windows-features-using-dism
 
-### Download deployment software
+#### Download deployment software
 1. Download Windows ADK:<br />
 https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
 
 1. Download MDT:<br />
 https://blogs.technet.microsoft.com/msdeployment
 
-### Install deployment software
+#### Install deployment software
 1. Install Windows ADK<br />
 1. Install MDT<br />
 1. Install WDS<br />
