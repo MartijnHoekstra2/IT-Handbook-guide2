@@ -1,6 +1,5 @@
 #### Download and edit Windows 10
-1. Download Windows 10:<br />
-https://www.microsoft.com/en-us/software-download/windows10
+1. [Download Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
 
 1. Convert ESD to WIM File on Windows 10:<br />
 https://docs.google.com/document/d/1EK7zYbx1wvVdE1Enkn4Oh4IYnT917MCO8xFysvKe5ZE
