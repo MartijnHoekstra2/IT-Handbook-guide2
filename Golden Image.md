@@ -5,11 +5,8 @@
 1. [Enable or Disable Windows Features Using DISM](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/enable-or-disable-windows-features-using-dism)
 
 #### Download deployment software
-1. Download Windows ADK:<br />
-https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install
-
-1. Download MDT:<br />
-https://blogs.technet.microsoft.com/msdeployment
+1. [Download Windows ADK](https://docs.microsoft.com/en-us/windows-hardware/get-started/adk-install)
+1. [Download MDT](https://blogs.technet.microsoft.com/msdeployment)
 
 #### Install deployment software
 1. Install Windows ADK<br />
