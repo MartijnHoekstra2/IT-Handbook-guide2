@@ -19,6 +19,11 @@
       
 #### Start MDT 
 1. Start the **Deployment Workbench**
+1. Create a **New Deployment Share**
+1. At the **New Deployment Share Wizard** at **Options** unselect all the options
 
-### Configure DHCP for PXE booting with WDS for BIOS or UEFI<br />
+#### Secure the MDT Deployment Share
+1. [MDT: Secure the Deployment Share](http://www.ingmarverheij.com/mdt-secure-deployment-share/)
+
+#### Configure DHCP for PXE booting with WDS for BIOS or UEFI<br />
 1. [Configure DHCP for PXE booting with WDS for BIOS or UEFI](https://gal.vin/2017/05/05/pxe-booting-for-uefi-bios/)
