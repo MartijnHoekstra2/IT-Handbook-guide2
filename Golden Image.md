@@ -9,11 +9,16 @@
 1. [Download MDT](https://blogs.technet.microsoft.com/msdeployment)
 
 #### Install deployment software
-1. Start the installation of Windows ADK and install only the following components:<br />
+1. Start the installation of Windows ADK and select only the following components:<br />
     1. Deployment Tools
     1. Windows Preinstallation Environment (Windows PE)
 1. Install MDT<br />
-1. Install WDS<br />
+1. Start the installation of WDS and select only the following components:<br />
+    1. Deployment Server
+    1. Transport Server
+      
+#### Start MDT 
+1. Start the **Deployment Workbench**
 
 ### Configure DHCP for PXE booting with WDS for BIOS or UEFI<br />
 1. [Configure DHCP for PXE booting with WDS for BIOS or UEFI](https://gal.vin/2017/05/05/pxe-booting-for-uefi-bios/)
