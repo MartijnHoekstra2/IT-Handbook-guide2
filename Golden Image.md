@@ -30,5 +30,5 @@
 
 #### Customize the Deployment Share
 1. Import your **Operating System**
-    1. Full set of sourc files
+    1. *Full set of source files*
 1. Test    
