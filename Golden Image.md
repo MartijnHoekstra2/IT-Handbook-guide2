@@ -9,7 +9,7 @@
 1. [Download MDT](https://blogs.technet.microsoft.com/msdeployment)
 
 #### Install deployment software
-1. Install Windows ADK<br />
+1. Start the installation of Windows ADK and install only the following components:<br />
     1. Deployment Tools
     1. Windows Preinstallation Environment (Windows PE)
 1. Install MDT<br />
