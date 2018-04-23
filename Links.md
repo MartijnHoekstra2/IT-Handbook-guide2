@@ -1,10 +1,10 @@
 ##### SysAdmin Blog and RSS Feed List
-* [4sysops](https://4sysops.com/
-* [The Lone SysAdmin](https://lonesysadmin.net/
-* [Expert-Advice](http://expert-advice.org/
-* [Admin Fowler IT](https://www.adamfowlerit.com/
-* [Planet SysAdmin](http://planetsysadmin.com/
-* [Graham Cluley](https://www.grahamcluley.com
+* [4sysops](https://4sysops.com/)
+* [The Lone SysAdmin](https://lonesysadmin.net/)
+* [Expert-Advice](http://expert-advice.org/)
+* [Admin Fowler IT](https://www.adamfowlerit.com/)
+* [Planet SysAdmin](http://planetsysadmin.com/)
+* [Graham Cluley](https://www.grahamcluley.com)
 * [The Register](http://www.theregister.co.uk/)
 
 ##### DNS
