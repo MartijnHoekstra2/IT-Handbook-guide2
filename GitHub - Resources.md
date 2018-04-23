@@ -5,6 +5,5 @@
   - [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
   - [PowerShell Team](https://github.com/PowerShell)
   - [PsVDecrypt](https://github.com/KevinWang15/PsVDecrypt)
-  - [StackEdit In-browser Markdown editor](https://stackedit.io/)
   - [Sublist3r](https://github.com/aboul3la/Sublist3r)
   - [TechBookHunter](https://github.com/TechBookHunter)
