@@ -6,7 +6,7 @@
   - [PsVDecrypt](https://github.com/KevinWang15/PsVDecrypt)<br />
   Video file decryptor for a famous online developer training site.
   - [PowerShell Team](https://github.com/PowerShell)
-  - [Awesome Linux Resources](https://github.com/n1trux/awesome-linux))<br />
+  - [Awesome Linux Resources](https://github.com/n1trux/awesome-linux)<br />
   The list of awesome resources where you can learn more about Linux
   - [StackEdit In-browser Markdown editor](https://stackedit.io/)
   - [TechBookHunter](https://github.com/TechBookHunter)
