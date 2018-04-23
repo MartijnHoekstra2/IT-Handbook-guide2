@@ -3,6 +3,7 @@
 * [Contracts](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Contracts.md)
 * [Educational: Books](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Educational:%20Books.md)
 * [Educational: Online IT Training Videos Platforms](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Educational:%20Online%20IT%20Training%20Videos%20Platforms.md)
+* [GitHub - Resources](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/GitHub%20-%20Resources)
 * [Golden Image](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Golden%20Image.md)
 * [Google](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Google.md)
 * [Group Policies (GP)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Group%20Policies%20(GP).md)
