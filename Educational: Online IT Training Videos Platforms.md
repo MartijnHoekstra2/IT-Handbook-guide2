@@ -1,9 +1,13 @@
-##### Recommended Educational Online IT Training Videos Platforms
-* [CBT Nuggets](https://www.cbtnuggets.com/)
-* [Lynda](https://www.lynda.com/)
-* [Pluralsight](https://www.pluralsight.com/)
 
-##### Other Educational Online IT Training Videos Platforms
+* [Azure Free Online Courses](https://azure.microsoft.com/en-us/training/free-online-courses/)
+* [Azure Payed Online Courses](https://azure.microsoft.com/en-us/training/learning-paths/)
+* [CBT Nuggets](https://www.cbtnuggets.com/)
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
+* [Lynda](https://www.lynda.com/)
+* [Microsoft Azure MOOCs and Free Online Courses](https://www.mooc-list.com/tags/microsoft-azure)
+* [Microsoft Partner University](https://partneruniversity.microsoft.com/?whr=default)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/)
+* [Pluralsight](https://www.pluralsight.com/)
+* [Self-paced Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs)
 * [Udemy](https://www.udemy.com)
