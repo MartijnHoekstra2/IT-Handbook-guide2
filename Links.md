@@ -1,2 +1,2 @@
 ##### DNS
-* [OpenNIC]https://www.opennic.org/
+* [OpenNIC](https://www.opennic.org/)
