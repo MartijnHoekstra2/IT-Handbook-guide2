@@ -4,6 +4,7 @@
 * [Educational: Books](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Educational:%20Books.md)
 * [Educational: Online IT Training Videos Platforms](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Educational:%20Online%20IT%20Training%20Videos%20Platforms.md)
 * [Golden Image](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Golden%20Image.md)
+* [Google](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Google.md)
 * [Group Policies (GP)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Group%20Policies%20(GP).md)
 * [Identity and Access (IAM)](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Identity%20and%20Access%20(IAM).md)
 * [Mail Security: SPF, DKIM and DMARC](https://github.com/MartijnHoekstra2/IT-Handbook-guide/blob/master/Mail%20Security:%20SPF%2C%20DKIM%20and%20DMARC.md)
