@@ -6,7 +6,7 @@
 * [HomeAutomation](https://www.reddit.com/r/homeautomation/)
 * [HomeImprovement](https://www.reddit.com/r/HomeImprovement/)
 * [HomeLab](https://www.reddit.com/r/homelab/)
-* [HomeLab Wiki]https://www.reddit.com/r/homelab/wiki/index)
+* [HomeLab Wiki](https://www.reddit.com/r/homelab/wiki/index)
 * [HomeNetworking](https://www.reddit.com/r/HomeNetworking/)
 * [HomeSecurity](https://www.reddit.com/r/homesecurity/)
 * [HyperV](https://www.reddit.com/r/HyperV/)
