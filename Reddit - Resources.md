@@ -23,5 +23,6 @@
 * [Python](https://www.reddit.com/r/Python/)
 * [Slackware](https://www.reddit.com/r/slackware/)
 * [SysAdmin](https://www.reddit.com/r/sysadmin/)
+* [SysAdmin Wiki](https://www.reddit.com/r/sysadmin/wiki/index)
 * [Windows](https://www.reddit.com/r/windows/)
 * [Windows10](https://www.reddit.com/r/Windows10/)
