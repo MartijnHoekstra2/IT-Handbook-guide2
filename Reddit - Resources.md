@@ -20,7 +20,7 @@
 * [Networking](https://www.reddit.com/r/networking/)
 * [pfSense](https://www.reddit.com/r/PFSENSE/)
 * [PowerShell](https://www.reddit.com/r/PowerShell/)
-* [Python](https://www.reddit.com/r/Python/
+* [Python](https://www.reddit.com/r/Python/)
 * [Slackware](https://www.reddit.com/r/slackware/)
 * [SysAdmin](https://www.reddit.com/r/sysadmin/)
 * [Windows](https://www.reddit.com/r/windows/)
