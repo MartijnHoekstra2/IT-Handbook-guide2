@@ -9,6 +9,7 @@
 
 ##### DNS
 * [OpenNIC](https://www.opennic.org/)
+* [Domain Name Speed Benchmark](https://www.grc.com/dns/benchmark.htm)
 
 ##### Network Access Control
 * [PacketFence](https://packetfence.org/)
