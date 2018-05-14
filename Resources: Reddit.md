@@ -22,6 +22,7 @@
 * [pfSense](https://www.reddit.com/r/PFSENSE/)
 * [PowerShell](https://www.reddit.com/r/PowerShell/)
 * [Python](https://www.reddit.com/r/Python/)
+ * [Learn Python](https://www.reddit.com/r/learnpython/)
 * [Slackware](https://www.reddit.com/r/slackware/)
 * [SysAdmin](https://www.reddit.com/r/sysadmin/)
   * [SysAdmin Wiki](https://www.reddit.com/r/sysadmin/wiki/index)
