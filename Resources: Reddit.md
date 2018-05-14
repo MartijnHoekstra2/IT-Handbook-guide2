@@ -26,6 +26,7 @@
 * [Python](https://www.reddit.com/r/Python/)
  * [Learn Python](https://www.reddit.com/r/learnpython/)
 * [Slackware](https://www.reddit.com/r/slackware/)
+* [SQLServer](https://www.reddit.com/r/SQLServer/)
 * [SysAdmin](https://www.reddit.com/r/sysadmin/)
   * [SysAdmin Wiki](https://www.reddit.com/r/sysadmin/wiki/index)
 * [Windows](https://www.reddit.com/r/windows/)
