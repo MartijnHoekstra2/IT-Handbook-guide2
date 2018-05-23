@@ -1,3 +1,5 @@
+https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability
+
 # Mail Security: SPF, DKIM and DMARC
 [Source](http://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
 </br>
