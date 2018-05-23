@@ -7,6 +7,7 @@
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 * [Awesome Linux Resources](https://github.com/n1trux/awesome-linux)
 * [Awesome Linux Software](https://github.com/luongvo209/Awesome-Linux-Software)
+* [Awesome Network Automation](https://github.com/networktocode/awesome-network-automation/)
 * [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
 * [Awesome Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi)
 * [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
