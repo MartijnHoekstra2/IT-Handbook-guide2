@@ -1,6 +1,7 @@
 https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability
 https://serverfault.com/questions/584708/is-the-10-dns-lookup-limit-in-the-spf-spec-typically-enforced
 https://www.reddit.com/r/sysadmin/comments/8ghwjo/spf_10_dns_lookup_limit/
+https://www.reddit.com/r/sysadmin/comments/8f1hwf/dmarc_opensource_analyser_software/
 
 # Mail Security: SPF, DKIM and DMARC
 [Source](http://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
