@@ -19,6 +19,7 @@
 * [Linux Admin](https://www.reddit.com/r/linuxadmin/)
 * [Linux Dev](https://www.reddit.com/r/linuxdev/)
 * [Linux Projects](https://www.reddit.com/r/linuxprojects/)
+* [MDT](https://www.reddit.com/r/MDT/)
 * [netsec](https://www.reddit.com/r/netsec/)
 * [Networking](https://www.reddit.com/r/networking/)
 * [pfSense](https://www.reddit.com/r/PFSENSE/)
