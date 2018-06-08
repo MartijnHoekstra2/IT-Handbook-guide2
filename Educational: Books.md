@@ -6,6 +6,7 @@
    - [Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X)
    
 ##### Linux
+   - [Book review: Ed Mastery](https://www.cyberciti.biz/reviews/book-review-ed-mastery/)
    - [linux-training.be](http://linux-training.be/)
 
 ##### Networking
