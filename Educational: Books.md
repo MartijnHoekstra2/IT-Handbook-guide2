@@ -4,6 +4,9 @@
 
 ##### Cloud
    - [Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X)
+   
+##### Linux
+   - [linux-training.be](http://linux-training.be/)
 
 ##### Networking
    - [Network Warrior: Everything You Need to Know That Wasn't on the CCNA Exam](https://www.amazon.com/Network-Warrior-Everything-Need-Wasnt/dp/1449387861)
