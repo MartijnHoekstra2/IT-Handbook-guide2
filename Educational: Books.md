@@ -1,3 +1,6 @@
+[Must Read Books for SysAdmins](https://thesysadmin.zone/must-read-books-for-sysadmins-8b59e163b615)
+[Largest FREE Microsoft eBook Giveaway!](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)
+
 ##### Active Directory
    - [Active Directory, 5th Edition Designing, Deploying, and Running Active Directory](https://www.amazon.com/Active-Directory-Designing-Deploying-Running/dp/1449320023)
    - [Learn Active Directory Management in a Month of Lunches](https://www.amazon.com/Learn-Active-Directory-Management-Lunches/dp/1617291196)
