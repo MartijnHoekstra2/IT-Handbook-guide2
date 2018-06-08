@@ -4,6 +4,7 @@
 * [CBT Nuggets](https://www.cbtnuggets.com/)
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
+* [Linux Academy](https://linuxacademy.com/)
 * [Lynda](https://www.lynda.com/)
 * [Microsoft Azure MOOCs and Free Online Courses](https://www.mooc-list.com/tags/microsoft-azure)
 * [Microsoft Partner University](https://partneruniversity.microsoft.com/?whr=default)
