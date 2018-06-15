@@ -3,6 +3,8 @@ https://serverfault.com/questions/584708/is-the-10-dns-lookup-limit-in-the-spf-s
 https://www.reddit.com/r/sysadmin/comments/8ghwjo/spf_10_dns_lookup_limit/
 https://www.reddit.com/r/sysadmin/comments/8f1hwf/dmarc_opensource_analyser_software/
 https://www.reddit.com/r/sysadmin/comments/8mxd94/dmarc_safe_to_use_preject_pct100_if_all_known/
+* [SPF Wizard](https://www.spfwizard.net/)
+* [Sender Policy Framework](http://www.openspf.org/)
 
 # Mail Security: SPF, DKIM and DMARC
 [Source](http://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
