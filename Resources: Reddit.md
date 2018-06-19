@@ -24,6 +24,7 @@
 * [Networking](https://www.reddit.com/r/networking/)
 * [pfSense](https://www.reddit.com/r/PFSENSE/)
 * [PowerShell](https://www.reddit.com/r/PowerShell/)
+* [PRTG](https://www.reddit.com/r/prtg/)
 * [Python](https://www.reddit.com/r/Python/)
  * [Learn Python](https://www.reddit.com/r/learnpython/)
 * [Slackware](https://www.reddit.com/r/slackware/)
