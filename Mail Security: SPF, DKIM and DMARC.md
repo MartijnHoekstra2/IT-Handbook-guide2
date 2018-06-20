@@ -7,6 +7,7 @@ https://www.reddit.com/r/sysadmin/comments/8mxd94/dmarc_safe_to_use_preject_pct1
 * [Sender Policy Framework](http://www.openspf.org/)
 * [A free tool to monitor & implement DMARC](https://dmarc.postmarkapp.com/)
 * [DMARCian](https://dmarcian.com/
+* [SMTP Mail from External Provider - Quick Question](https://www.reddit.com/r/sysadmin/comments/8s2enh/smtp_mail_from_external_provider_quick_question/
 
 # Mail Security: SPF, DKIM and DMARC
 [Source](http://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
