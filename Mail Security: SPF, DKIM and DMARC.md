@@ -5,6 +5,8 @@ https://www.reddit.com/r/sysadmin/comments/8f1hwf/dmarc_opensource_analyser_soft
 https://www.reddit.com/r/sysadmin/comments/8mxd94/dmarc_safe_to_use_preject_pct100_if_all_known/
 * [SPF Wizard](https://www.spfwizard.net/)
 * [Sender Policy Framework](http://www.openspf.org/)
+* [A free tool to monitor & implement DMARC](https://dmarc.postmarkapp.com/)
+* [DMARCian](https://dmarcian.com/
 
 # Mail Security: SPF, DKIM and DMARC
 [Source](http://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
