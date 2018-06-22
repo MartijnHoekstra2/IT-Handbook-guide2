@@ -11,4 +11,3 @@
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Pluralsight](https://www.pluralsight.com/)
 * [Self-paced Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs)
-* [Udemy](https://www.udemy.com)
