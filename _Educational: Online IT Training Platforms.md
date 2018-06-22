@@ -2,6 +2,7 @@
 * [Azure Free Online Courses](https://azure.microsoft.com/en-us/training/free-online-courses/)
 * [Azure Payed Online Courses](https://azure.microsoft.com/en-us/training/learning-paths/)
 * [CBT Nuggets](https://www.cbtnuggets.com/)
+* [CCNA v6.0 Exam 2018](https://www.ccna7.com/)
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
 * [Linux Academy](https://linuxacademy.com/)
