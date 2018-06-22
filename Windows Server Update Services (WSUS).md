@@ -1,6 +1,12 @@
 ## Windows Server Update Services (WSUS)
- 
- #### How to identify and decline superseded updates in WSUS
+* [Deploy Windows Server Update Services](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/deploy/deploy-windows-server-update-services)
+
+
+#### WSUS WID or SQL?
+Windows Internal Database ships with the Windows operating system, and there are no additional license costs associated with it. Most organizations opt to use the Windows Internal Database to help reduce licensing costs, but it is important to note that WID will not work when installing WSUS Server in a load balancing/high availability scenario. As a result, you must choose the SQL Server database option when installing WSUS Server in a load balancing/high availability scenario.
+[Choose a WSUS storage strategy](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/plan/plan-your-wsus-deployment#wsus-database)
+
+#### How to identify and decline superseded updates in WSUS
 1. Open the Windows Update Services MMC then select the All Updates View.
 1. Set the display to show the Approval status of ‘Any except Declined’ with a Status of ‘Any’, then  Click Refresh.
 1. Right click in the title bar and Enable the ‘Supersedence’ column to make it visible.
