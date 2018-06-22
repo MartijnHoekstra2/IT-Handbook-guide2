@@ -11,3 +11,4 @@
 * [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer)
 * [BgInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
 * [WMI Explorer](https://archive.codeplex.com/?p=wmie)
+* [BCDEdit Command-Line Options](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/bcdedit-command-line-options)
