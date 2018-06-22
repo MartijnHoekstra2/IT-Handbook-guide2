@@ -1,8 +1,3 @@
-#### General
-
-test
-
-
 #### Active Directory
 * [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
 * [Get serial numbers of all Domain Computers with PowerShell](https://sid-500.com/2018/05/14/get-serial-numbers-of-all-domain-computers-by-using-windows-powershell/)
