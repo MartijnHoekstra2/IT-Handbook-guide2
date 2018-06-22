@@ -1,3 +1,16 @@
+## BIOS replacement
+* [Coreboot](https://www.coreboot.org/)
+* [Libreboot](https://libreboot.org/)
+
+## Boot solutions
+* [Hiren's Boot CD](https://www.hiren.info/pages/bootcd
+* [Hiren’s BootCD PE](https://www.hirensbootcd.org/download/
+* [Ultimate Boot CD](http://www.ultimatebootcd.com/
+* [YUMI – Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
+
+##### Additional options
+* [Zalman ZM-VE350 USB 3.0 External 2.5" Hard Drive Enclosure With Built-In Virtual CD Emulator (ZM-V350B)](https://www.amazon.com/Zalman-ZM-VE350-External-Enclosure-ZM-V350B/dp/B019C23H06
+
 ## Diagram creator
 * [Draw IO](https://www.draw.io/)
 
