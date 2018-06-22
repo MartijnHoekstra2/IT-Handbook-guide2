@@ -1,3 +1,8 @@
+* [Sysinternals Sysmon suspicious activity guide](https://blogs.technet.microsoft.com/motiba/2017/12/07/sysinternals-sysmon-suspicious-activity-guide/)
+* [Canonical Names of Control Panel Items](https://msdn.microsoft.com/en-us/library/windows/desktop/ee330741%28v=vs.85%29.aspx?f=255&MSPPError=-2147217396)
+
+
+
 ##### Cryptographic Protocols
 * [Cipher Suite Breakdown](https://blogs.technet.microsoft.com/askpfeplat/2017/12/26/cipher-suite-breakdown/)
 
