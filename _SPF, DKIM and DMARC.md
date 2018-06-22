@@ -6,7 +6,7 @@
 * [SPF 10 DNS lookup limit - option 1](https://serverfault.com/questions/584708/is-the-10-dns-lookup-limit-in-the-spf-spec-typically-enforced)
 * [SPF 10 DNS lookup limit - option 2](https://www.reddit.com/r/sysadmin/comments/8ghwjo/spf_10_dns_lookup_limit/)
 * [DMARC Check - option 1](https://www.fraudmarc.com/dmarc-check/)
-* [DMARC Check - option 2](https://dmarcian.com/dmarc-tools/
+* [DMARC Check - option 2](https://dmarcian.com/dmarc-tools/)
 * [SPF Check](https://www.fraudmarc.com/spf-record-check/)
 * [SPF Creation](https://www.spfwizard.net/)
 
