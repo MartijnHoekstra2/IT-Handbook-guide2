@@ -4,6 +4,9 @@
 ## Disk Partition Manager
 * [MiniTool Partition Wizard Free Edition](https://www.partitionwizard.com/free-partition-manager.html)
 
+## DNS
+* [Domain Name Speed Benchmark](https://www.grc.com/dns/benchmark.htm)
+
 ## File Manager
 * [Total Commander](https://www.ghisler.com/)
 
