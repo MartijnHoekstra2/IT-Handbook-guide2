@@ -11,4 +11,5 @@
 * [Microsoft Partner University](https://partneruniversity.microsoft.com/?whr=default)
 * [Microsoft Virtual Academy](https://mva.microsoft.com/)
 * [Pluralsight](https://www.pluralsight.com/)
+* [Security Traning Platform](https://ctf365.com/)
 * [Self-paced Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs)
