@@ -7,3 +7,7 @@
 * [Total Commander](https://www.ghisler.com/)
 * [Icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls)
 * [WMI - Windows Management Instrumentation](http://wutils.com/wmi/)
+* [Orca.exe](https://msdn.microsoft.com/nl-nl/library/windows/desktop/aa370557(v=vs.85).aspx)
+* [Windows Performance Analyzer](https://docs.microsoft.com/en-us/windows-hardware/test/wpt/windows-performance-analyzer)
+* [BgInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
+* [WMI Explorer](https://archive.codeplex.com/?p=wmie)
