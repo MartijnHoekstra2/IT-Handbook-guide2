@@ -11,7 +11,7 @@
 * [DMARC Check - option 2](https://dmarcian.com/dmarc-tools/)
 
 ## Gotcha's & Information
-* You can have only 1 DMARC record per (top level) domain AFAIK.
+* You can have only 1 DMARC record per (top level) domain
 * Do a check every month to see if you are not blacklisted
 * [MX Toolbox](https://mxtoolbox.com/)
 * [Lessons Learned from the US Federal Government’s Ongoing Deployment of SPF and DMARC](https://seanthegeek.net/310/spf-dmarc-federal-government-checkdmarc/)
