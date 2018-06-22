@@ -9,6 +9,8 @@ https://www.reddit.com/r/sysadmin/comments/8mxd94/dmarc_safe_to_use_preject_pct1
 * [DMARCian](https://dmarcian.com/
 * [SMTP Mail from External Provider - Quick Question](https://www.reddit.com/r/sysadmin/comments/8s2enh/smtp_mail_from_external_provider_quick_question/
 
+* [Office365 - Domain was spoofed? Need some advice](https://www.reddit.com/r/sysadmin/comments/8ssbmj/office365_domain_was_spoofed_need_some_advice/)
+
 # Mail Security: SPF, DKIM and DMARC
 [Source](http://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
 </br>
