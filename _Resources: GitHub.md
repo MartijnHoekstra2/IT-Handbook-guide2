@@ -1,5 +1,5 @@
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [Awesome AWS](https://github.com/donnemartin/awesome-aws)
+[Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+[Awesome AWS](https://github.com/donnemartin/awesome-aws)
 * [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners)
 * [Awesome CSS](https://github.com/awesome-css-group/awesome-css)
 * [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
