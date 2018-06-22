@@ -1,7 +1,7 @@
 ## SPF, DKIM and DMARC
-* [Information about SPF](http://www.openspf.org/)
-* [Information about Protection against email spoofing: SPF, DKIM and DMARC](https://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
-* [Information about how To use an SPF Record to Prevent Spoofing & Improve E-mail Reliability](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
+* [Information about: SPF](http://www.openspf.org/)
+* [Information about: Protection against email spoofing: SPF, DKIM and DMARC](https://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
+* [Information about: How to use an SPF Record to Prevent Spoofing & Improve E-mail Reliability](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
 
 * [SPF 10 DNS lookup limit - option 1](https://serverfault.com/questions/584708/is-the-10-dns-lookup-limit-in-the-spf-spec-typically-enforced)
 * [SPF 10 DNS lookup limit - option 2](https://www.reddit.com/r/sysadmin/comments/8ghwjo/spf_10_dns_lookup_limit/)
