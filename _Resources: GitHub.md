@@ -13,6 +13,7 @@
 * [Awesome-Selfhosted](https://github.com/Kickball/awesome-selfhosted)
 * [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 * [Awesome Windows](https://github.com/Awesome-Windows/)
+* [Cobbler](http://cobbler.github.io/)
 * [DevopsWiki](https://github.com/Leo-G/DevopsWiki)
 * [GAM](https://github.com/jay0lee/GAM)
 * [Gptgen](https://github.com/xorangekiller/gptgen)
