@@ -6,6 +6,7 @@
 * [Libreboot](https://libreboot.org/)
 
 ## Boot solutions
+* [Gandalf’s Windows 10PE](http://windowsmatters.com/)
 * [Hiren's Boot CD](https://www.hiren.info/pages/bootcd)
 * [Hiren’s BootCD PE](https://www.hirensbootcd.org/download/)
 * [Ultimate Boot CD](http://www.ultimatebootcd.com/)
