@@ -49,6 +49,9 @@
 ## Recover files
 * [Recuva](https://www.ccleaner.com/recuva)
 
+## Single Sign-on
+* [Shibboleth](https://www.shibboleth.net/)
+
 ## System information
 * [BgInfo](https://docs.microsoft.com/en-us/sysinternals/downloads/bginfo)
 
