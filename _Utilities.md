@@ -1,3 +1,6 @@
+## AdBlocker
+* [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=nl)
+
 ## BIOS replacement
 * [Coreboot](https://www.coreboot.org/)
 * [Libreboot](https://libreboot.org/)
@@ -38,6 +41,9 @@
 
 ## NTFS file system permissions
 * [Icacls](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/icacls)
+
+## PDF Reader
+* [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)
 
 ## Recover files
 * [Recuva](https://www.ccleaner.com/recuva)
