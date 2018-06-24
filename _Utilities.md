@@ -23,6 +23,9 @@
 ## File Manager
 * [Total Commander](https://www.ghisler.com/)
 
+## FTP-client
+* [WinSCP](https://winscp.net/eng/download.php)
+
 ## HTML5 RDP
 * [FreeRDP](https://cloudbase.it/freerdp-html5-proxy-windows/)
 * [Remotespark](http://www.remotespark.com/index.html)
