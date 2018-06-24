@@ -32,5 +32,6 @@
 * [SQLServer](https://www.reddit.com/r/SQLServer/)
 * [SysAdmin](https://www.reddit.com/r/sysadmin/)
   * [SysAdmin Wiki](https://www.reddit.com/r/sysadmin/wiki/index)
+* [Useful SysAdmin Scripts](https://www.reddit.com/r/usefulscripts/)
 * [Windows](https://www.reddit.com/r/windows/)
 * [Windows10](https://www.reddit.com/r/Windows10/)
