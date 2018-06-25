@@ -3,6 +3,7 @@
 * [Building a Windows 10 v1709 reference image using MDT](https://deploymentresearch.com/Research/Post/654/Building-a-Windows-10-v1709-reference-image-using-MDT)
 * [Microsoft Deployment Toolkit: Automate MDT image capture](https://4sysops.com/archives/microsoft-deployment-toolkit-automate-mdt-image-capture/)
 * [Cloud OS Deployment - Running MDT Task Sequences from Microsoft Intune](https://deploymentresearch.com/Research/Post/663/Cloud-OS-Deployment-Part-1-Running-MDT-Task-Sequences-from-Microsoft-Intune)
+ * [MDT: Secure the Deployment Share](https://www.ingmarverheij.com/mdt-secure-deployment-share/)
 
 #### Bootstrap.ini
 * [MDT: How to automate deployments using Bootstrap.ini](https://www.techrepublic.com/article/microsoft-deployment-toolkit-advanced-settings-for-automating-deployments-using-bootstrap-ini/)
