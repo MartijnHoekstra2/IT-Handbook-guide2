@@ -1,6 +1,3 @@
-   - [Securing Privileged Access](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access)
-   - [Securing Privileged Access Reference Material](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material)
-
 ## Prep-AD
 * [Everything you need to get started with Active Directory](https://blogs.technet.microsoft.com/ashleymcglone/2012/01/03/everything-you-need-to-get-started-with-active-directory/)
 * [Capacity Planning for Active Directory Domain Services](https://social.technet.microsoft.com/wiki/contents/articles/14355.capacity-planning-for-active-directory-domain-services.aspx)
@@ -50,6 +47,10 @@ Example:
 * [How to remove completely orphaned Domain Controller](https://support.microsoft.com/en-ca/help/555846)
 * [Best practices for domain controller decommission?](https://www.reddit.com/r/sysadmin/comments/8n8owx/best_practices_for_domain_controller_decommission/)
 * [Question: Demoting a domain controller running as a DFS namespace and wanting to keep it as a DFS namespace](https://www.reddit.com/r/sysadmin/comments/8juixh/question_demoting_a_domain_controller_running_as/)
+
+## AD Security
+* [Securing Privileged Access](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access)
+* [Securing Privileged Access Reference Material](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material)
 
 ## Others
 * [Forgot the domain admin password?](https://4sysops.com/archives/forgot-the-domain-admin-password/)
