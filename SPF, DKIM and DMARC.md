@@ -19,17 +19,23 @@
 1. Hybrid
 1. On-Premises
 
-## Steps of configuring / setup
+## Steps of configuring / setup / tips
 1. DNS: Configure DNS and PRT record
 1. SPF: Prevent spoofing
 1. DKIM: Will validates that an organization delivering an email has the right to do so
 1. DMARC: Will validated incoming messages
 1. Email security Appliance / Cloud-based / Service / Software
+1. AV on clients
 1. If possible setup a Spam confidence levels (SCL)
 1. Use a Realtime BlackList (RBL)
 1. Setup or know the Outgoing Mail Control (limit sending per user / per day)
 1. Potential configure Geo IP to block specific countries. Beaware of the redundant mail servers when using Cloud-Based
-1. Attachement filtering (Block .exe), and scan zip files atleast 2 layers deep.
+1. Attachement filtering (Block .exe), and scan zip files atleast 2 layers deep
+1. Mail reader program sandboxed. Will check links inside mails for zero-day exploits
+1. User training for example a webinar
+1. When sending out mass e-mail set a banner for legal stand point
+1. Don't post any mail addresses on your website instead of that use a contact form. Crawlers will catch your mail address
+1. Install and Configure MFA (Multi Factor Authentication)
 
 ## Gotcha's & Information
 * You can have only 1 DMARC record per (top level) domain
