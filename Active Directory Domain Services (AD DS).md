@@ -6,12 +6,14 @@
 * [Active Directory Domain Naming Considerations](https://social.technet.microsoft.com/wiki/contents/articles/17974.active-directory-domain-naming-considerations.aspx)
 
 Example:
+As an example, if I ever started a consulting business and used the Internet-facing website mdmarra.com as my company's site, I should name my Active Directory domain ad.mdmarra.com or internal.mdmarra.com, or something similar. You want to avoid making up a TLD like .local and you also want to avoid the headache of using mdmarra.com for the Internet-facing zone and the internal zone.
+
 
 ## DNS
 * [DNS servers on adapter name should include the loopback address, but not as the first entry](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/ff807362(v=ws.10))<br />
 * [DNS client and server best practices for AD](https://blogs.technet.microsoft.com/askds/2010/07/17/friday-mail-sack-saturday-edition/#dnsbest)
 
-Example of an implementation of DNS server addresses:
+Example:
 
 |                      | Domain Controller 1 | Domain Controller 2 | Domain Controller 3 |
 |----------------------|---------------------|---------------------|---------------------|
