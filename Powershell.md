@@ -19,6 +19,8 @@
 
 
 #### Active Directory
+* [List all users and group membership - part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
+* [List all users and group membership - part 2](https://www.sconstantinou.com/powershell-users-and-membership-part-2/
 * [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
 * [Get serial numbers of all Domain Computers with PowerShell](https://sid-500.com/2018/05/14/get-serial-numbers-of-all-domain-computers-by-using-windows-powershell/)
 
@@ -26,6 +28,10 @@
 * [MSOnline PowerShell for Azure Active Directory 1.1.166.0](https://www.powershellgallery.com/packages/MSOnline/1.1.166.0)
 * [Understanding PowerShell objects: an Azure VM example](https://www.yobyot.com/cloud/explain-powershell-objects-an-azure-vm-example/2018/05/21/)
 * [Using PowerShell to connect to Microsoft Azure](https://luke.geek.nz/Using-PowerShell-to-connect-to-Azure)
+
+#### Hardware Inventory
+* [Powershell Hardware inventory script - Part 1](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
+* [Powershell Hardware inventory script - Part 2](https://www.sconstantinou.com/powershell-hardware-inventory-script-part-2/)
 
 #### Office
 * [Does anybody know how to uninstall office via powershell?](https://www.reddit.com/r/sysadmin/comments/8cnpe2/does_anybody_know_how_to_uninstall_office_via/)
