@@ -14,6 +14,8 @@
 * [Powershell Redirection Operators](https://www.sconstantinou.com/powershell-redirection-operators/)
 * [Powershell Split Operator](https://www.sconstantinou.com/powershell-split-operator/)
 * [Powershell Reserverd Words](https://www.sconstantinou.com/powershell-reserved-words/)
+* [Understanding Powershell Foreach loop and Foreach-Object](http://techgenix.com/powershell-foreach-loop/)
+* [Understanding PowerShell Toolmaking](https://www.adamtheautomator.com/understanding-powershell-toolmaking/)
 
 
 
@@ -22,12 +24,18 @@
 * [List all users and group membership - Part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
 * [List all users and group membership - Part 2](https://www.sconstantinou.com/powershell-users-and-membership-part-2/)
 * [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
+* [Powershell force password change multuple users](https://www.sconstantinou.com/powershell-force-password-change-multiple-users/)
 * [Get serial numbers of all Domain Computers with PowerShell](https://sid-500.com/2018/05/14/get-serial-numbers-of-all-domain-computers-by-using-windows-powershell/)
+
+#### AWS
+* [Configuring AWS CloudWatch with PowerShell](https://www.brycematthew.net/powershell/automation/2018/06/18/Configuring-AWS-CloudWatch-With-PowerShell.html)
+* [Install AWS Tools for PowerShell Core 6.0.2](https://ridicurious.com/2018/06/06/install-aws-tools-for-powershell-core-6-0-2/)
 
 #### Azure
 * [MSOnline PowerShell for Azure Active Directory 1.1.166.0](https://www.powershellgallery.com/packages/MSOnline/1.1.166.0)
 * [Understanding PowerShell objects: an Azure VM example](https://www.yobyot.com/cloud/explain-powershell-objects-an-azure-vm-example/2018/05/21/)
 * [Using PowerShell to connect to Microsoft Azure](https://luke.geek.nz/Using-PowerShell-to-connect-to-Azure)
+* [How to Write an Azure Function in PowerShell](https://devblackops.io//how-to-write-an-azure-function-in-powershell/)
 
 #### Hardware Inventory
 * [Powershell Hardware inventory script - Part 1](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
