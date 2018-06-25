@@ -19,7 +19,7 @@
 1. Hybrid
 1. On-Premises
 
-## Step of setup
+## Steps of configuring / setup
 1. DNS: Configure DNS and PRT record
 1. SPF: Prevent spoofing
 1. DKIM: Will validates that an organization delivering an email has the right to do so
