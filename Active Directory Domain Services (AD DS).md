@@ -17,6 +17,8 @@ Below an example of an implementation of DNS server addresses<br />
 | Tertiary             |       127.0.01      |       127.0.01      |       127.0.01      |
 <br />
 
+
+## Users and Groups
 * [Active Directory Security Groups](https://docs.microsoft.com/en-us/windows/security/identity-protection/access-control/active-directory-security-groups)</br>
 * [Best Practices for Securing Active Directory](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)</br>
     
