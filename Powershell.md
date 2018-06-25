@@ -17,8 +17,20 @@
 * [Understanding Powershell Foreach loop and Foreach-Object](http://techgenix.com/powershell-foreach-loop/)
 * [Understanding PowerShell Toolmaking](https://www.adamtheautomator.com/understanding-powershell-toolmaking/)
 
-
-
+#### Powershell for Beginners
+* [PowerShell for Beginners (Part 1): The Console and the First Command](https://sid-500.com/2017/12/26/powershell-for-beginners-part-1-the-console-and-the-first-command/)
+* [PowerShell for Beginners (Part 2): The Philosophy Verb-Noun](https://sid-500.com/2017/12/28/powershell-for-beginners-part-2-the-philosophy-verb-noun/)
+* [PowerShell for Beginners (Part 3): The Parameters](https://sid-500.com/2018/01/02/powershell-for-beginners-part-3-the-parameters/)
+* [PowerShell for Beginners (Part 4): The PowerShell Help (Get-Help)](https://sid-500.com/2018/01/06/powershell-for-beginners-part-4-the-help/)
+* [PowerShell for Beginners (Part 5): The Execution Policy (ps1 Files)](https://sid-500.com/2018/01/10/powershell-for-beginners-part-5-the-execution-policy-ps1-files/)
+* [PowerShell for Beginners (Part 6): PowerShell Profiles and the ISE](https://sid-500.com/2018/01/16/powershell-for-beginners-part-6-powershell-profiles-and-the-ise/)
+* [PowerShell for Beginners (Part 7): The Pipe (and many examples to play with)](https://sid-500.com/2018/01/25/powershell-for-beginners-part-7-the-format-commands-and-the-pipe/)
+* [PowerShell for Beginners (Part 8): The Power of PowerShell – Getting in Touch with Objects (Get-Member, Select-Object)](https://sid-500.com/2018/01/28/powershell-for-beginners-part-8-the-power-of-powershell-getting-in-touch-with-objects-get-member-select-object/)
+* [PowerShell for Beginners (Part 9): Get it all from Windows with PowerShell and WMI](https://sid-500.com/2018/02/01/powershell-for-beginners-part-9-get-it-all-from-windows-with-powershell-and-wmi/)
+* [PowerShell for Beginners (Part 10): Filtering and Where-Object](https://sid-500.com/2018/02/15/powershell-for-beginners-part-10-filtering-and-where-object/)
+* [PowerShell for Beginners (Part 11): Having fun with PowerShell Drives](https://sid-500.com/2018/02/20/powershell-for-beginners-part-11-having-fun-with-powershell-drives/)
+* [PowerShell for Beginners (Part 12): PowerShell Modules](https://sid-500.com/2018/04/10/powershell-for-beginners-part-12-powershell-modules/)
+* [PowerShell for Beginners (Part 13): PowerShell Remoting](https://sid-500.com/2018/06/25/powershell-for-beginners-part-13-powershell-remoting/)
 
 #### Active Directory
 * [List all users and group membership - Part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
