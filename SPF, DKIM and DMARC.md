@@ -8,16 +8,23 @@
 * [SPF Creation](https://www.spfwizard.net/)
 * [SPF 10 DNS lookup limit - option 1](https://serverfault.com/questions/584708/is-the-10-dns-lookup-limit-in-the-spf-spec-typically-enforced)
 * [SPF 10 DNS lookup limit - option 2](https://www.reddit.com/r/sysadmin/comments/8ghwjo/spf_10_dns_lookup_limit/)
+* [What is an SPF Record](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
+* [What is an DKIM Record](https://support.dnsimple.com/articles/dkim-record/)
 * [DMARC Check - option 1](https://www.fraudmarc.com/dmarc-check/)
 * [DMARC Check - option 2](https://dmarcian.com/dmarc-tools/)
+* [DMARC Record Published](https://mxtoolbox.com/problem/dmarc/dmarc-record-published)
 
 ## Types of mail
 1. Cloud-Based
 1. Hybrid
 1. On-Premises
 
-# DNS
-1. Reverse DNS and PTR record configuration
+## Step of setup
+1. DNS: Reverse DNS and PTR record configuration
+1. SPF: Setup a SPF record to prevent spoofing
+1. DKIM: Setup an DKIM record. This will validates that an organization delivering an email has the right to do so
+1. DMARC: Will validated incoming messages
+1. 
 
 ## Gotcha's & Information
 * You can have only 1 DMARC record per (top level) domain
