@@ -11,6 +11,14 @@
 * [DMARC Check - option 1](https://www.fraudmarc.com/dmarc-check/)
 * [DMARC Check - option 2](https://dmarcian.com/dmarc-tools/)
 
+## Types of mail
+1. Cloud-Based
+1. Hybrid
+1. On-Premises
+
+# DNS
+1. Reverse DNS and PTR record configuration
+
 ## Gotcha's & Information
 * You can have only 1 DMARC record per (top level) domain
 * Do a check every month to see if you are not blacklisted
