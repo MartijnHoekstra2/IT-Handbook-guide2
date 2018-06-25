@@ -1,3 +1,23 @@
+#### Powershell Commands
+1. [Useful Powershell Commands]https://www.sconstantinou.com/useful-powershell-commands/)
+1. [Powershell Comments](https://www.sconstantinou.com/powershell-comments/)
+1. [Powershell Comparison Operators](https://www.sconstantinou.com/powershell-comparison-operators/)
+1. [Powreshell Logical Operators](https://www.sconstantinou.com/powershell-logical-operators/)
+1. [Powershell Commands Structure](https://www.sconstantinou.com/powershell-commands-structure/)
+1. [Powershell Format Output View](https://www.sconstantinou.com/powershell-format-output-view/)
+1. [Powershell Data Format](https://www.sconstantinou.com/powershell-date-format/)
+1. [Powershell Quotes](https://www.sconstantinou.com/powershell-quotes/)
+1. [Powershell Command History](https://www.sconstantinou.com/powershell-command-history/)
+1. [Powershell Arithmetic Operators](https://www.sconstantinou.com/powershell-arithmetic-operators/)
+1. [Powershell Join Operator](https://www.sconstantinou.com/powershell-join-operator/)
+1. [Powershell Assignment Operators](https://www.sconstantinou.com/powershell-assignment-operators/)
+1. [Powershell Redirection Operators](https://www.sconstantinou.com/powershell-redirection-operators/)
+1. [Powershell Split Operator](https://www.sconstantinou.com/powershell-split-operator/)
+1. [Powershell Reserverd Words](https://www.sconstantinou.com/powershell-reserved-words/)
+
+
+
+
 #### Active Directory
 * [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
 * [Get serial numbers of all Domain Computers with PowerShell](https://sid-500.com/2018/05/14/get-serial-numbers-of-all-domain-computers-by-using-windows-powershell/)
