@@ -1,5 +1,5 @@
 ## WiFI
-* Always use as few SSIDs as possible, as they consume quite a bit of airtime
+* Always use as few SSIDs as possible, as they consume quite a bit of airtime(overhead)
 * Block all outbound ports except common ones: 21, 22, 23, proxy 53 to dns filter, proxy 80, 443
 * Don't forget to deny inter-user bridging (Aruba-speak for stopping devices talking to other devices on the vlan)
 * Guests gets full access to the internet but primary network has full priority
