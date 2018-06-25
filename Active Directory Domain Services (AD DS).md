@@ -13,6 +13,7 @@ As an example, if I ever started a consulting business and used the Internet-fac
 * [DNS client and server best practices for AD](https://blogs.technet.microsoft.com/askds/2010/07/17/friday-mail-sack-saturday-edition/#dnsbest)
 
 Example:
+
 |                      | Domain Controller 1 | Domain Controller 2 | Domain Controller 3 |
 |----------------------|---------------------|---------------------|---------------------|
 | Preferred DNS server | Domain Controller 2 | Domain Controller 1 | Domain Controller 1 |
