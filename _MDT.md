@@ -1,4 +1,5 @@
 ## Microsoft Deployment Toolkit
+* [Windows 10 Reference Image](https://www.reddit.com/r/sysadmin/comments/8oo0qw/windows_10_reference_image/)
 * [Deploy Windows 10 with the Microsoft Deployment Toolkit](https://docs.microsoft.com/en-us/windows/deployment/deploy-windows-mdt/deploy-windows-10-with-the-microsoft-deployment-toolkit)
 * [Building a Windows 10 v1709 reference image using MDT](https://deploymentresearch.com/Research/Post/654/Building-a-Windows-10-v1709-reference-image-using-MDT)
 * [Microsoft Deployment Toolkit: Automate MDT image capture](https://4sysops.com/archives/microsoft-deployment-toolkit-automate-mdt-image-capture/)
