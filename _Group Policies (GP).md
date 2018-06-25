@@ -5,6 +5,7 @@
   - [How to see which Group Policies are Applied to Your PC and User Account](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult)
   - [Microsoft Security Compliance Toolkit 1.0](https://www.microsoft.com/en-us/download/details.aspx?id=55319)
   - How to export all group policies to HTML
+
     Get-GPO -all | % { Get-GPOReport -GUID $_.id -ReportType HTML -Path "C:\GPOExport\$($_.displayName).html" }
   - 
   
