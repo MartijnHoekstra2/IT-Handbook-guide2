@@ -19,8 +19,8 @@
 
 
 #### Active Directory
-* [List all users and group membership - part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
-* [List all users and group membership - part 2](https://www.sconstantinou.com/powershell-users-and-membership-part-2/)
+* [List all users and group membership - Part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
+* [List all users and group membership - Part 2](https://www.sconstantinou.com/powershell-users-and-membership-part-2/)
 * [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
 * [Get serial numbers of all Domain Computers with PowerShell](https://sid-500.com/2018/05/14/get-serial-numbers-of-all-domain-computers-by-using-windows-powershell/)
 
