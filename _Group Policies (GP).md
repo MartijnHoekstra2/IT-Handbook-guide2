@@ -21,6 +21,8 @@
           - Always wait for the network at computer startup and logon
       -  System/Power Management/Video and Display Settings
           - Turn off the display (plugged in)
+      -  System / Server Manager
+          - Do not display Server Manager automatically at logon
        - Windows Components/Cloud Content
           - Do not show Windows tips
           - Turn off Microsoft consumer experiences
