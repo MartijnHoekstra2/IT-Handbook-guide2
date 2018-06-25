@@ -1,4 +1,5 @@
 ## SPF, DKIM and DMARC
+* [Microsoft SPF, DKIM & DMARC Information](https://blogs.technet.microsoft.com/fasttracktips/2016/07/16/spf-dkim-dmarc-and-exchange-online/)
 * [Information about: SPF](http://www.openspf.org/)
 * [Information about: Protection against email spoofing: SPF, DKIM and DMARC](https://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
 * [Information about: How to use an SPF Record to Prevent Spoofing & Improve E-mail Reliability](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
