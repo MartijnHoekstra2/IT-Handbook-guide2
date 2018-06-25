@@ -1,5 +1,5 @@
 #### Powershell Commands
-1. [Useful Powershell Commands]https://www.sconstantinou.com/useful-powershell-commands/)
+1. [Useful Powershell Commands](https://www.sconstantinou.com/useful-powershell-commands/)
 1. [Powershell Comments](https://www.sconstantinou.com/powershell-comments/)
 1. [Powershell Comparison Operators](https://www.sconstantinou.com/powershell-comparison-operators/)
 1. [Powreshell Logical Operators](https://www.sconstantinou.com/powershell-logical-operators/)
