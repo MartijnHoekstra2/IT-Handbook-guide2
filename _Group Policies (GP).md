@@ -45,4 +45,19 @@
 
 
 ## User Configuration
-  - 
+  - Preferences
+    - Control Panel Settings
+      - Folder Options
+        - Folder Options (At least Windows Vista)
+          - Show hidden files and folders
+          - Hide extensions for know file types > Uncheck
+
+
+
+## Computer Configuration
+  - Policies
+    - Administrative Templates
+      - Control Panel/Personalization
+          - Do not display the lock screen
+      - Network/DNS Client
+          - Turn off multicast name resolution
