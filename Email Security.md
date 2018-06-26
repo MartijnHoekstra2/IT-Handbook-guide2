@@ -1,27 +1,33 @@
-## SPF, DKIM and DMARC
+## General information
 * [Microsoft SPF, DKIM & DMARC Information](https://blogs.technet.microsoft.com/fasttracktips/2016/07/16/spf-dkim-dmarc-and-exchange-online/)
-* [Information about: SPF](http://www.openspf.org/)
-* [Information about: Protection against email spoofing: SPF, DKIM and DMARC](https://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
-* [Information about: How to use an SPF Record to Prevent Spoofing & Improve E-mail Reliability](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
 
+#### SPF
 * [SPF Check](https://www.fraudmarc.com/spf-record-check/)
 * [SPF Creation](https://www.spfwizard.net/)
 * [SPF 10 DNS lookup limit - option 1](https://serverfault.com/questions/584708/is-the-10-dns-lookup-limit-in-the-spf-spec-typically-enforced)
 * [SPF 10 DNS lookup limit - option 2](https://www.reddit.com/r/sysadmin/comments/8ghwjo/spf_10_dns_lookup_limit/)
 * [What is an SPF Record](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
+* [Information about: SPF](http://www.openspf.org/)
+* [Information about: Protection against email spoofing: SPF, DKIM and DMARC](https://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
+* [Information about: How to use an SPF Record to Prevent Spoofing & Improve E-mail Reliability](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
+
+#### DKIM
 * [What is an DKIM Record](https://support.dnsimple.com/articles/dkim-record/)
+
+#### DMARC
 * [DMARC Check - option 1](https://www.fraudmarc.com/dmarc-check/)
 * [DMARC Check - option 2](https://dmarcian.com/dmarc-tools/)
 * [DMARC Record Published](https://mxtoolbox.com/problem/dmarc/dmarc-record-published)
+
 
 ## Types of mail
 1. Cloud-Based
 1. Hybrid
 1. On-Premises
 
-## Steps of configuring / setup / tips
+## Steps of Configuring / Options / Setup / Tips
 1. DNS: Configure DNS and PRT record
-1. SPF: Prevent spoofing
+1. SPF: Prevents spoofing
 1. DKIM: Will validates that an organization delivering an email has the right to do so
 1. DMARC: Will validated incoming messages
 1. Email security Appliance / Cloud-based / Service / Software
