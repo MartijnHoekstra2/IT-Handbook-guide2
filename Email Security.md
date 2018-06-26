@@ -1,4 +1,4 @@
-## E-mail Security
+## Email Security
 * [Lessons Learned from the US Federal Government’s Ongoing Deployment of SPF and DMARC](https://seanthegeek.net/310/spf-dmarc-federal-government-checkdmarc/)
 * [Microsoft SPF, DKIM & DMARC Information](https://blogs.technet.microsoft.com/fasttracktips/2016/07/16/spf-dkim-dmarc-and-exchange-online/)
 
@@ -10,7 +10,7 @@
 * [What is an SPF Record](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
 * [Information about: SPF](http://www.openspf.org/)
 * [Information about: Protection against email spoofing: SPF, DKIM and DMARC](https://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
-* [Information about: How to use an SPF Record to Prevent Spoofing & Improve E-mail Reliability](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
+* [Information about: How to use an SPF Record to Prevent Spoofing & Improve Email Reliability](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
 
 ##### DKIM
 * [What is an DKIM Record](https://support.dnsimple.com/articles/dkim-record/)
@@ -21,7 +21,7 @@
 * [DMARC Check - option 3](https://dmarc.org/resources/products-and-services/)
 * [DMARC Record Published](https://mxtoolbox.com/problem/dmarc/dmarc-record-published)
 
-## Types of mail
+## Types of Email
 1. Cloud-Based
 1. Hybrid
 1. On-Premises
@@ -36,16 +36,16 @@
 1. If possible setup a Spam confidence levels (SCL)
 1. Use a Realtime BlackList (RBL)
 1. Setup or know the Outgoing Mail Control (limit sending per user / per day)
-1. Potential configure Geo IP to block specific countries. Beaware of the redundant mail servers when using Cloud-Based
+1. Potential configure Geo IP to block specific countries. Beaware of the redundant email servers when using Cloud-Based
 1. Attachement filtering (Block .exe) and scan zip files atleast 2 layers deep
 1. If available use some sort of Advanced Threat Protection (Link reading / Sandboxing) 
 1. Configure the SPAM filter
 1. Sender ID Filtering
 1. Configure SPF Record Hard/Soft fail
-1. E-mail encryption (TLS if available)
+1. Email encryption (TLS if available)
 1. User training for example a webinar
-1. When sending out mass e-mail set a banner for legal stand point
-1. Don't post any mail addresses on your website instead of that use a contact form. Crawlers will catch your mail address
+1. When sending out mass email set a banner for legal stand point
+1. Don't post any email addresses on your website instead of that use a contact form. Crawlers will catch your mail address
 1. Install and Configure MFA (Multi Factor Authentication)
 
 ## Gotcha's
