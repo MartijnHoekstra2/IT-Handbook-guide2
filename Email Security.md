@@ -47,6 +47,7 @@
 1. When sending out mass email set a banner for legal stand point
 1. Don't post any email addresses on your website instead of that use a contact form. Crawlers will catch your mail address
 1. Install and Configure MFA (Multi Factor Authentication)
+1. Port 25 outbound should be blocked for anything that's not a mail server. Of course exceptions can be made on a case by case basis.
 
 ## Gotcha's
 * You can have only 1 DMARC record per (top level) domain
