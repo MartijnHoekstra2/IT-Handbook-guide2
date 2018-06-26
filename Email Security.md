@@ -18,6 +18,7 @@
 ##### DMARC
 * [DMARC Check - option 1](https://www.fraudmarc.com/dmarc-check/)
 * [DMARC Check - option 2](https://dmarcian.com/dmarc-tools/)
+* [DMARC Check - option 3](https://dmarc.org/resources/products-and-services/)
 * [DMARC Record Published](https://mxtoolbox.com/problem/dmarc/dmarc-record-published)
 
 ## Types of mail
