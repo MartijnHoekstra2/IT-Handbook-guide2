@@ -1,7 +1,7 @@
 ## General information
 * [Microsoft SPF, DKIM & DMARC Information](https://blogs.technet.microsoft.com/fasttracktips/2016/07/16/spf-dkim-dmarc-and-exchange-online/)
 
-#### SPF
+##### SPF
 * [SPF Check](https://www.fraudmarc.com/spf-record-check/)
 * [SPF Creation](https://www.spfwizard.net/)
 * [SPF 10 DNS lookup limit - option 1](https://serverfault.com/questions/584708/is-the-10-dns-lookup-limit-in-the-spf-spec-typically-enforced)
@@ -11,10 +11,10 @@
 * [Information about: Protection against email spoofing: SPF, DKIM and DMARC](https://techblog.exonet.nl/2017-02-03-spf-dkim-dmarc)
 * [Information about: How to use an SPF Record to Prevent Spoofing & Improve E-mail Reliability](https://www.digitalocean.com/community/tutorials/how-to-use-an-spf-record-to-prevent-spoofing-improve-e-mail-reliability)
 
-#### DKIM
+##### DKIM
 * [What is an DKIM Record](https://support.dnsimple.com/articles/dkim-record/)
 
-#### DMARC
+##### DMARC
 * [DMARC Check - option 1](https://www.fraudmarc.com/dmarc-check/)
 * [DMARC Check - option 2](https://dmarcian.com/dmarc-tools/)
 * [DMARC Record Published](https://mxtoolbox.com/problem/dmarc/dmarc-record-published)
