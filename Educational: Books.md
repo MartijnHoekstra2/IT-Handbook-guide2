@@ -27,6 +27,8 @@
 * [Learn Windows PowerShell in a Month of Lunches](https://www.amazon.com/gp/product/1617294160/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1617294160&linkId=dd9a54c2a999fa54e8d9bbc16f55a092)
 * [PowerShell in Depth](https://www.amazon.com/gp/product/1617292184/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1617292184&linkId=7641c2fb682f7cf5d931b12af3ce3d47)
 * [Windows PowerShell in Action, Second Edition](https://www.amazon.com/gp/product/1935182137/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1935182137&linkId=e0fc38170af2db24ef165f5996ac2800)
+* [Online Powershell PDF's collection](https://legacy.gitbook.com/@devops-collective-inc)
+* [Learn Powershell in a Month of Lunches](https://github.com/TechBookHunter/Free-DevOps-Books/blob/master/book/Learn%20Windows%20PowerShell%203%20in%20a%20Month%20of%20Lunches.pdf)
 
 ## Python
 * [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/gp/product/1491946008/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491946008&linkId=a4740333935db1d27420daea06debbdc)
