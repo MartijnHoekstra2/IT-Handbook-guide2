@@ -54,6 +54,7 @@
 * [Understanding PowerShell objects: an Azure VM example](https://www.yobyot.com/cloud/explain-powershell-objects-an-azure-vm-example/2018/05/21/)
 * [Using PowerShell to connect to Microsoft Azure](https://luke.geek.nz/Using-PowerShell-to-connect-to-Azure)
 * [How to Write an Azure Function in PowerShell](https://devblackops.io//how-to-write-an-azure-function-in-powershell/)
+* [Azure and Windows PowerShell: Getting Information]https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-and-windows-powershell-getting-information/
 
 #### Hardware Inventory
 * [Powershell Hardware inventory script - Part 1](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
