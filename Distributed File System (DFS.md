@@ -2,6 +2,8 @@
 * [DFS Namespaces overview](https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview)
 * [Tuning replication performance in DFSR - especially on Win2008 R2](https://blogs.technet.microsoft.com/askds/2010/03/31/tuning-replication-performance-in-dfsr-especially-on-win2008-r2/)
 * [Five ways to check your DFS-Namespaces DFS-N configuration with the DFSDIAG.EXE tool](https://blogs.technet.microsoft.com/josebda/2009/07/15/five-ways-to-check-your-dfs-namespaces-dfs-n-configuration-with-the-dfsdiag-exe-tool/)
+* [Three ways to design your DFS Namespaces](https://blogs.technet.microsoft.com/josebda/2009/08/21/three-ways-to-design-your-dfs-namespaces/)
+* [Common DFSN Configuration Mistakes and Oversights](https://blogs.technet.microsoft.com/askds/2012/07/24/common-dfsn-configuration-mistakes-and-oversights/)
 
 ## DFS Replication
 * [DFS Replication in Windows Server 2012 R2: If You Only Knew the Power of the Dark Shell](https://blogs.technet.microsoft.com/filecab/2013/08/20/dfs-replication-in-windows-server-2012-r2-if-you-only-knew-the-power-of-the-dark-shell/)
@@ -22,6 +24,7 @@
 * [NTFS Permissions Reporter Free Edition](http://www.cjwdev.com/Software/NtfsReports/Info.html)
 * [Access Enum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 * [Powershell Export Folder Permissions to CSV file](https://community.spiceworks.com/scripts/show/1070-export-folder-permissions-to-csv-file)
+* [Forensics: Active Directory ACL investigation](https://blogs.technet.microsoft.com/pfesweplat/2017/01/28/forensics-active-directory-acl-investigation/)
 
 ## Information
 1. Give authenticated users share permission and control access with NTFS permissions
