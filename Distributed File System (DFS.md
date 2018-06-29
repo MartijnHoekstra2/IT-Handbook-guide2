@@ -28,7 +28,8 @@
 1. Enable deduplication on both servers if there are multi
 1. DFS Info
   1. DFS Namespaces (DFS-N) does not require DFS Replication (DFS-R) to work.
-  1. 
+  1. If you choose to use DFS-R, don't enable it for all shares right off the bat - test with one.
+  1. If you do use DFS-N with multiple targets (assuming you are using DFS-R to keep the targets in sync) - do NOT allow round-robin. Always set one target to primary, and the other as failover (unless you have some branch locations but you probably want to start looking into Branch Cache at that point)
   
   
   https://www.reddit.com/r/sysadmin/comments/87rzd0/learning_dfs/?st=jfbcb1c0&sh=c6050211
