@@ -15,7 +15,7 @@
 ## Tools
 * [NTFS Permissions Reporter Free Edition](http://www.cjwdev.com/Software/NtfsReports/Info.html)
 * [Access Enum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
-* [Powershell Export Folder Permissions to CSV file](https://community.spiceworks.com/scripts/show/1070-export-folder-permissions-to-csv-file
+* [Powershell Export Folder Permissions to CSV file](https://community.spiceworks.com/scripts/show/1070-export-folder-permissions-to-csv-file)
 
 ## Information
 1. Give authenticated users share permission and control access with NTFS permissions
