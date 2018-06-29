@@ -9,7 +9,8 @@
 * [Lynda](https://www.lynda.com/)
 * [Microsoft Azure MOOCs and Free Online Courses](https://www.mooc-list.com/tags/microsoft-azure)
 * [Microsoft Partner University](https://partneruniversity.microsoft.com/?whr=default)
-* [Microsoft Virtual Academy](https://mva.microsoft.com/)
+* [Microsoft Virtual Academy](https://mva.microsoft.com/).
+* [Office 365: Administration](https://support.office.com/en-us/article/office-365-administration-81d31f7b-2ada-4ecb-83d6-20972025be94?ui=en-US&rs=en-US&ad=US)
 * [Pluralsight](https://www.pluralsight.com/)
 * [Security Traning Platform](https://ctf365.com/)
 * [Self-paced Labs](https://www.microsoft.com/handsonlabs/SelfPacedLabs)
