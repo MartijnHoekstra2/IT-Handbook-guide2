@@ -1,4 +1,5 @@
 ## DFS Namespace
+* [DFS Namespaces overview](https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview)
 * [Tuning replication performance in DFSR - especially on Win2008 R2](https://blogs.technet.microsoft.com/askds/2010/03/31/tuning-replication-performance-in-dfsr-especially-on-win2008-r2/)
 
 ## DFS Replication
