@@ -21,7 +21,7 @@
 * [Techdays 2011 - Role-Based Management Extreme Makeover](https://www.youtube.com/watch?v=IKzokBgCp60)
 
 ## Tools
-* [NTFS Permissions Reporter Free Edition](http://www.cjwdev.com/Software/NtfsReports/Info.html)
+* [NTFS Permissions Reporter Free Edition](http://cjwdev.co.uk/Software/NtfsReports/Info.html)
 * [Access Enum](https://docs.microsoft.com/en-us/sysinternals/downloads/accessenum)
 * [Powershell Export Folder Permissions to CSV file](https://community.spiceworks.com/scripts/show/1070-export-folder-permissions-to-csv-file)
 * [Forensics: Active Directory ACL investigation](https://blogs.technet.microsoft.com/pfesweplat/2017/01/28/forensics-active-directory-acl-investigation/)
