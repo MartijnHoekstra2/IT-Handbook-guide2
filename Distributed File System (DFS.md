@@ -1,10 +1,16 @@
 ## DFS Namespace
 * [DFS Namespaces overview](https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview)
 * [Tuning replication performance in DFSR - especially on Win2008 R2](https://blogs.technet.microsoft.com/askds/2010/03/31/tuning-replication-performance-in-dfsr-especially-on-win2008-r2/)
+* [Five ways to check your DFS-Namespaces DFS-N configuration with the DFSDIAG.EXE tool](https://blogs.technet.microsoft.com/josebda/2009/07/15/five-ways-to-check-your-dfs-namespaces-dfs-n-configuration-with-the-dfsdiag-exe-tool/)
 
 ## DFS Replication
+* [DFS Replication in Windows Server 2012 R2: If You Only Knew the Power of the Dark Shell](https://blogs.technet.microsoft.com/filecab/2013/08/20/dfs-replication-in-windows-server-2012-r2-if-you-only-knew-the-power-of-the-dark-shell/)
+* [Having DFSR issues, need suggestions on how to fix this](https://www.reddit.com/r/sysadmin/comments/7we7hs/having_dfsr_issues_need_suggestions_on_how_to_fix/)
+* [Common DFSR Configuration Mistakes and Oversights](https://blogs.technet.microsoft.com/askds/2010/11/01/common-dfsr-configuration-mistakes-and-oversights/)
 
 ## Others
+* [Access-Based Enumeration ABE Concepts part 1](https://blogs.technet.microsoft.com/askds/2016/09/01/access-based-enumeration-abe-concepts-part-1-of-2/)
+* [Access-Based Enumeration ABE Concepts part 2](https://blogs.technet.microsoft.com/askds/2016/09/21/access-based-enumeration-abe-troubleshooting-part-2-of-2/)
 * [Microsoft File Server Migration Toolkit 1.2](https://www.microsoft.com/en-us/download/details.aspx?id=10268)
 * [NTFSSecurity Tutorial 1 – Getting, adding and removing permissions](https://blogs.technet.microsoft.com/fieldcoding/2014/12/05/ntfssecurity-tutorial-1-getting-adding-and-removing-permissions/)
 * [NTFSSecurity Tutorial 2 – Managing NTFS Inheritance and Using Privileges](https://blogs.technet.microsoft.com/fieldcoding/2014/12/05/ntfssecurity-tutorial-2-managing-ntfs-inheritance-and-using-privileges/)
@@ -19,6 +25,7 @@
 
 ## Information
 1. Give authenticated users share permission and control access with NTFS permissions
+1. Enable deduplication on both servers if there are multi
 1. DFS Info
   1. DFS Namespaces (DFS-N) does not require DFS Replication (DFS-R) to work.
   1. 
