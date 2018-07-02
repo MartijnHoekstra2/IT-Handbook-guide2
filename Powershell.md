@@ -14,6 +14,7 @@
 * [Powershell Redirection Operators](https://www.sconstantinou.com/powershell-redirection-operators/)
 * [Powershell Split Operator](https://www.sconstantinou.com/powershell-split-operator/)
 * [Powershell Reserverd Words](https://www.sconstantinou.com/powershell-reserved-words/)
+* [Powershell Special Characters](https://www.sconstantinou.com/powershell-special-characters/)
 
 #### Powershell for Beginners
 * [PowerShell for Beginners (Part 1): The Console and the First Command](https://sid-500.com/2017/12/26/powershell-for-beginners-part-1-the-console-and-the-first-command/)
