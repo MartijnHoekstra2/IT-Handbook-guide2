@@ -10,6 +10,7 @@
 * [About Office 365 admin roles](https://support.office.com/en-us/article/about-office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d)
 * [Manage Office 365 with Office 365 PowerShell](https://docs.microsoft.com/en-us/office365/enterprise/powershell/manage-office-365-with-office-365-powershell)
 * [SMTP Relay in Office 365 environment | Part 3#4](https://o365info.com/smtp-relay-in-office-365-environment/)
+* [O365 Can't send emails - Service Interruption?](https://www.reddit.com/r/sysadmin/comments/8vissw/o365_cant_send_emails_service_interruption/)
 
 ## Others
 * [X500 addresses – where is the beef?](https://paweljarosz.wordpress.com/2017/12/14/x500-addresses-where-is-the-beef/)
