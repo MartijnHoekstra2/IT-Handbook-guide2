@@ -58,6 +58,8 @@ Example:
 * [Any way to send Active Directory users email after 30 days of inactivity?](https://www.reddit.com/r/sysadmin/comments/8fujc1/any_way_to_send_active_directory_users_email/)
 * [How to create and verify and Active Directory forest external trust](http://techgenix.com/active-directory-forest-external-trust/)
 * [Active Directory Flexible Single-Master (FSMO) in Action](https://sid-500.com/2017/11/19/active-directory-flexible-single-master-fsmo-in-action/)
+* [Understanding Urgent Replication](https://blogs.technet.microsoft.com/kenstcyr/2008/07/05/understanding-urgent-replication/)
+
 
 ## AD DS - Tools 
 * [Repadmin](http://techgenix.com/repadmin-tool/)
