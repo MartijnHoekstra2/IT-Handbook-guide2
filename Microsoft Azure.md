@@ -11,6 +11,7 @@
 * [Create Azure VMs with PowerShell Part 2](https://www.red-gate.com/simple-talk/sysadmin/powershell/create-azure-vms-powershell-part-2/)
 
 ## SSO
+* [Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso)
 * [Overview of Single Sign-On](https://azure.microsoft.com/en-us/resources/videos/overview-of-single-sign-on/)
 * [What is application access and single sign-on with Azure Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on)
 
