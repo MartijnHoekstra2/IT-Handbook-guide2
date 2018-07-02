@@ -1,5 +1,6 @@
 ## SQL
 * [SQL Server Installation](https://docs.microsoft.com/en-us/sql/database-engine/install-windows/installation-for-sql-server?view=sql-server-2017)
+* [SQL Server Load Balancing](https://www.reddit.com/r/sysadmin/comments/8utsxd/sql_server_load_balancing/)
 
 #### Tools
 * [Microsoft® Data Migration Assistant v3.5](https://www.microsoft.com/en-us/download/details.aspx?id=53595)
