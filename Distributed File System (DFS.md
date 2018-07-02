@@ -16,6 +16,7 @@
 * [Microsoft File Server Migration Toolkit 1.2](https://www.microsoft.com/en-us/download/details.aspx?id=10268)
 * [NTFSSecurity Tutorial 1 – Getting, adding and removing permissions](https://blogs.technet.microsoft.com/fieldcoding/2014/12/05/ntfssecurity-tutorial-1-getting-adding-and-removing-permissions/)
 * [NTFSSecurity Tutorial 2 – Managing NTFS Inheritance and Using Privileges](https://blogs.technet.microsoft.com/fieldcoding/2014/12/05/ntfssecurity-tutorial-2-managing-ntfs-inheritance-and-using-privileges/)
+* [Windows Server: Deleting ISOs (and .vhd/.vhdx) does not actually free up space..? (mostly a curiosity)](https://www.reddit.com/r/sysadmin/comments/8vhmlz/windows_server_deleting_isos_and_vhdvhdx_does_not/)
 
 ## Youtube
 * [Techdays 2011 - Role-Based Management Extreme Makeover](https://www.youtube.com/watch?v=IKzokBgCp60)
