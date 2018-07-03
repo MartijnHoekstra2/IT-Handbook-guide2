@@ -4,6 +4,7 @@
 * [Datacenter](https://www.reddit.com/r/datacenter/)
 * [DNS](https://www.reddit.com/r/dns/)
 * [FAQ](https://www.reddit.com/r/sysadmin/wiki/faq#wiki_which_systems_administration_sites_do_you_check_on_a_daily_basis.3F)
+* [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start)
 * [Help](https://www.reddit.com/r/helpdesk/)
 * [HomeAutomation](https://www.reddit.com/r/homeautomation/)
 * [HomeImprovement](https://www.reddit.com/r/HomeImprovement/)
