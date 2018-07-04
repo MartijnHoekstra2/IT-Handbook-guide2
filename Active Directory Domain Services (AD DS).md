@@ -4,6 +4,7 @@
 * [PowerShell: How to install a Domain Controller with Server Core](https://sid-500.com/2017/07/01/powershell-how-to-install-a-domain-controller-with-server-core/)
 * [Setting up Active Directory via PowerShell](https://blogs.technet.microsoft.com/uktechnet/2016/06/08/setting-up-active-directory-via-powershell/)
 * [Set Up Child Domain on Windows Server 2016](http://www.itprotoday.com/windows-8/set-child-domain-windows-server-2016)
+* [Why you shouldn't use .local in your Active Directory domain name](http://www.mdmarra.com/2012/11/why-you-shouldnt-use-local-in-your.html)
 
 ## Active Directory Domain Services (AD DS)
 * [Active Directory Domain Services 2016](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
