@@ -19,3 +19,4 @@ Windows Internal Database ships with the Windows operating system, and there are
  #### Gotcha's
 * [Demystifying “Dual Scan”](https://blogs.technet.microsoft.com/wsus/2017/05/05/demystifying-dual-scan/)
 * [Fixing WSUS - When the Best Defense is a Good Offense](https://deploymentresearch.com/Research/Post/665/Fixing-WSUS-When-the-Best-Defense-is-a-Good-Offense)
+* [What are the correct WSUS GPO settings so that Windows 10 clients will never see updates unless I specifically approve them in WSUS?](https://www.reddit.com/r/sysadmin/comments/8vst6u/what_are_the_correct_wsus_gpo_settings_so_that/)
