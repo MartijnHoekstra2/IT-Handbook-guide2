@@ -2,7 +2,7 @@
 * [Useful Powershell Commands](https://www.sconstantinou.com/useful-powershell-commands/)
 * [Powershell Comments](https://www.sconstantinou.com/powershell-comments/)
 * [Powershell Comparison Operators](https://www.sconstantinou.com/powershell-comparison-operators/)
-* [PowerShell Comparison Filtering and using operators]https://get-help.guru/2018/07/02/filtering-and-using-comparison-operators-in-powershell/
+* [PowerShell Comparison Filtering and using operators](https://get-help.guru/2018/07/02/filtering-and-using-comparison-operators-in-powershell/)
 * [Powreshell Logical Operators](https://www.sconstantinou.com/powershell-logical-operators/)
 * [Powershell Commands Structure](https://www.sconstantinou.com/powershell-commands-structure/)
 * [Powershell Format Output View](https://www.sconstantinou.com/powershell-format-output-view/)
