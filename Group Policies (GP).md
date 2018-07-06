@@ -1,5 +1,9 @@
 ## Group Policies (GP)
 
+#### Intreseting GPO's
+  - [Removing wireless profiles through GPO?](https://www.reddit.com/r/sysadmin/comments/8watf6/removing_wireless_profiles_through_gpo/)
+  - [Startup Script to add wireless profile to devices via GPO](https://www.reddit.com/r/sysadmin/comments/8waekk/startup_script_to_add_wireless_profile_to_devices/)
+
 #### Group Policy - Tools 
   - [How to restore the Default Domain Policy and Default Domain Controller GPO settings](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dcgpofix)
   - [How to see which Group Policies are Applied to Your PC and User Account](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpresult)
