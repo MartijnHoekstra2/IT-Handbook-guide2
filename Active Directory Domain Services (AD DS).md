@@ -7,6 +7,9 @@
 * [Why you shouldn't use .local in your Active Directory domain name](http://www.mdmarra.com/2012/11/why-you-shouldnt-use-local-in-your.html)
 * [Active Directory: Best Practices for Internal Domain and Network Names](https://social.technet.microsoft.com/wiki/contents/articles/34981.active-directory-best-practices-for-internal-domain-and-network-names.aspx)
 
+## Active Directory Domain Services - Disaster Recovery(AD DS - DR)
+* [Some of my notes when it comes to Disaster Recovery of Active directory and security](https://www.reddit.com/r/sysadmin/comments/8whlon/some_of_my_notes_when_it_comes_to_disaster/)
+
 ## Active Directory Domain Services (AD DS)
 * [Active Directory Domain Services 2016](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services)
 * [Active Directory Domain Naming Considerations](https://social.technet.microsoft.com/wiki/contents/articles/17974.active-directory-domain-naming-considerations.aspx)
