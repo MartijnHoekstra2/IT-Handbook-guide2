@@ -44,6 +44,7 @@ Example:
 * [How To Synchronize Microsoft Windows to a NTP Server](https://timetoolsltd.com/time-sync/how-to-synchronize-microsoft-windows-to-a-ntp-server/)
 * [Time.windows.com](https://www.reddit.com/r/sysadmin/comments/8qcsyt/timewindowscom/)
 * [What is the best to use as an NTP server in windows environment?](https://www.reddit.com/r/sysadmin/comments/8gh6h6/what_is_the_best_to_use_as_an_ntp_server_in/)
+* [“It’s Simple!” – Time Configuration in Active Directory](https://blogs.technet.microsoft.com/nepapfe/2013/03/01/its-simple-time-configuration-in-active-directory/)
 
 ## Remove DC
 * [How to remove completely orphaned Domain Controller](https://support.microsoft.com/en-ca/help/555846)
