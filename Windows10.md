@@ -5,3 +5,4 @@
 * [How to: Removing apps from Windows 10 media](https://community.spiceworks.com/how_to/123554-removing-apps-from-windows-10-media)
 * [Windows 10 Reference Image](https://www.reddit.com/r/sysadmin/comments/8oo0qw/windows_10_reference_image/)
     * [How Many Sysadmins Have Stopped Removing The Default W10 Enterprise Apps?](https://www.reddit.com/r/sysadmin/comments/8m2abp/how_many_sysadmins_have_stopped_removing_the/)
+* [Removing, uninstalling, or reinstalling Microsoft Store app is not supported](https://support.microsoft.com/en-us/help/4339074/removing-uninstalling-reinstalling-microsoft-store-app-not-supported)
