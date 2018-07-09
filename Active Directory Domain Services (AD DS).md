@@ -57,6 +57,7 @@ Example:
 ## AD Security
 * [Securing Privileged Access](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access)
 * [Securing Privileged Access Reference Material](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access-reference-material)
+* [Implementing Least-Privilege Administrative Models](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/implementing-least-privilege-administrative-models)
 
 ## Others
 * [Forgot the domain admin password?](https://4sysops.com/archives/forgot-the-domain-admin-password/)
