@@ -11,6 +11,8 @@
 
 #### Youtube
 * [SCCM Tutorial for Beginners - Walkthrough and Configuration for Post Installation](https://www.youtube.com/watch?v=3-2qhfvt8vo&list=PL60ejEuI_nxuFw3eWRCxmffag_nYUz4PZ&app=desktop)
+* [OSD with Configuration Manager Video Tutorial Series Overview](https://blogs.technet.microsoft.com/configurationmgr/2018/07/09/osd-with-configuration-manager-video-tutorial-series-overview/)
+* [System Center Configuration Manager OSD Video Tutorial: Part I – Introduction and Basics](https://blogs.technet.microsoft.com/configurationmgr/2018/07/09/osd-video-tutorial-part-i-introduction-and-basics/)
 
 #### Gotcha's
 1. Make sure you have your AD under control
