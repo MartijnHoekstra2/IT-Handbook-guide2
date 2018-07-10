@@ -39,7 +39,9 @@
 * [Understanding PowerShell Toolmaking](https://www.adamtheautomator.com/understanding-powershell-toolmaking/)
 * [Understanding Powershell Write-Verbose and -Warning Template](https://tommymaynard.com/write-verbose-and-warning-template-2018/)
 * [Understanding Powershell File Paths from the Pipeline](https://4sysops.com/archives/process-file-paths-from-the-pipeline-in-powershell-functions/)
-* [Powershell - PSSpeedTest](https://mattbobke.com/2018/06/05/introducing-my-first-powershell-module-psspeedtest/)
+* [Powershell - PSSpeedTest](https://mattbobke.com/2018/06/05/introducing-my-first-powershell-module-psspeedtest/)3
+* [PowerShell: Alert me when Certificates expires soon](https://sid-500.com/2018/07/09/powershell-alert-me-when-certificates-expires-soon/)
+* [Powershell Core Commands](https://www.sconstantinou.com/powershell-core-commands/)
 
 #### Active Directory
 * [List all users and group membership - Part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
