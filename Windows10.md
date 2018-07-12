@@ -6,3 +6,4 @@
 * [Windows 10 Reference Image](https://www.reddit.com/r/sysadmin/comments/8oo0qw/windows_10_reference_image/)
     * [How Many Sysadmins Have Stopped Removing The Default W10 Enterprise Apps?](https://www.reddit.com/r/sysadmin/comments/8m2abp/how_many_sysadmins_have_stopped_removing_the/)
 * [Removing, uninstalling, or reinstalling Microsoft Store app is not supported](https://support.microsoft.com/en-us/help/4339074/removing-uninstalling-reinstalling-microsoft-store-app-not-supported)
+* [Windows 10 Startmenu changes after every Feature Update](https://www.reddit.com/r/sysadmin/comments/8xm17k/windows_10_startmenu_changes_after_every_feature/)
