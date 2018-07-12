@@ -9,3 +9,4 @@
 * Seperate SSID and VLAN (Guest WiFI / Coperated WiFi)
 * Traffic shaping, QoS, and blocking outbound tcp/25 are appropriate measures for the guest uplink
 * Web filtering and preventing most "bad" wesbites
+* Wireless devices get there own VLAN / WLAN and you can configure the DHCP lease time to less then an hour.
