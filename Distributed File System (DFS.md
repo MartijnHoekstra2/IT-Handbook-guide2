@@ -12,6 +12,7 @@
 * [Common DFSR Configuration Mistakes and Oversights](https://blogs.technet.microsoft.com/askds/2010/11/01/common-dfsr-configuration-mistakes-and-oversights/)
 
 ## Others
+* [You need this: Organize, share, and manage files with Microsoft DFS](http://techgenix.com/microsoft-dfs/)
 * [Access-Based Enumeration ABE Concepts part 1](https://blogs.technet.microsoft.com/askds/2016/09/01/access-based-enumeration-abe-concepts-part-1-of-2/)
 * [Access-Based Enumeration ABE Concepts part 2](https://blogs.technet.microsoft.com/askds/2016/09/21/access-based-enumeration-abe-troubleshooting-part-2-of-2/)
 * [Microsoft File Server Migration Toolkit 1.2](https://www.microsoft.com/en-us/download/details.aspx?id=10268)
