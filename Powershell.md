@@ -1,3 +1,6 @@
+#### Powershell Podcast
+- [The PowerShell News Podcast](https://powershellnews.podbean.com/)
+
 #### Powershell Commands
 * [Useful Powershell Commands](https://www.sconstantinou.com/useful-powershell-commands/)
 * [Powershell Comments](https://www.sconstantinou.com/powershell-comments/)
