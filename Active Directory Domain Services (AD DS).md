@@ -67,6 +67,7 @@ Example:
 - [How to create and verify and Active Directory forest external trust](http://techgenix.com/active-directory-forest-external-trust/)
 - [Active Directory Flexible Single-Master (FSMO) in Action](https://sid-500.com/2017/11/19/active-directory-flexible-single-master-fsmo-in-action/)
 - [Understanding Urgent Replication](https://blogs.technet.microsoft.com/kenstcyr/2008/07/05/understanding-urgent-replication/)
+- [What the fuck is sysvol](https://www.reddit.com/r/sysadmin/comments/97h1bc/what_the_fuck_is_sysvol/)
 
 
 ## AD DS - Tools 
