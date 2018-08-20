@@ -3,6 +3,7 @@
 * [WSUS - select devices in OU with GPO](https://www.reddit.com/r/sysadmin/comments/8uhjr2/wsus_select_devices_in_ou_with_gpo/)
 * [Security Update Guide](https://portal.msrc.microsoft.com/en-us/security-guidance)
 * [Microsoft®Update Catalog](https://www.catalog.update.microsoft.com/Home.aspx)
+- [Fixing IIS worker WSUSpool issue](http://www.systemsitpro.com/2017/03/fixing-up-iis-worker-wsuspool-issue.html)
 
 #### WSUS WID or SQL?
 Windows Internal Database ships with the Windows operating system, and there are no additional license costs associated with it. Most organizations opt to use the Windows Internal Database to help reduce licensing costs, but it is important to note that WID will not work when installing WSUS Server in a load balancing/high availability scenario. As a result, you must choose the SQL Server database option when installing WSUS Server in a load balancing/high availability scenario. For more information: [Choose a WSUS storage strategy](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/plan/plan-your-wsus-deployment#wsus-database)
