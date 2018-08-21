@@ -1,0 +1,1 @@
+- [Creating a secure 802.1x wireless infrastructure using Microsoft Windows](https://blogs.technet.microsoft.com/networking/2012/05/30/creating-a-secure-802-1x-wireless-infrastructure-using-microsoft-windows/)
