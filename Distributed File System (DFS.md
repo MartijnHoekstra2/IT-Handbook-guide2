@@ -1,3 +1,5 @@
+- [Why DFS can be Amazing](https://www.reddit.com/r/sysadmin/comments/95cx3b/why_dfs_can_be_amazing/)
+
 ## DFS Namespace
 - [DFS Server and Storage Question](https://www.reddit.com/r/sysadmin/comments/8zf8v9/dfs_server_and_storage_question/)
 - [Storage in Windows Server](https://docs.microsoft.com/en-us/windows-server/storage/storage)
