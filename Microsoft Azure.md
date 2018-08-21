@@ -5,6 +5,7 @@
 - [Azure AD Domain Services Documentation](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/)
 
 ## Azure AD Connect
+- [Integrate your on-premises directories with Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)
 - [Azure AD Connect - Re-installation of this service safe?](https://www.reddit.com/r/sysadmin/comments/910kzi/azure_ad_connect_reinstallation_of_this_service/)
 - [Azure Monitor: Route AAD Activity Logs using diagnostic settings](https://azure.microsoft.com/en-us/blog/azure-monitor-aad-activity-logs-using-diagnostic-settings/)
 
