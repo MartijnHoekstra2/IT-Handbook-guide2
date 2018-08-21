@@ -12,6 +12,7 @@
 - [DFS Replication in Windows Server 2012 R2: If You Only Knew the Power of the Dark Shell](https://blogs.technet.microsoft.com/filecab/2013/08/20/dfs-replication-in-windows-server-2012-r2-if-you-only-knew-the-power-of-the-dark-shell/)
 - [Having DFSR issues, need suggestions on how to fix this](https://www.reddit.com/r/sysadmin/comments/7we7hs/having_dfsr_issues_need_suggestions_on_how_to_fix/)
 - [Common DFSR Configuration Mistakes and Oversights](https://blogs.technet.microsoft.com/askds/2010/11/01/common-dfsr-configuration-mistakes-and-oversights/)
+- [Understanding (the Lack of) Distributed File Locking in DFSR](https://blogs.technet.microsoft.com/askds/2009/02/20/understanding-the-lack-of-distributed-file-locking-in-dfsr/)
 
 ## Others
 - [You need this: Organize, share, and manage files with Microsoft DFS](http://webcache.googleusercontent.com/search?q=cache:oiSJg_WD8_QJ:techgenix.com/microsoft-dfs/+&cd=1&hl=nl&ct=clnk&gl=nl)
