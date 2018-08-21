@@ -50,6 +50,7 @@ Example:
 - [Time.windows.com](https://www.reddit.com/r/sysadmin/comments/8qcsyt/timewindowscom/)
 - [What is the best to use as an NTP server in windows environment?](https://www.reddit.com/r/sysadmin/comments/8gh6h6/what_is_the_best_to_use_as_an_ntp_server_in/)
 - [“It’s Simple!” – Time Configuration in Active Directory](https://blogs.technet.microsoft.com/nepapfe/2013/03/01/its-simple-time-configuration-in-active-directory/)
+- [Do w32tm NTP servers transfer w/FSMO?](https://www.reddit.com/r/sysadmin/comments/95bc50/do_w32tm_ntp_servers_transfer_wfsmo/)
 
 ## Remove DC
 - [How to remove completely orphaned Domain Controller](https://support.microsoft.com/en-ca/help/555846)
