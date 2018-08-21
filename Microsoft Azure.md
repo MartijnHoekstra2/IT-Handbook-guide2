@@ -6,6 +6,13 @@
 
 ## Azure AD Connect
 - [Azure AD Connect - Re-installation of this service safe?](https://www.reddit.com/r/sysadmin/comments/910kzi/azure_ad_connect_reinstallation_of_this_service/)
+- [Azure Monitor: Route AAD Activity Logs using diagnostic settings](https://azure.microsoft.com/en-us/blog/azure-monitor-aad-activity-logs-using-diagnostic-settings/)
+
+## Azure general
+- [Azure Advisor](https://azure.microsoft.com/en-us/blog/new-recommendations-in-azure-advisor/)
+- [Azure management groups now in general availability](https://azure.microsoft.com/en-us/blog/azure-management-groups-now-in-general-availability/)
+- [Managed Disks migration now available in the Azure Portal](https://azure.microsoft.com/en-us/blog/managed-disks-migration-portal/)
+- [Azure Block Blob Storage Backup](https://azure.microsoft.com/en-us/blog/microsoft-azure-block-blob-storage-backup/)
 
 ## Azure Powershell
 - [Azure and Windows PowerShell: The Basics](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-windows-powershell-basics/)
