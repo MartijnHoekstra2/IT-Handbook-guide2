@@ -83,6 +83,9 @@ Example:
 - [Integrating database of pwned password hashes with Microsoft AD - haveibeenpwned with AD! Yay](https://www.reddit.com/r/sysadmin/comments/8bod2o/integrating_database_of_pwned_password_hashes/)
 - [How to: Interforest migration using Active Directory migration tool](http://techgenix.com/interforest-migration/)
 
+## Troubleshoot
+- [How to rebuild the SYSVOL tree and its content in a domain](https://support.microsoft.com/en-us/help/315457/how-to-rebuild-the-sysvol-tree-and-its-content-in-a-domain)
+
 
 ## AD DS - Websites
 - [Active Directory Security](https://adsecurity.org/)
