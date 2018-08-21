@@ -5,6 +5,7 @@
   - [Startup Script to add wireless profile to devices via GPO](https://www.reddit.com/r/sysadmin/comments/8waekk/startup_script_to_add_wireless_profile_to_devices/)
   - [What are your must-have quality of life group policies?](https://www.reddit.com/r/sysadmin/comments/8zam8f/what_are_your_musthave_quality_of_life_group/)
   - [Configuring Audit Policies](https://technet.microsoft.com/en-us/library/dd277403.aspx)
+  - [Add the Administrator security group to roaming users profiles](http://www.grouppolicy.biz/2010/02/group-policy-setting-of-the-week-15-add-the-administrator-security-group-to-roaming-users-profiles/)
 
 #### Group Policy - Tools 
   - [How to restore the Default Domain Policy and Default Domain Controller GPO settings](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dcgpofix)
