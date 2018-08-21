@@ -28,6 +28,8 @@
           - Do not display the lock screen
       - Network/DNS Client
           - Turn off multicast name resolution
+      - System/Display Highly Detaioled Status Messages
+          - Enable it to see more information while logging in
       - System/Logon
           - Always wait for the network at computer startup and logon
       -  System/Power Management/Video and Display Settings
