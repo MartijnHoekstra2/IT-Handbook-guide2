@@ -15,6 +15,7 @@
 
 ##### DKIM
 * [What is an DKIM Record](https://support.dnsimple.com/articles/dkim-record/)
+- [DKIM Exchange](https://github.com/Pro/dkim-exchange)
 
 ##### DMARC
 * [DMARC Check - option 1](https://www.fraudmarc.com/dmarc-check/)
