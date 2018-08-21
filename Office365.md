@@ -12,6 +12,7 @@
 - [SMTP Relay in Office 365 environment | Part 3#4](https://o365info.com/smtp-relay-in-office-365-environment/)
 - [O365 Can't send emails - Service Interruption?](https://www.reddit.com/r/sysadmin/comments/8vissw/o365_cant_send_emails_service_interruption/)
 - [How to migrate mailboxes between Office 365 tenants](https://www.codetwo.com/admins-blog/how-to-migrate-mailboxes-between-office-365-tenants/)
+- [How to prepare a non-routable domain for directory synchronization](https://support.office.com/en-us/article/how-to-prepare-a-non-routable-domain-for-directory-synchronization-e7968303-c234-46c4-b8b0-b5c93c6d57a7?ui=en-US&rs=en-US&ad=US)
 
 ## Others
 - [X500 addresses – where is the beef?](https://paweljarosz.wordpress.com/2017/12/14/x500-addresses-where-is-the-beef/)
