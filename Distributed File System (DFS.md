@@ -1,4 +1,5 @@
 - [Why DFS can be Amazing](https://www.reddit.com/r/sysadmin/comments/95cx3b/why_dfs_can_be_amazing/)
+- [Windows Server 2016 - DFSR Performance](https://www.reddit.com/r/sysadmin/comments/95g8sd/windows_server_2016_dfsr_performance/)
 
 ## DFS Namespace
 - [DFS Server and Storage Question](https://www.reddit.com/r/sysadmin/comments/8zf8v9/dfs_server_and_storage_question/)
