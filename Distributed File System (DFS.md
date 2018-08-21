@@ -6,6 +6,7 @@
 - [Five ways to check your DFS-Namespaces DFS-N configuration with the DFSDIAG.EXE tool](https://blogs.technet.microsoft.com/josebda/2009/07/15/five-ways-to-check-your-dfs-namespaces-dfs-n-configuration-with-the-dfsdiag-exe-tool/)
 - [Three ways to design your DFS Namespaces](https://blogs.technet.microsoft.com/josebda/2009/08/21/three-ways-to-design-your-dfs-namespaces/)
 - [Common DFSN Configuration Mistakes and Oversights](https://blogs.technet.microsoft.com/askds/2012/07/24/common-dfsn-configuration-mistakes-and-oversights/).
+- [Help with DFS-N](https://www.reddit.com/r/sysadmin/comments/951fdj/help_with_dfsn/)
 
 
 ## DFS Replication
