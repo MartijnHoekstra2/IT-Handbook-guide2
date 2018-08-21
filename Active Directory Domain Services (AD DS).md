@@ -54,6 +54,7 @@ Example:
 - [How to remove completely orphaned Domain Controller](https://support.microsoft.com/en-ca/help/555846)
 - [Best practices for domain controller decommission?](https://www.reddit.com/r/sysadmin/comments/8n8owx/best_practices_for_domain_controller_decommission/)
 - [Question: Demoting a domain controller running as a DFS namespace and wanting to keep it as a DFS namespace](https://www.reddit.com/r/sysadmin/comments/8juixh/question_demoting_a_domain_controller_running_as/)
+- [Successful demotion of domain controller now what should I clean in DNS?](https://www.reddit.com/r/sysadmin/comments/917alr/successful_demotion_of_domain_controller_now_what/)
 
 ## AD Security
 - [Securing Privileged Access](https://docs.microsoft.com/en-us/windows-server/identity/securing-privileged-access/securing-privileged-access)
