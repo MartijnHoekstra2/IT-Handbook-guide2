@@ -6,6 +6,7 @@
   - [What are your must-have quality of life group policies?](https://www.reddit.com/r/sysadmin/comments/8zam8f/what_are_your_musthave_quality_of_life_group/)
   - [Configuring Audit Policies](https://technet.microsoft.com/en-us/library/dd277403.aspx)
   - [Add the Administrator security group to roaming users profiles](http://www.grouppolicy.biz/2010/02/group-policy-setting-of-the-week-15-add-the-administrator-security-group-to-roaming-users-profiles/)
+  - [Group Policies: Enabling WinRM for Windows Client Operating Systems (Windows 10, Windows 8, Windows 7)](https://sid-500.com/2018/08/16/enabling-winrm-for-windows-client-operating-systems-windows-10-windows-8-windows-7/)
 
 #### Group Policy - Tools 
   - [How to restore the Default Domain Policy and Default Domain Controller GPO settings](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dcgpofix)
