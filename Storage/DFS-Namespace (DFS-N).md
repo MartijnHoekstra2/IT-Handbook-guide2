@@ -1,4 +1,4 @@
-## DFS Namespace
+## Distributed File System-Namespace (DFS-N)
 - [DFS Server and Storage Question](https://www.reddit.com/r/sysadmin/comments/8zf8v9/dfs_server_and_storage_question/)
 - [Storage in Windows Server](https://docs.microsoft.com/en-us/windows-server/storage/storage)
 - [DFS Namespaces overview](https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview)
