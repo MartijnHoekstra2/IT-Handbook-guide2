@@ -9,6 +9,7 @@
   - [Adding Domain Users To The Local Administrators Group Using Group Policy](https://richardstk.com/2013/11/26/adding-domain-users-to-the-local-administrators-group-using-group-policy/)
   - [Group Policies: Enabling WinRM for Windows Client Operating Systems (Windows 10, Windows 8, Windows 7)](https://sid-500.com/2018/08/16/enabling-winrm-for-windows-client-operating-systems-windows-10-windows-8-windows-7/)
   - [How to Monitor User Logоns in a Domain](https://www.netwrix.com/how_to_monitor_user_logons_in_domain.html?rid=gDd88kwH)
+  - [Using Group Policy to configure Desktop Wallpaper (“Background”)](http://www.grouppolicy.biz/2011/03/best-practice-using-group-policy-to-configure-desktop-wallpaper-background/)
 
 #### Group Policy - Tools 
   - [How to restore the Default Domain Policy and Default Domain Controller GPO settings](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/dcgpofix)
