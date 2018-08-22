@@ -10,3 +10,5 @@
 - Traffic shaping, QoS, and blocking outbound tcp/25 are appropriate measures for the guest uplink
 - Web filtering and preventing most "bad" wesbites
 - Wireless devices get there own VLAN / WLAN and you can configure the DHCP lease time to less then an hour.
+
+- [Creating a secure 802.1x wireless infrastructure using Microsoft Windows](https://blogs.technet.microsoft.com/networking/2012/05/30/creating-a-secure-802-1x-wireless-infrastructure-using-microsoft-windows/)
