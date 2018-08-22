@@ -1,0 +1,1 @@
+- [Inheriting ADFS - things to check for?](https://www.reddit.com/r/sysadmin/comments/96ifiu/inheriting_adfs_things_to_check_for/)
