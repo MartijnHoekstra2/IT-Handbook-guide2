@@ -19,6 +19,7 @@
 * [Powershell Split Operator](https://www.sconstantinou.com/powershell-split-operator/)
 * [Powershell Reserverd Words](https://www.sconstantinou.com/powershell-reserved-words/)
 * [Powershell Special Characters](https://www.sconstantinou.com/powershell-special-characters/)
+- [Powershell Type Operators](https://www.sconstantinou.com/powershell-type-operators/)
 
 #### Powershell for Beginners
 * [PowerShell for Beginners (Part 1): The Console and the First Command](https://sid-500.com/2017/12/26/powershell-for-beginners-part-1-the-console-and-the-first-command/)
@@ -62,7 +63,7 @@
 * [Understanding PowerShell objects: an Azure VM example](https://www.yobyot.com/cloud/explain-powershell-objects-an-azure-vm-example/2018/05/21/)
 * [Using PowerShell to connect to Microsoft Azure](https://luke.geek.nz/Using-PowerShell-to-connect-to-Azure)
 * [How to Write an Azure Function in PowerShell](https://devblackops.io//how-to-write-an-azure-function-in-powershell/)
-* [Azure and Windows PowerShell: Getting Information]https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-and-windows-powershell-getting-information/
+* [Azure and Windows PowerShell: Getting Information](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-and-windows-powershell-getting-information/
 
 #### Hardware Inventory
 * [Powershell Hardware inventory script - Part 1](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
@@ -71,11 +72,24 @@
 #### Office
 * [Does anybody know how to uninstall office via powershell?](https://www.reddit.com/r/sysadmin/comments/8cnpe2/does_anybody_know_how_to_uninstall_office_via/)
 
+## To decide
+- [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
+- [Install and configure an FTP server with PowerShell](https://4sysops.com/archives/install-and-configure-an-ftp-server-with-powershell/)
+- [Windows Powershell Sessions PSSessions](https://www.sconstantinou.com/windows-powershell-sessions-pssessions/)
+- [Get Group Membership changes](https://www.sconstantinou.com/get-group-membership-changes/)
+- [Powershell Automatic Variables](https://www.sconstantinou.com/powershell-automatic-variables/)
+- [Learn About Powershell Scheduled Jobs and how to create them](https://4sysops.com/archives/create-powershell-scheduled-jobs/)
+- [Get EventLog Event Details Content PowerShell](https://itfordummies.net/2018/07/30/get-eventlog-event-details-content-powershell/)
+- [Notify Users for password expiration](https://www.sconstantinou.com/notify-users-for-password-expiration/)
+- [AWS PowerShell - Creating Ec2 Instances and Basic Machine Management](https://overpoweredshell.com//AWS-PowerShell-Creating-Ec2-Instances-and-Basic-Machine-Management/)
+
 #### Office365
 * [Assign a License to an Office 365 User with PowerShell](http://mikefrobbins.com/2018/05/24/assign-a-license-to-an-office-365-user-with-powershell/)
 * [Configuring “Send As” Permission in Office 365 using PowerShell](http://mikefrobbins.com/2018/05/31/configuring-send-as-permission-in-office-365-using-powershell/)
 * [Connect to Office 365 with PowerShell](http://mikefrobbins.com/2018/05/17/connect-to-office-365-with-powershell/)
 * [Do more cool stuuf with Powershell and Office 365](http://techgenix.com/powershell-and-office-365/)
+- [Determine if a Mailbox is On-Premises or in Office 365 with PowerShell](https://mikefrobbins.com/2018/08/02/determine-if-a-mailbox-is-on-premises-or-in-office-365-with-powershell/)
+- [Copying Office 365 User Licensing](https://king.geek.nz/2018/07/24/copying-office-365-user-licensing/)
 
 #### Windows servers
 * [PowerShell: Alert me when Disk Space is running low on my Windows Servers (E-Mail Notification)](https://sid-500.com/2018/06/03/powershell-alert-me-when-disk-space-is-running-low-on-my-windows-servers-e-mail-notification/)
