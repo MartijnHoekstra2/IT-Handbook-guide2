@@ -1,22 +1,10 @@
 - [Why DFS can be Amazing](https://www.reddit.com/r/sysadmin/comments/95cx3b/why_dfs_can_be_amazing/)
 - [Windows Server 2016 - DFSR Performance](https://www.reddit.com/r/sysadmin/comments/95g8sd/windows_server_2016_dfsr_performance/)
 
-## DFS Namespace
-- [DFS Server and Storage Question](https://www.reddit.com/r/sysadmin/comments/8zf8v9/dfs_server_and_storage_question/)
-- [Storage in Windows Server](https://docs.microsoft.com/en-us/windows-server/storage/storage)
-- [DFS Namespaces overview](https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/dfs-overview)
-- [Tuning replication performance in DFSR - especially on Win2008 R2](https://blogs.technet.microsoft.com/askds/2010/03/31/tuning-replication-performance-in-dfsr-especially-on-win2008-r2/)
-- [Five ways to check your DFS-Namespaces DFS-N configuration with the DFSDIAG.EXE tool](https://blogs.technet.microsoft.com/josebda/2009/07/15/five-ways-to-check-your-dfs-namespaces-dfs-n-configuration-with-the-dfsdiag-exe-tool/)
-- [Three ways to design your DFS Namespaces](https://blogs.technet.microsoft.com/josebda/2009/08/21/three-ways-to-design-your-dfs-namespaces/)
-- [Common DFSN Configuration Mistakes and Oversights](https://blogs.technet.microsoft.com/askds/2012/07/24/common-dfsn-configuration-mistakes-and-oversights/).
-- [Help with DFS-N](https://www.reddit.com/r/sysadmin/comments/951fdj/help_with_dfsn/)
 
 
-## DFS Replication
-- [DFS Replication in Windows Server 2012 R2: If You Only Knew the Power of the Dark Shell](https://blogs.technet.microsoft.com/filecab/2013/08/20/dfs-replication-in-windows-server-2012-r2-if-you-only-knew-the-power-of-the-dark-shell/)
-- [Having DFSR issues, need suggestions on how to fix this](https://www.reddit.com/r/sysadmin/comments/7we7hs/having_dfsr_issues_need_suggestions_on_how_to_fix/)
-- [Common DFSR Configuration Mistakes and Oversights](https://blogs.technet.microsoft.com/askds/2010/11/01/common-dfsr-configuration-mistakes-and-oversights/)
-- [Understanding (the Lack of) Distributed File Locking in DFSR](https://blogs.technet.microsoft.com/askds/2009/02/20/understanding-the-lack-of-distributed-file-locking-in-dfsr/)
+
+
 
 ## Others
 - [You need this: Organize, share, and manage files with Microsoft DFS](http://webcache.googleusercontent.com/search?q=cache:oiSJg_WD8_QJ:techgenix.com/microsoft-dfs/+&cd=1&hl=nl&ct=clnk&gl=nl)
