@@ -5,7 +5,7 @@
 ## Resumes
 - [Reddit Resumes](https://www.reddit.com/r/resumes/)
 
-## ITCareerQuestions
+## IT Career Questions
 - [Reddit ITCareerQuestions](https://www.reddit.com/r/ITCareerQuestions/)
 
 ## Information
