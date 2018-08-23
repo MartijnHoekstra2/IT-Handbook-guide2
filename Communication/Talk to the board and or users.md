@@ -1,6 +1,7 @@
 ## Presentation to the board members
 1. Don't just read off the slides - they can do that themselves - use the Presenters notes in MS PowerPoint/LibreOffice Impress and presentation view so you have a list of more detail for each point you make on the slide so you can expand on it in a bit more detail.
 1. If you are asked a question you cannot answer or don't know the answer, be honest and say you cannot answer that now, but you can go away and research the answer and give it back to them within a few days (then actually do so, you must follow through). You won't be expected to know everything but they will expect you to be able to find out the answer fairly quickly!
+
 1. Keep the language simple and free of jargon (they are not IT, Jargon is just shorthand between people in the same department).
 1.Keep the words concise and to a minimum - Executive Summaries on White papers are usually kept to a Paragraph or two of simple text for a reason!
 1. Make sure to put in a good amount of time for a Q+A Session - if you get them interested they will have some very good questions.
