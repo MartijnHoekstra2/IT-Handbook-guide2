@@ -63,3 +63,43 @@
 * [How to study for CCNA FREE](https://learningnetwork.cisco.com/thread/15662)
 
 - [Subnetting Made Easy by Cisco Networking Academy Student Brian Morgan](https://www.youtube.com/watch?v=KDig0lOO95M)
+
+## Firewall
+- Check Firmware and Software version of the Firewall and if newer version upgrade
+- Change default login/password
+- Configure logging and send this to a central location
+- Configure Lockout Policy
+- Configure Session Timeout
+- Configure a NTP
+- Configure if possible Geo IP prevents unauthorized access from countries
+- Deny all traffic by default and only open that what is necassery
+- Place the most specific firewall rules on top so when traffic is matched its at the top
+- Monitor CPU / Memory / Fans, do this before and after adding new rules
+- Disable all unused services that aren't necassery and or in use
+- Document: Change Management
+  - When is the change made
+  - What is changed
+  - Who made the change
+  - Firmware / Software version
+  - MIB and OID packet/version
+  
+  
+https://www.cisco.com/c/en/us/about/security-center/firewall-best-practices.html
+
+- Firmware
+- Don't use PTPP, but use LTP or DirectAccess
+- WAN interfaces Block > SNMP, TELNET, ISMP
+
+
+
+
+Firewall, network, VPN, wireless
+AD
+Endpoints
+E-mail / Office365
+
+
+
+
+https://www.reddit.com/r/sysadmin/comments/99d9qg/request_for_security_insight_web_servers_dmz_and/
+
