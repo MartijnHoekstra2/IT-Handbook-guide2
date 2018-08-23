@@ -1,5 +1,0 @@
-## Windows PE (WinPE)
-* [Create bootable WinPE media](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-create-usb-bootable-drive)
-* [Create a bootable Windows PE 3.0 USB drive with rescue tools - Part 1](https://4sysops.com/archives/build-a-bootable-windows-pe-3-0-usb-drive-with-rescue-tools-part-1/)
-* [How to launch apps in WinPE](https://social.technet.microsoft.com/Forums/windows/en-US/5a0ff63d-4628-466e-ac6d-7982d64bbb99/solved-how-to-launch-apps-in-winpe?forum=w7itproinstall)
-* [Windows PE WinPE Intro](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/winpe-intro)
