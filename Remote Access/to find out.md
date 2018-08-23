@@ -1,0 +1,7 @@
+* [Always On VPN deployment for Windows Server and Windows 10](https://docs.microsoft.com/en-us/windows-server/remote/remote-access/vpn/always-on-vpn/deploy/always-on-vpn-deploy)
+* [Always on VPN: Why you should be using this new Remote Access technology](http://techgenix.com/always-on-vpn/)
+* [Can we just talk about how great Microsoft DirectAccess is.](https://www.reddit.com/r/sysadmin/comments/8fzctd/can_we_just_talk_about_how_great_microsoft/)
+* [Freeradius](http://freeradius.org/)
+* [Looking to force remote users to connect to VPN when out of office](https://www.reddit.com/r/sysadmin/comments/8etri7/looking_to_force_remote_users_to_connect_to_vpn/)
+* [Microsoft Direct Access Implementation](https://www.reddit.com/r/sysadmin/comments/8dwwti/microsoft_direct_access_implementation/)
+* [Troubleshooting DirectAccess with Server 2016 / Win 10?](https://www.reddit.com/r/sysadmin/comments/86xpyk/troubleshooting_directaccess_with_server_2016_win/)
