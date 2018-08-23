@@ -12,9 +12,9 @@
 - When throwing out an old computer make sure they remove there hard drive and get it destroyed/wiped properly
 - Children should use separate computer/tablet to yours
 - AdBlockers at home (helps a LOT with mistakenly clicking bad links)
-- Restrict who can see your social media posts
-- Any email that you're not expecting should be heavily scrutinised, be carefull with attachments
-- Lock the screen when it's not in use
+* Restrict who can see your social media posts
+* Any email that you're not expecting should be heavily scrutinised, be carefull with attachments
+* Lock the screen when it's not in use
 - Don't use admin for everyday, only for installing new software, especially when it comes to children
 - Don't reuse passwords for accounts, you can cover this when you talk about password managers
 - Change the default passwords on routers
