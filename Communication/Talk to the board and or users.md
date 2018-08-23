@@ -11,7 +11,7 @@
 - Installing an antivirus solution on there computer
 - When throwing out an old computer make sure they remove there hard drive and get it destroyed/wiped properly
 - Children should use separate computer/tablet to yours
-- AdBlockers at home (helps a LOT with mistakenly clicking bad links)
+* AdBlockers at home (helps a LOT with mistakenly clicking bad links)
 * Restrict who can see your social media posts
 * Any email that you're not expecting should be heavily scrutinised, be carefull with attachments
 * Lock the screen when it's not in use
