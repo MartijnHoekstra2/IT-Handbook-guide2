@@ -8,10 +8,10 @@
  * [MDT: Secure the Deployment Share](https://www.ingmarverheij.com/mdt-secure-deployment-share/)
  * [How to Capture an Image from a Reference Computer Manually](https://prajwaldesai.com/how-to-capture-an-image-from-a-reference-computer-manually/)
 
-#### Bootstrap.ini
+## Bootstrap.ini
 * [MDT: How to automate deployments using Bootstrap.ini](https://www.techrepublic.com/article/microsoft-deployment-toolkit-advanced-settings-for-automating-deployments-using-bootstrap-ini/)
 
-#### CustomSettings.ini
+## CustomSettings.ini
 * [CustomSettings.ini – Explained](https://deploymentbunny.com/2012/04/21/back-to-basic-customsettings-ini-explained/)
 * [Converting Desktop and Laptop computer types into Roles](https://deploymentbunny.com/2015/05/22/back-to-basic-customsettings-ini-converting-desktop-and-laptop-computer-types-into-roles/)
 * [Converting Model and ModelAlias into Roles](https://deploymentbunny.com/2015/05/22/back-to-basic-customsettings-ini-converting-model-and-modelalias-into-roles/)
@@ -19,12 +19,12 @@
 * [Testing customsettings.ini variables in MDT](https://deploymentbunny.com/2011/04/27/quick-and-dirty-testing-customsettings-ini-variables-in-mdt/)
 * [How to use MDT scripts to test your configuration before deployment](https://www.techrepublic.com/article/mdt-advanced-settings-testing-settings-and-configuration/)
 
-#### Out-of-Box-Drivers
+## Out-of-Box-Drivers
 * [MDT 2013 Lite Touch Driver Management](https://deploymentresearch.com/Research/Post/325/MDT-2013-Lite-Touch-Driver-Management)
 
-#### OSD
+## OSD
 * [BIOS upgrade during OS Deployment in MDT/ConfigMgr (v3)](https://deploymentbunny.com/2016/07/20/osd-bios-upgrade-during-os-deployment-in-mdtconfigmgr-v3/)
 
-#### Additional options
+## Additional options
 * [Property Reference](https://technet.microsoft.com/en-us/library/bb490304.aspx)
 * [Toolkit Reference](http://systemscenter.ru/mdt2012.en/toolkitreference.htm)
