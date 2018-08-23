@@ -22,6 +22,7 @@
 - [Hacker101!](https://github.com/Hacker0x01/hacker101)
 - [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Ops School Curriculum](https://github.com/opsschool/curriculum)
+- [Passcore](https://github.com/unosquare/passcore)
 - [PowerShell Team](https://github.com/PowerShell/PowerShell)
 - [PsVDecrypt](https://github.com/KevinWang15/PsVDecrypt)
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
