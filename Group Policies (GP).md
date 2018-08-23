@@ -1,4 +1,7 @@
 ## Group Policies (GP)
+https://social.technet.microsoft.com/Forums/lync/en-US/1a01d2db-7f90-4cfd-b1f0-9fb7377a69c4/windows-7-using-rdp-to-server-2016-login-failed?forum=w7itprosecurity
+
+
 
 #### Intreseting GPO's
   - [Removing wireless profiles through GPO?](https://www.reddit.com/r/sysadmin/comments/8watf6/removing_wireless_profiles_through_gpo/)
