@@ -22,7 +22,7 @@
 ## Out-of-Box-Drivers
 * [MDT 2013 Lite Touch Driver Management](https://deploymentresearch.com/Research/Post/325/MDT-2013-Lite-Touch-Driver-Management)
 
-## OSD
+## OS Deployment
 * [BIOS upgrade during OS Deployment in MDT/ConfigMgr (v3)](https://deploymentbunny.com/2016/07/20/osd-bios-upgrade-during-os-deployment-in-mdtconfigmgr-v3/)
 
 ## Additional options
