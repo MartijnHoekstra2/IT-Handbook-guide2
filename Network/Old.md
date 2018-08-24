@@ -1,3 +1,5 @@
+https://www.reddit.com/r/sysadmin/comments/99oea2/vlandhcp_best_practices/
+
 1. Start with working out a diagram to get a better overvieuw of your network
 1. Make a baseline / plan
 1. SNMP
