@@ -1,3 +1,5 @@
+https://www.reddit.com/r/sysadmin/comments/99ozf0/dns_secondary_zone_replication_between_domain/
+
 ## Prep-AD
 - [Everything you need to get started with Active Directory](https://blogs.technet.microsoft.com/ashleymcglone/2012/01/03/everything-you-need-to-get-started-with-active-directory/)
 - [Capacity Planning for Active Directory Domain Services](https://social.technet.microsoft.com/wiki/contents/articles/14355.capacity-planning-for-active-directory-domain-services.aspx)
