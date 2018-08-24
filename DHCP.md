@@ -1,1 +1,2 @@
-* [DHCP Migration](https://www.reddit.com/r/sysadmin/comments/8tqi69/dhcp_migration/)
+- [DHCP Migration](https://www.reddit.com/r/sysadmin/comments/8tqi69/dhcp_migration/)
+- [Moving DHCP scopes off existing DHCP server](https://www.reddit.com/r/sysadmin/comments/99v7qm/moving_dhcp_scopes_off_existing_dhcp_server/)
