@@ -12,3 +12,7 @@ Filter on all users that have the field homeMDB and mail filled with information
 LDAP
 
 (&(homeMDB=*)(mail=*))
+
+
+https://ldap.com/understanding-ldap-schema/
+https://ldap.com/object-classes/
