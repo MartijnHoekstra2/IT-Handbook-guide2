@@ -10,8 +10,8 @@
 - Anti-Static wipes
 - Barcode scanner
 - Batteries 
-- Cable organizer straps
-- Console cable
+
+- 
 - Compressed air
 - Ear protection for prolonged work in the area
 - External HDD's (3TB or better).
@@ -22,10 +22,14 @@
 - Serial cable
 - Spindle with blank DVD-Rs or CDR's
 - USB Drives 4gb / 8gb
-- Zip ties
 - UPSs
 - PDUs
-- UTP punch-down tool
+- 
+##### Supplies
+Console cable, Cable organizer straps,  UTP punch-down tool,Zip ties
+
+##### Whiteboard
+Any sketches, notes, planning, or otherwise temporary documentation for the area.
 
 ### Information
 - [Building the perfect server closet](http://www.channelpronetwork.com/article/building-perfect-server-closet?page=0%2C0)
@@ -39,7 +43,6 @@
 - Shelving, storage, containers (usually bins).
 - Make sure you have an empty containers 
 
-
 #### Monitoring
 - [AVtech](https://avtech.com/)
 - [Kentix](https://kentix.com/en/)
@@ -48,6 +51,11 @@
 - There may be no water sources above the server room. E.g. sinks / toilets, water pipes. 
 - Depending on your location you need to make sure the server room is above sea level so there is no risk of a flood.
 - Completely separate eletrical circuits to the rest of the building.
+
+#### Security
+- Strong locks
+- Controlled access to serverroom (badges or passwords)
+- Video surveillance in and outside serverroom
 
 #### Uninterruptible Power Supply
 - Calculator for UPS, for example: http://www.apc.com/tools/ups_selector/index.cfm
