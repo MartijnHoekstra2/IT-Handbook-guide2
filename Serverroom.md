@@ -1,95 +1,59 @@
-https://www.reddit.com/r/sysadmin/comments/85l69j/cable_storage/
+## Serverroom equipment / information
 
-https://avtech.com
-
-https://kentix.com/en/
-
-https://www.reddit.com/r/sysadmin/comments/84z22i/datacentre_storage_requirements/
-
-https://www.reddit.com/r/sysadmin/comments/16m9pq/setting_up_a_data_center_what_do_you_need_to_know/
-
-https://www.reddit.com/r/sysadmin/comments/7x2ow9/new_it_room_supplies/
-
-#Build or redesign a server room
-Maybe you are moving from one location to another location and its time to build a new server room
-
-http://www.channelpronetwork.com/article/building-perfect-server-closet
-https://forums.servethehome.com/index.php?threads/living-the-dream-building-our-own-server-room-from-scratch.3079/
-https://community.spiceworks.com/how_to/2622-how-to-build-or-redesign-a-server-room
-https://www.cio.com/article/2382635/small-business/small-business-6-steps-for-setting-up-a-small-business-server-room.html
-https://www.wikihow.com/Design-a-Server-Room
-
-The right server room doesn't exist it all depends on what the demands are
-You could have various approaches on building the server room for your company needs. Various approaches 
-
-Depeninding on the ammount of servers you can hav
-
-
-
-#### Equipment
-* Anti static wipes
-* Bar-code scanner if you're leveraging bar codes in any way
-* Batteries 
-* Cable organizer straps
-* Console cable
-* Dust-off compressed air
-* Ear protection for prolonged work in the area
-* External HDD's (3TB or better).
-* Flashlight Head LED
-* Flashlight LED
-* KVM station (Monitor/Keyboard/Mouse) for staging/troubleshooting / crash cart
-* Label maker / printer
-* Serial cable
-* Spindle with blank DVD-Rs or CDR's
-* USB Drives 4gb / 8gb
-* Zip ties
-* UPSs
-* PDUs
-* UTP punch-down tool
-
-#### Uninterruptible Power Supply
-* UPS batteries need to be replaced every 3-5 years
-* Calculator for UPS, for example: http://www.apc.com/tools/ups_selector/index.cfm
-
-#### Handy information
-* Make sure doors are large enough for all equipment. ( eg. Racks )
-* Clear path to the loading docks\service elevator
-* Raised floors but make sure it can hold the weight
+#### Backup
+- Backups from all the configs
 
 #### Cooling
-* Dual air-con with failover, automatic turn on after power failure.
+- Dual air-con with failover, automatic turn on after power failure.
 
-#### Others
-* Sensory for leak detection ( for cooling units)
-* Sensors for humidity, water, smoke and temperature sensing
-* Workbench for server build and repair
-* Shelving
-* Storage
-* Make sure you have an empty containers 
+#### Equipment / tools
+- Anti-Static wipes
+- Barcode scanner
+- Batteries 
+- Cable organizer straps
+- Console cable
+- Compressed air
+- Ear protection for prolonged work in the area
+- External HDD's (3TB or better).
+- Flashlight Head LED
+- Flashlight LED
+- KVM station (Monitor/Keyboard/Mouse) for staging/troubleshooting / crash cart
+- Label maker / printer
+- Serial cable
+- Spindle with blank DVD-Rs or CDR's
+- USB Drives 4gb / 8gb
+- Zip ties
+- UPSs
+- PDUs
+- UTP punch-down tool
+
+### Information
+- [Building the perfect server closet](http://www.channelpronetwork.com/article/building-perfect-server-closet?page=0%2C0)
+- [Build or redesign a serveroom](https://community.spiceworks.com/how_to/2622-how-to-build-or-redesign-a-server-room)
+- Make sure doors are large enough for all equipment. ( eg. Racks )
+- Clear path to the loading docks\service elevator
+- Raised floors but make sure it can hold the weight
+- Sensory for leak detection ( for cooling units)
+- Sensors for humidity, water, smoke and temperature sensing
+- Workbench for server build and repair
+- Shelving, storage, containers (usually bins).
+- Make sure you have an empty containers 
+
+
+#### Monitoring
+- [AVtech](https://avtech.com/)
+- [Kentix](https://kentix.com/en/)
 
 #### Room information
-* There may be no water sources above the server room. E.g. sinks / toilets, water pipes. 
-* Depending on your location you need to make sure the server room is above sea level so there is no risk of a flood.
-* Completely separate eletrical circuits to the rest of the building.
+- There may be no water sources above the server room. E.g. sinks / toilets, water pipes. 
+- Depending on your location you need to make sure the server room is above sea level so there is no risk of a flood.
+- Completely separate eletrical circuits to the rest of the building.
+
+#### Uninterruptible Power Supply
+- Calculator for UPS, for example: http://www.apc.com/tools/ups_selector/index.cfm
+- UPS batteries need to be replaced every 3-5 years
 
 
-5x each - 1 foot, 5 foot, 10 foot, 15 foot Cat5e cables, snagless
-SATA/ATA to USB dock for both laptop and standard size drives
-
-Small cordless screwdriver
-PC repair toolkit (these are a dime a dozen, just something with lots of screwdrivers, the basics)
-LED Flashlight
-
-velcro cable organizer straps
-4-5 machine USB/Display KVM
-8 port POE Gigabit Switch
-
-
-Shelving, storage, containers (usually bins).
-You want a proper UTP tester, not a simplistic toner. Either a tester or "toner" for fiber as well.
-Today, the ones that are USB connected seem more versatile and faster to use than handheld.
-
-UTP punch-down tool.
 
 Bench with abundant power, if you don't already have an area for this.
 Safe for high security material and on-site backup media.
@@ -370,6 +334,7 @@ UPS
 Cable management instead of raised floors - think ladder racks
 If two-post racks, get cable management for sides-of-rack. It's great!
 Patch panels (from network equipment to top-of-rack)
+
 Sysadmin
 KVM station (Monitor/Keyboard/Mouse) for staging/troubleshooting
 Preferable: Full workstation for staging and working in the room
@@ -377,6 +342,7 @@ Storage room for boxes (need room!), inventory and parts (bins and shelves). Tru
 Supplies: Velcro, zipties, console cable, scissors, knife, etc. with a nice shelf for that next to the terminal station.
 Whiteboard - Any sketches, notes, planning, or otherwise temporary documentation for the area.
 Label Maker (bonus for one that can properly label cables)
+
 Security
 Ideal: Controlled, logged access to room via badges or passwords as well as keys if necessary
 Acceptable: Strong locks
