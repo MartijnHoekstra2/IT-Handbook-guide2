@@ -59,5 +59,5 @@
 - Redundant power
 - Reserve parts
 - Separate eletrical circuits to the rest of the building
-- [UPS load calculator]http://www.apc.com/tools/ups_selector/index.cfm)
+- [UPS load calculator](http://www.apc.com/tools/ups_selector/index.cfm)
 - Workbench for server build and repair
