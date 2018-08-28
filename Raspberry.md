@@ -35,23 +35,35 @@ sudo apt-get install wpasupplicant
 1. auth_alg is highlikly OPEN, other options are LEAP en SHARED 
 1. Identity your login name to auth
 1. password your password
+
 network={
+
 ssid=”FILL IN SSID”
+
 proto=RSN
+
 key_mgmt=WPA-EAP
+
 eap=PEAP
+
 pairwise=CCMP
+
 phase2=”auth=MSCHAPV2”
+
 identity=””
+
 password=””
+
 priority=1
+
 }
-sudo nano /etc/network/interfaces
-allow-hotplug wlan0 if you are using a WiFI extender
-wpa-driver wext if you are using a WiFi Extender
-wpa-config submit here the location of your configuration file for the WiFi
-auto wlan0 automatically connect to wlan0 (could cause an error “Failed to start Raise network interfaces”)
-auto lo the loopback network interface
-iface lo inet loopback the loopback network interface
-wpa-config /etc/wpa_supplicant/wpa_supplicant.conf
-sudo reboot
+
+1. sudo nano /etc/network/interfaces
+1. allow-hotplug wlan0 if you are using a WiFI extender
+1. wpa-driver wext if you are using a WiFi Extender
+1. wpa-config submit here the location of your configuration file for the WiFi
+1. auto wlan0 automatically connect to wlan0 (could cause an error “Failed to start Raise network interfaces”)
+1. auto lo the loopback network interface
+1. iface lo inet loopback the loopback network interface
+1. wpa-config /etc/wpa_supplicant/wpa_supplicant.conf
+1. sudo reboot
