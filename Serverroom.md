@@ -9,9 +9,18 @@
 #### Equipment / tools
 - Anti-Static wipes
 - Barcode scanner
-- Batteries 
+- Batteries
 
-- 
+
+
+| Anti-Static wipes 	|   	|   	|   	|   	|
+|-------------------	|---	|---	|---	|---	|
+| Barcode scanner   	|   	|   	|   	|   	|
+| Batteries         	|   	|   	|   	|   	|
+| Compressed air    	|   	|   	|   	|   	|
+
+
+
 - Compressed air
 - Ear protection for prolonged work in the area
 - External HDD's (3TB or better).
@@ -26,7 +35,7 @@
 - PDUs
 - 
 ##### Supplies
-Console cable, Cable organizer straps,  UTP punch-down tool,Zip ties
+Batteries, Console cable, Cable organizer straps,  UTP punch-down tool,Zip ties
 
 ##### Whiteboard
 Any sketches, notes, planning, or otherwise temporary documentation for the area.
