@@ -1,69 +1,42 @@
-* [Cooking up the RetroPie](https://channel9.msdn.com/coding4fun/blog/Cooking-up-the-RetroPie)
+## Raspberry
+* [RetroPie Cooking up](https://channel9.msdn.com/coding4fun/blog/Cooking-up-the-RetroPie)
+* [RetroPie](https://retropie.org.uk/)
+* [Raspberry Pi3 as a Wi-Fi access point and OpenVPN client](https://www.reddit.com/r/sysadmin/comments/82xe4e/raspberry_pi3_as_a_wifi_access_point_and_openvpn/)
+* [What to run on Pi Raspberry?](https://www.reddit.com/r/sysadmin/comments/8ph1gx/what_to_run_on_pi_raspberry/)
+* [WTware for Raspberry thin client operating system](https://winterminal.com/)
+* [Prepare SD card for Wifi on Headless Pi](https://raspberrypi.stackexchange.com/questions/10251/prepare-sd-card-for-wifi-on-headless-pi)
+* [PI-Hole](https://pi-hole.net/)
+* [Samba: Setup a Raspberry PI as a file server for your local network](https://www.raspberrypi.org/magpi/samba-file-server/)
+* [How to setup Raspberry Pi Lighttpd](https://pimylifeup.com/raspberry-pi-lighttpd/)
+* [Let’s Encrypt On A Raspberry Pi Web Server](https://blog.wirelessmoves.com/2017/01/lets-encrypt-on-a-raspberry-pi-web-server.html)
+* [Raspberry Pi VPN Server: Build Your Own Virtual Private Network](https://pimylifeup.com/raspberry-pi-vpn-server/)
 
-https://www.reddit.com/r/sysadmin/comments/82xe4e/raspberry_pi3_as_a_wifi_access_point_and_openvpn/
+#### Other intreseting projects
+* [Projects for Your Raspberry Pi Computer](http://www.modifymypi.com/projects.html)
+* [Raspberry Pi Projects](https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects?ICID=menubar_topics_raspiprojects)
 
-https://www.reddit.com/r/sysadmin/comments/8ph1gx/what_to_run_on_pi_raspberry/
+#### None related info:
+- sudo raspi-config
+- right alt-gr and with dead keys
+- If you need to find the network name of your local network you can run the following command in the terminal: sudo iwlist wlan0 scan
 
-https://winterminal.com/
-
-https://raspberrypi.stackexchange.com/questions/10251/prepare-sd-card-for-wifi-on-headless-pi
-
-https://kubernetes.io/
-
-
-Name	Website	Info
- - PI-Hole	https://pi-hole.net/	Network-wide ad blocking via your own Linux hardware
- - Raspberry Pi File Server		Samba
- - Lighttpd		
- - RetroPie	https://retropie.org.uk/	
- - Let's Encrypt https://blog.wirelessmoves.com/2017/01/lets-encrypt-on-a-raspberry-pi-web-server.html	
- - OpenVPN	Building A Raspberry Pi VPN
- - Various Project listed	http://www.modifymypi.com/projects.html
- - Element14 projects	https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects?ICID=menubar_topics_raspiprojects
-
-
-
-
-
-Raspberry PI
-
-Website
-At the specified website below you can choose your download for Raspberry PI.
-https://www.raspberrypi.org/downloads/
-You can choice for two sort of installations::
-NOOBS
-NOOBS stands for New Out Of the Box Software, this is the most standard version if you don’t have any experiences with Raspberry PI how to install
-Raspbian
-Is the official installation for the Raspberry PI
-
-Default login
-When you download the core version (without GUI) you can login with the following username and password:
-Login: pi
-Wachtwoord: Raspberry
-
-Keyboard, time zones and advanced disk options
-sudo raspi-config
-right alt-gr and with dead keys
-
-Scan WiFi
-If you need to find the network name of your local network you can run the following command in the terminal: sudo iwlist wlan0 scan
-
-Configuring WiFI connection
-With the GUI you can click on the desired WiFi connection. The configuration file will be automatically created.
-With the terminal (no GUI) you can also setup a WiFi connection, you need to do the following steps:
-( If you are missing the /etc/wpa_supplicant/wpa_supplicant.conf you can install it if possible with the following command:  sudo apt-get install wpasupplicant )
-sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
-ssid submit the name of your network
-psk submit the password of the above specified network if required
-proto could be either RSN (WPA2) or WPA (WPA1)
-key_mgmt could be either WPA-PSK  (most probably) or WPA-EAP (enterprise networks)
-eap could be PEAP, TLS, TTLS, SIM or AKA
-pairwise kan zijn CCMP (WPA2) of TKIP (WPA1)
-auth_alg is hoogstwaarschijnlijk OPEN, andere opties zijn LEAP en SHARED 
-identity your login name to auth
-password your password
+#### WiFi settings for Raspberry
+1. With the GUI you can click on the desired WiFi connection. The configuration file will be automatically created.
+1. With the terminal (no GUI) you can also setup a WiFi connection, you need to do the following steps:
+1. If you are missing the /etc/wpa_supplicant/wpa_supplicant.conf you can install it if possible with the following command:
+sudo apt-get install wpasupplicant
+1. sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+1. ssid submit the name of your network
+1. psk submit the password of the above specified network if required
+1. proto could be either RSN (WPA2) or WPA (WPA1)
+1. key_mgmt could be either WPA-PSK  (most probably) or WPA-EAP (enterprise networks)
+1. eap could be PEAP, TLS, TTLS, SIM or AKA
+1. pairwise kan zijn CCMP (WPA2) of TKIP (WPA1)
+1. auth_alg is highlikly OPEN, other options are LEAP en SHARED 
+1. Identity your login name to auth
+1. password your password
 network={
-ssid=”SFT”
+ssid=”FILL IN SSID”
 proto=RSN
 key_mgmt=WPA-EAP
 eap=PEAP
@@ -82,8 +55,3 @@ auto lo the loopback network interface
 iface lo inet loopback the loopback network interface
 wpa-config /etc/wpa_supplicant/wpa_supplicant.conf
 sudo reboot
-
-
-
-
-
