@@ -1,19 +1,20 @@
 ## System Center Configuration Manager
 
 #### Info
-- [Five things to not screw up with SCCM](https://blog.aksysadmin.org/2017/09/07/five-things-to-not-screw-up-with-sccm)
-- [Installing and Configuring SCCM 2016 – Stage 1 Prerequisites](https://dailysysadmin.com/KB/Article/578/installing-and-configuring-sccm-2016-stage-1-prerequisites/)
-- [PrajwalDesai Blog](https://prajwaldesai.com/system-center/)
-- [SCCM and MDT – List of variables](http://www.hayesjupe.com/sccm-and-mdt-list-of-variables/)
-- [SMS, SCCM, SCCM Current Branch, SCCM Technical Preview](https://www.windows-noob.com/forums/forum/121-sms-sccm-sccm-current-branch-sccm-technical-preview/)
-- [System Center ConfigMgr](http://www.scconfigmgr.com/)
-- [System Center Dudes](https://www.systemcenterdudes.com/)
+* [Five things to not screw up with SCCM](https://blog.aksysadmin.org/2017/09/07/five-things-to-not-screw-up-with-sccm)
+* [Installing and Configuring SCCM 2016 – Stage 1 Prerequisites](https://dailysysadmin.com/KB/Article/578/installing-and-configuring-sccm-2016-stage-1-prerequisites/)
+* [PrajwalDesai Blog](https://prajwaldesai.com/system-center/)
+* [SCCM and MDT – List of variables](http://www.hayesjupe.com/sccm-and-mdt-list-of-variables/)
+* [SMS, SCCM, SCCM Current Branch, SCCM Technical Preview](https://www.windows-noob.com/forums/forum/121-sms-sccm-sccm-current-branch-sccm-technical-preview/)
+* [System Center ConfigMgr](http://www.scconfigmgr.com/)
+* [System Center Dudes](https://www.systemcenterdudes.com/)
 
 #### Videos
-- [OSD with Configuration Manager Video Tutorial Series Overview](https://blogs.technet.microsoft.com/configurationmgr/2018/07/09/osd-with-configuration-manager-video-tutorial-series-overview/)
+* [OSD with Configuration Manager Video Tutorial Series Overview](https://blogs.technet.microsoft.com/configurationmgr/2018/07/09/osd-with-configuration-manager-video-tutorial-series-overview/)
 
 #### Youtube
-- [SCCM Tutorial for Beginners - Walkthrough and Configuration for Post Installation](https://www.youtube.com/watch?v=3-2qhfvt8vo&list=PL60ejEuI_nxuFw3eWRCxmffag_nYUz4PZ&app=desktop)
+* [SCCM Tutorial for Beginners - Walkthrough and Configuration for Post Installation](https://www.youtube.com/watch?v=3-2qhfvt8vo&list=PL60ejEuI_nxuFw3eWRCxmffag_nYUz4PZ&app=desktop)
+* [System Center Updates Publisher Video Tutorial](https://blogs.technet.microsoft.com/configurationmgr/2018/08/24/system-center-updates-publisher-video-tutorial/)
 
 #### Gotcha's
 1. Make sure you have your AD under control
