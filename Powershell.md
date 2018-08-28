@@ -1,4 +1,14 @@
 * [PowerShell Scripting guide to Python : Part-1](https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/)
+* [Array (Not Hash Table) Splatting](https://tommymaynard.com/array-not-hash-table-splatting-2018/)
+* [Harder, Better, Faster, Stronger…”-filter” vs. “where-object”](https://paweljarosz.wordpress.com/2018/08/25/harder-better-faster-stronger-filter-vs-where-object/)
+* [Automate Office 365 endpoint ACL configurations using PowerShell](http://www.powershell.no/exchange/online,office/365,powershell/2018/08/26/automate-office365-ip-address-handling.html)
+* [How to get remote system information](https://www.sconstantinou.com/get-remote-system-information-part-1/)
+* [AWS PowerShell - EC2 Tags and Filtering](https://overpoweredshell.com//AWS-PowerShell-EC2-Tags-and-Filtering/)
+* [PowerShell Scripting Guide to Python – Passing Command-Line Arguments](https://ridicurious.com/2018/08/28/powershell-scripting-guide-to-python-passing-command-line-arguments/)
+* [Installing Chocolatey Packages Remotely With PowerShell](https://winsysblog.com/2018/08/installing-chocolatey-packages-remotely-with-powershell.html)
+* [Managing disks with PowerShell](https://ridicurious.com/2018/08/28/managing-disks-with-powershell/)
+
+
 
 #### Powershell Podcast
 - [The PowerShell News Podcast](https://powershellnews.podbean.com/)
