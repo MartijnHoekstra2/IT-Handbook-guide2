@@ -1,3 +1,5 @@
+* [PowerShell Scripting guide to Python : Part-1](https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/)
+
 #### Powershell Podcast
 - [The PowerShell News Podcast](https://powershellnews.podbean.com/)
 
