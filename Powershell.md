@@ -1,3 +1,5 @@
+* [PowerShell: Getting Windows Defender Status from all Domain Joined Computers (Get-AntiMalwareStatus)](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
+* [How to create PowerShell Scheduled Jobs on the Local Computer and on Remote Hosts](https://sid-500.com/2018/08/25/how-to-create-powershell-scheduled-jobs-on-the-local-computer-and-on-remote-hosts/)
 * [PowerShell Scripting guide to Python : Part-1](https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/)
 * [Array (Not Hash Table) Splatting](https://tommymaynard.com/array-not-hash-table-splatting-2018/)
 * [Harder, Better, Faster, Stronger…”-filter” vs. “where-object”](https://paweljarosz.wordpress.com/2018/08/25/harder-better-faster-stronger-filter-vs-where-object/)
