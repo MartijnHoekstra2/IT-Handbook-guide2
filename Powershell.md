@@ -9,6 +9,7 @@
 * [PowerShell Scripting Guide to Python – Passing Command-Line Arguments](https://ridicurious.com/2018/08/28/powershell-scripting-guide-to-python-passing-command-line-arguments/)
 * [Installing Chocolatey Packages Remotely With PowerShell](https://winsysblog.com/2018/08/installing-chocolatey-packages-remotely-with-powershell.html)
 * [Managing disks with PowerShell](https://ridicurious.com/2018/08/28/managing-disks-with-powershell/)
+* [Powershell execution policy](https://www.sconstantinou.com/powershell-execution-policy/)
 
 
 
