@@ -1,4 +1,5 @@
 https://www.reddit.com/r/sysadmin/comments/99oea2/vlandhcp_best_practices/
+https://www.reddit.com/r/sysadmin/comments/9bp9xy/need_help_ive_created_many_networks_but_never/
 
 1. Start with working out a diagram to get a better overvieuw of your network
 1. Make a baseline / plan
