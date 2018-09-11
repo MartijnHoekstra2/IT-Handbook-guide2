@@ -1,8 +1,9 @@
 ## Email Security
 * [Lessons Learned from the US Federal Government’s Ongoing Deployment of SPF and DMARC](https://seanthegeek.net/310/spf-dmarc-federal-government-checkdmarc/)
 * [Microsoft SPF, DKIM & DMARC Information](https://blogs.technet.microsoft.com/fasttracktips/2016/07/16/spf-dkim-dmarc-and-exchange-online/)
-- [SPF shorterner / limit advice?](https://www.reddit.com/r/sysadmin/comments/96ybi0/spf_shorterner_limit_advice/)
+* [SPF shorterner / limit advice?](https://www.reddit.com/r/sysadmin/comments/96ybi0/spf_shorterner_limit_advice/)
 * [SPF/PTR records](https://www.reddit.com/r/sysadmin/comments/9dhw98/spfptr_records/)
+* [DMARK, DKIM and SPF – deep dive useful links (with focus on O365)](https://paweljarosz.wordpress.com/2018/09/02/dmark-dkim-and-spf-deep-dive-useful-links-with-focus-on-o365/)
 
 ##### SPF
 * [SPF Check](https://www.fraudmarc.com/spf-record-check/)
