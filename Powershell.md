@@ -1,3 +1,7 @@
+* [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
+* [Showing the Uptime of all Windows Servers](https://sid-500.com/2018/09/09/powershell-showing-the-uptime-of-all-windows-servers/)
+* [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
+* [Enterprise Security: How to configure and use Group Managed Service Accounts](http://www.signalwarrant.com/enterprise-security-how-to-configure-and-use-group-managed-service-accounts/)
 * [PowerShell: Getting Windows Defender Status from all Domain Joined Computers (Get-AntiMalwareStatus)](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
 * [How to create PowerShell Scheduled Jobs on the Local Computer and on Remote Hosts](https://sid-500.com/2018/08/25/how-to-create-powershell-scheduled-jobs-on-the-local-computer-and-on-remote-hosts/)
 * [PowerShell Scripting guide to Python : Part-1](https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/)
@@ -10,7 +14,10 @@
 * [Installing Chocolatey Packages Remotely With PowerShell](https://winsysblog.com/2018/08/installing-chocolatey-packages-remotely-with-powershell.html)
 * [Managing disks with PowerShell](https://ridicurious.com/2018/08/28/managing-disks-with-powershell/)
 * [Powershell execution policy](https://www.sconstantinou.com/powershell-execution-policy/)
-
+* [PowerShell While loops explained for Absolute Beginners](https://winsysblog.com/2018/09/powershell-while-loops-explained-for-absolute-beginners.html)
+* [Select-Object filtering](https://arconnetblog.wordpress.com/2018/09/04/select-object-filtering/)
+* [Get-Scheduled Tasks status report](https://www.sconstantinou.com/get-scheduled-tasks-status-report/)
+* [Powershell Script Blocks](https://www.sconstantinou.com/powershell-script-blocks/)
 
 
 #### Powershell Podcast
@@ -86,6 +93,7 @@
 
 #### Office
 * [Does anybody know how to uninstall office via powershell?](https://www.reddit.com/r/sysadmin/comments/8cnpe2/does_anybody_know_how_to_uninstall_office_via/)
+* [Introduction to managing office 365 with powershell](https://www.randomizedharmony.com/blog/2018/8/29/milwaukee-powershell-user-group-4th-meeting)
 
 ## To decide
 - [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
