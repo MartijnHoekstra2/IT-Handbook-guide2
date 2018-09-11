@@ -4,6 +4,8 @@ https://blogs.technet.microsoft.com/askpfeplat/2013/12/15/domain-and-dc-migratio
 
 https://en.m.wikiversity.org/wiki/Wireshark/DNS
 
+https://www.techitbuzz.com/2018/04/how-replication-works-in-Active-Directory-and-How-to-Troubleshoot.html
+
 ## Prep-AD
 - [Everything you need to get started with Active Directory](https://blogs.technet.microsoft.com/ashleymcglone/2012/01/03/everything-you-need-to-get-started-with-active-directory/)
 - [Capacity Planning for Active Directory Domain Services](https://social.technet.microsoft.com/wiki/contents/articles/14355.capacity-planning-for-active-directory-domain-services.aspx)
