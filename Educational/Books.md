@@ -45,6 +45,7 @@
 ## Unix or Linux
 * [Beginning the Linux Command Line](https://www.amazon.com/gp/product/1430268301/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1430268301&linkId=668d751462f716f9f37943d17000f5d7)
 * [UNIX and Linux System Administration Handbook (5th Edition)](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554/)
+* [Essential System Administration: Tools and Techniques for Linux and Unix Administration, 3rd Edition](https://www.amazon.com/gp/product/0596003439)
 
 ## Windows
 * [Mastering Windows Server 2016](https://www.amazon.com/gp/product/1119404975/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1119404975&linkId=af8c72aaf186306c3a95943683d772cf)
