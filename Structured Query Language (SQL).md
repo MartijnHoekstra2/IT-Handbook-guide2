@@ -6,6 +6,7 @@
 * [dbatools](https://dbatools.io/)
 * [SQL Server Maintenance Solution](https://ola.hallengren.com/)
 * [SQL DBA with A Beard](https://sqldbawithabeard.com)
+* [Converting MySQL database to UTF-8](https://www.reddit.com/r/sysadmin/comments/99f1hr/converting_mysql_database_to_utf8/)
 
 #### Tools
 * [Microsoft Data Migration Assistant v3.5](https://www.microsoft.com/en-us/download/details.aspx?id=53595)
