@@ -8,3 +8,5 @@ https://www.reddit.com/r/sysadmin/comments/9brz0z/file_server_permissions_is_thi
 https://fsrm.experiant.ca/
 
 https://www.reddit.com/r/sysadmin/comments/8uuh5y/file_server_permissions/
+
+https://blogs.technet.microsoft.com/filecab/2014/06/25/streamlined-migration-of-frs-to-dfsr-sysvol/#hyper
