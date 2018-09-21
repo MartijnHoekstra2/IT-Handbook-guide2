@@ -2,6 +2,9 @@
 * [SQL Server Installation](https://docs.microsoft.com/en-us/sql/database-engine/install-windows/installation-for-sql-server?view=sql-server-2017)
 * [SQL Server Load Balancing](https://www.reddit.com/r/sysadmin/comments/8utsxd/sql_server_load_balancing/)
 
+#### Backup
+* [How do I efficiently back up and restore MySQL databases](https://www.reddit.com/r/sysadmin/comments/9ho5si/how_do_i_efficiently_back_up_and_restore_mysql/)
+
 #### Information
 * [dbatools](https://dbatools.io/)
 * [SQL Server Maintenance Solution](https://ola.hallengren.com/)
