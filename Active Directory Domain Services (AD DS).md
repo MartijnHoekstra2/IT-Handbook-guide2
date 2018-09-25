@@ -2,6 +2,8 @@ https://www.reddit.com/r/sysadmin/comments/99ozf0/dns_secondary_zone_replication
 
 https://blogs.technet.microsoft.com/askpfeplat/2013/12/15/domain-and-dc-migrations-how-to-monitor-ldap-kerberos-and-ntlm-traffic-to-your-domain-controllers/
 
+https://technet.microsoft.com/en-us/library/2009.06.subnets.aspx
+
 https://en.m.wikiversity.org/wiki/Wireshark/DNS
 
 https://www.techitbuzz.com/2018/04/how-replication-works-in-Active-Directory-and-How-to-Troubleshoot.html
