@@ -20,6 +20,7 @@
 * [Azure Block Blob Storage Backup](https://azure.microsoft.com/en-us/blog/microsoft-azure-block-blob-storage-backup/)
 * [Azure AD Activity Logs in Azure Monitor Diagnostics now in public preview](https://cloudblogs.microsoft.com/enterprisemobility/2018/07/26/azure-ad-activity-logs-in-azure-monitor-diagnostics-now-in-public-preview/)
 * [Is there a way to send an alert (email) when a device joins Azure AD?](https://www.reddit.com/r/sysadmin/comments/9djadq/is_there_a_way_to_send_an_alert_email_when_a/)
+* [Get notified when your Azure resources become unavailable](https://azure.microsoft.com/en-us/blog/get-notified-when-your-azure-resources-become-unavailable/)
 
 ## Azure Powershell
 * [Azure and Windows PowerShell: The Basics](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-windows-powershell-basics/)
