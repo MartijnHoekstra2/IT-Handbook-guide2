@@ -1,3 +1,4 @@
+* [Ubuntu 18.04 LTS Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-set-up-openvpn-server-in-5-minutes/)
 * [Install and Configure TigerVNC server on Ubuntu 18.04](https://www.cyberciti.biz/faq/install-and-configure-tigervnc-server-on-ubuntu-18-04/)
 * [FreeBSD add a user to group](https://www.cyberciti.biz/faq/freebsd-add-a-user-to-group/)
 * [FreeBSD Install Nginx Webserver Tutorial](https://www.cyberciti.biz/faq/freebsd-install-nginx-webserver/)
