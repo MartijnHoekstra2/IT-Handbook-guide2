@@ -4,6 +4,7 @@
 * [CCNA v6.0 Exam 2018](https://www.ccna7.com/)
 * [Coursera](https://www.coursera.org)
 * [edX](https://www.edx.org)
+* [Hands-On Labs](https://labondemand.com/Event/MsHandsOnLabs/Home)
 * [Linux Academy](https://linuxacademy.com/)
 * [Lynda](https://www.lynda.com/)
 * [Microsoft Azure MOOCs and Free Online Courses](https://www.mooc-list.com/tags/microsoft-azure)
