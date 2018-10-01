@@ -6,3 +6,4 @@
 - [I'm just not getting SAML SSO implementation using ADFS. Can someone help?](https://www.reddit.com/r/sysadmin/comments/8xbkmd/im_just_not_getting_saml_sso_implementation_using/)
 - [Most secure to least secure SAML Authentication Context Classes](https://www.reddit.com/r/sysadmin/comments/7klsen/most_secure_to_least_secure_saml_authentication/)
 - [SAML setup first time. ELI5?](https://www.reddit.com/r/sysadmin/comments/8aymnq/saml_setup_first_time_eli5/)
+* [Setting up SAML SSO](https://www.reddit.com/r/sysadmin/comments/8vi8rv/setting_up_saml_sso/)
