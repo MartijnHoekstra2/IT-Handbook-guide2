@@ -9,6 +9,9 @@
 * [System Center ConfigMgr](http://www.scconfigmgr.com/)
 * [System Center Dudes](https://www.systemcenterdudes.com/)
 
+#### BIOS
+* [Modern BIOS Management](http://www.scconfigmgr.com/modern-bios-management/)
+
 #### Videos
 * [OSD with Configuration Manager Video Tutorial Series Overview](https://blogs.technet.microsoft.com/configurationmgr/2018/07/09/osd-with-configuration-manager-video-tutorial-series-overview/)
 
