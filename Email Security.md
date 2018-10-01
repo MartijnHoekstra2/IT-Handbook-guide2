@@ -5,6 +5,7 @@
 * [SPF/PTR records](https://www.reddit.com/r/sysadmin/comments/9dhw98/spfptr_records/)
 * [DMARK, DKIM and SPF – deep dive useful links (with focus on O365)](https://paweljarosz.wordpress.com/2018/09/02/dmark-dkim-and-spf-deep-dive-useful-links-with-focus-on-o365/)
 * [RBLmon](https://www.rblmon.com/)
+* [Test for mondern internet standards like, IP IPv6, DNSSEC, HTTPS, DMARC, STARTTLS and DANE.](https://nl.internet.nl/)
 
 ##### SPF
 * [SPF Check](https://www.fraudmarc.com/spf-record-check/)
