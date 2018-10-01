@@ -2,3 +2,4 @@
 * [pfsense Firewall Setup and Features in Depth Version 2.4](https://www.youtube.com/watch?v=RrQrt8r_uYg)
 * [pfSense Hangout RADIUS and LDAP - August 2015](https://www.youtube.com/watch?v=ZVdK3jQ8T38)
 * [pFsense on VMware vSphere](https://doc.pfsense.org/index.php/PfSense_on_VMware_vSphere_/_ESXi)
+* [pfSense A guid to NAT, Firewall rules and some Networking 101](https://blog.monstermuffin.org/pfsense-guide-nat-firewall-rules-networking-101/)
