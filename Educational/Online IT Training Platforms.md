@@ -19,3 +19,8 @@
 #### Office 365
 * [Office 365: Administration](https://support.office.com/en-us/article/office-365-administration-81d31f7b-2ada-4ecb-83d6-20972025be94?ui=en-US&rs=en-US&ad=US)
 * [Support Corner: Using PowerShell to Manage Office 365 Users](https://mva.microsoft.com/en-US/training-courses/support-corner-using-powershell-to-manage-office-365-users-8934?l=KGtEBIC3_304984382)
+
+#### Youtube
+* [Sysadmintutorials](https://www.youtube.com/user/sysadmintutorials)
+* [Eli the Computer Guy](https://www.youtube.com/user/elithecomputerguy)
+* [NLB Solutions](https://www.youtube.com/channel/UCNzrVTbi4fe_PbYCJvhPQ8A)
