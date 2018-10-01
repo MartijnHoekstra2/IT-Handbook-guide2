@@ -32,6 +32,7 @@
 * [WinSCP](https://winscp.net/eng/download.php)
 
 #### HTML5 RDP
+* [Apache Guacamole](https://guacamole.apache.org/)
 * [FreeRDP](https://cloudbase.it/freerdp-html5-proxy-windows/)
 * [Remotespark](http://www.remotespark.com/index.html)
 
