@@ -1,3 +1,4 @@
+* [Enabling Remote Desktop with PowerShell Remoting](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
 * [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
 * [Showing the Uptime of all Windows Servers](https://sid-500.com/2018/09/09/powershell-showing-the-uptime-of-all-windows-servers/)
 * [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
