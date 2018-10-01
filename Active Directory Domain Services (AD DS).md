@@ -11,6 +11,8 @@ https://www.techitbuzz.com/2018/04/how-replication-works-in-Active-Directory-and
 https://blogs.technet.microsoft.com/askds/2008/09/24/domain-locator-across-a-forest-trust/
 
 * [Raising Active Directory functional levels](https://www.reddit.com/r/sysadmin/comments/8wl34c/raising_active_directory_functional_levels/)
+* [
+After the Active Directory post: what are some asinine hidden attributes of things other than AD everyone should know?](https://www.reddit.com/r/sysadmin/comments/9b0r36/after_the_active_directory_post_what_are_some/)
 
 ## Prep-AD
 - [Everything you need to get started with Active Directory](https://blogs.technet.microsoft.com/ashleymcglone/2012/01/03/everything-you-need-to-get-started-with-active-directory/)
