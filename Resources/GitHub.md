@@ -29,3 +29,4 @@
 * [Sublist3r](https://github.com/aboul3la/Sublist3r)
 * [TechBookHunter](https://github.com/TechBookHunter)
 * [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
+* [VNC client using HTML5](https://github.com/novnc/noVNC)
