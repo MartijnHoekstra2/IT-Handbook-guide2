@@ -44,6 +44,7 @@
 * [Google SNMP books search](https://www.google.nl/search?q=snmp+book+pdf&rlz=1C1GCEA_enNL762NL762&oq=snmp+book+pdf&aqs=chrome..69i57j0.126j0j4&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)
 
 ## SQL
+* [Select Star SQL](https://selectstarsql.com/)
 * [Learn SQL Server Administration in a Month of Lunches: Covers Microsoft SQL Server 2005-2014 1st Edition](https://www.amazon.com/Learn-Server-Administration-Month-Lunches/dp/1617292133)
 * [T-SQL Fundamentals (3rd Edition) 3rd Edition](https://www.amazon.com/T-SQL-Fundamentals-3rd-Itzik-Ben-Gan/dp/150930200X)
 
