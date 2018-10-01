@@ -4,9 +4,9 @@
 * [Redirecting User's Folders on Terminal Server Farm](https://www.reddit.com/r/sysadmin/comments/7yy3im/redirecting_users_folders_on_terminal_server_farm/?st=jf8mv2vx&sh=93c1ddd7)
 * [A life without a roaming profile](https://www.reddit.com/r/sysadmin/comments/8sr86z/a_life_without_a_roaming_profile/)
 * [Folder Redirection - Part 2: Setting up your file server](https://4sysops.com/archives/folder-redirection-part-2-setting-up-your-file-server/)
+* [Prevent Workstations from Going To Sleep when Inactive via GPO](https://www.reddit.com/r/sysadmin/comments/9jpvcy/prevent_workstations_from_going_to_sleep_when/)
 * [Start Menu Redirection - 2 different source folders?](https://www.reddit.com/r/sysadmin/comments/879iqm/start_menu_redirection_2_different_source_folders/?st=jf8ndc1c&sh=50b1b6da)
-* [
-Windows and its wonderful Lock Screen](https://www.reddit.com/r/sysadmin/comments/8w8z1w/windows_and_its_wonderful_lock_screen/)
+* [Windows and its wonderful Lock Screen](https://www.reddit.com/r/sysadmin/comments/8w8z1w/windows_and_its_wonderful_lock_screen/)
 
 * [Creating a "True" roaming profile setup](https://www.reddit.com/r/sysadmin/comments/8cncqa/creating_a_true_roaming_profile_setup/)
 * [File Explorer GPO Lockdown Windows Server 2012 R2](https://www.reddit.com/r/sysadmin/comments/7l4whn/file_explorer_gpo_lockdown_windows_server_2012_r2/)
