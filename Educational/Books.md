@@ -1,5 +1,6 @@
 ## Collections
 * [FREE Microsoft eBook](https://blogs.msdn.microsoft.com/mssmallbiz/2017/07/11/largest-free-microsoft-ebook-giveaway-im-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-office-365-office-2016-power-bi-azure-windows-8-1-office-2013-sharepo/)
+* [Free eBooks from Microsoft Press](https://mva.microsoft.com/ebooks)
 
 ## Active Directory
 * [Active Directory, 5th Edition Designing, Deploying, and Running Active Directory](https://www.amazon.com/Active-Directory-Designing-Deploying-Running/dp/1449320023)
@@ -14,6 +15,7 @@
 ## Linux
 * [Book review: Ed Mastery](https://www.cyberciti.biz/reviews/book-review-ed-mastery/)
 * [linux-training.be](http://linux-training.be/)
+* [Mastering Vim Quickly: From WTF to OMG in no time](https://www.amazon.com/Mastering-Vim-Quickly-WTF-time/dp/1983325740/ref=as_li_ss_tl?ie=UTF8&qid=1536067806&sr=8-1&keywords=mastering+vim&linkCode=sl1&tag=cyberciti-20&linkId=b7cf3c031546d7b80ecabe4cbe367eae&language=en_US)
 
 ## Networking
 * [Network Warrior: Everything You Need to Know That Wasn't on the CCNA Exam](https://www.amazon.com/Network-Warrior-Everything-Need-Wasnt/dp/1449387861)
@@ -38,6 +40,9 @@
 * [System Center 2012 Configuration Manager (SCCM) Unleashed](https://www.amazon.com/gp/product/0672334372/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0672334372&linkId=db8a14e717420d0921ba7efa1324eff6)
 * [System Center 2012 R2 Configuration Manager: Mastering the Fundamentals 3rd Edition](https://www.amazon.com/System-Center-2012-Configuration-Manager/dp/9187445085)
 
+## SNMP
+* [Google SNMP books search](https://www.google.nl/search?q=snmp+book+pdf&rlz=1C1GCEA_enNL762NL762&oq=snmp+book+pdf&aqs=chrome..69i57j0.126j0j4&sourceid=chrome&ie=UTF-8&safe=active&ssui=on)
+
 ## SQL
 * [Learn SQL Server Administration in a Month of Lunches: Covers Microsoft SQL Server 2005-2014 1st Edition](https://www.amazon.com/Learn-Server-Administration-Month-Lunches/dp/1617292133)
 * [T-SQL Fundamentals (3rd Edition) 3rd Edition](https://www.amazon.com/T-SQL-Fundamentals-3rd-Itzik-Ben-Gan/dp/150930200X)
@@ -51,4 +56,4 @@
 * [Mastering Windows Server 2016](https://www.amazon.com/gp/product/1119404975/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1119404975&linkId=af8c72aaf186306c3a95943683d772cf)
 * [Windows Server 2008 R2 Unleashed 1st Edition](https://www.amazon.com/Windows-Server-2008-R2-Unleashed/dp/067233092X)
 * [Windows Server 2016 Unleashed (includes Content Update Program) 1st Edition](https://www.amazon.com/Windows-Server-Unleashed-Content-Program/dp/0134583752/)
-<br />
+* [Windows Internals Book](https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals)
