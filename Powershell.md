@@ -1,5 +1,6 @@
 * [Enabling Remote Desktop with PowerShell Remoting](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
 * [Connection Report for Remote Desktop (RDPConnectionParser.ps1)](https://gallery.technet.microsoft.com/Remote-Desktop-Connection-3fe225cd)
+* [Use PowerShell to Determine What Your System is Talking to](https://mikefrobbins.com/2018/07/19/use-powershell-to-determine-what-your-system-is-talking-to/)
 * [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
 * [Showing the Uptime of all Windows Servers](https://sid-500.com/2018/09/09/powershell-showing-the-uptime-of-all-windows-servers/)
 * [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
