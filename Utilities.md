@@ -1,6 +1,9 @@
 #### AdBlocker
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=nl)
 
+#### API Builder & testing
+* [Postman](https://www.getpostman.com/)
+
 #### Boot enclosures
 * [Zalman ZM-VE350 USB 3.0 External 2.5" Hard Drive Enclosure With Built-In Virtual CD Emulator (ZM-V350B)](https://www.amazon.com/Zalman-ZM-VE350-External-Enclosure-ZM-V350B/dp/B019C23H06)
 
