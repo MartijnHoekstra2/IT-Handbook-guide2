@@ -1,13 +1,28 @@
 #### Remote Desktop
-* [Enabling Remote Desktop with PowerShell Remoting](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
-* [Connection Report for Remote Desktop (RDPConnectionParser.ps1)](https://gallery.technet.microsoft.com/Remote-Desktop-Connection-3fe225cd)
+* [Enabling Remote Desktop](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
+* [Connection report for Remote Desktop](https://gallery.technet.microsoft.com/Remote-Desktop-Connection-3fe225cd)
 
 #### Network
 * [Use PowerShell to Determine What Your System is Talking to](https://mikefrobbins.com/2018/07/19/use-powershell-to-determine-what-your-system-is-talking-to/)
 
+#### Office
+* [Connect to Office 365](http://mikefrobbins.com/2018/05/17/connect-to-office-365-with-powershell/)
+* [Configuring: Send As Permission in Office 365](http://mikefrobbins.com/2018/05/31/configuring-send-as-permission-in-office-365-using-powershell/)
+* [Check: If a mailbox is On-Premises or in Office 365](https://mikefrobbins.com/2018/08/02/determine-if-a-mailbox-is-on-premises-or-in-office-365-with-powershell/)
+* [License: Copy Office 365 user license](https://king.geek.nz/2018/07/24/copying-office-365-user-licensing/)
+* [License: Assign an Office 365 license to an user](http://mikefrobbins.com/2018/05/24/assign-a-license-to-an-office-365-user-with-powershell/)
+* [Managing: Office 365](https://www.randomizedharmony.com/blog/2018/8/29/milwaukee-powershell-user-group-4th-meeting)
+* [Uninstall: Office 365](https://www.reddit.com/r/sysadmin/comments/8cnpe2/does_anybody_know_how_to_uninstall_office_via/)
+
+
+#### Remote
+* [Remote information about the system](https://www.sconstantinou.com/get-remote-system-information-part-1/)
+* [Remote information about installed software](https://sid-500.com/2018/04/02/powershell-how-to-get-a-list-of-all-installed-software-on-remote-computers/)
+
 #### Windows Server
 * [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
-
+* [Alert when Disk Space is running low on my Windows Servers](https://sid-500.com/2018/06/03/powershell-alert-me-when-disk-space-is-running-low-on-my-windows-servers-e-mail-notification/)
+* [Create a Scheduled Tasks on local and or remote computer](https://sid-500.com/2018/08/25/how-to-create-powershell-scheduled-jobs-on-the-local-computer-and-on-remote-hosts/)
 
 
 
@@ -16,12 +31,12 @@
 * [Enterprise Security: How to configure and use Group Managed Service Accounts](http://www.signalwarrant.com/enterprise-security-how-to-configure-and-use-group-managed-service-accounts/)
 * [PSWinDocumentation - ActiveDirectory documentation to Word/Excel straight from PowerShell](https://www.reddit.com/r/sysadmin/comments/99rhkn/pswindocumentation_activedirectory_documentation/)
 * [PowerShell: Getting Windows Defender Status from all Domain Joined Computers (Get-AntiMalwareStatus)](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
-* [How to create PowerShell Scheduled Jobs on the Local Computer and on Remote Hosts](https://sid-500.com/2018/08/25/how-to-create-powershell-scheduled-jobs-on-the-local-computer-and-on-remote-hosts/)
+
 * [PowerShell Scripting guide to Python : Part-1](https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/)
 * [Array (Not Hash Table) Splatting](https://tommymaynard.com/array-not-hash-table-splatting-2018/)
 * [Harder, Better, Faster, Stronger…”-filter” vs. “where-object”](https://paweljarosz.wordpress.com/2018/08/25/harder-better-faster-stronger-filter-vs-where-object/)
 * [Automate Office 365 endpoint ACL configurations using PowerShell](http://www.powershell.no/exchange/online,office/365,powershell/2018/08/26/automate-office365-ip-address-handling.html)
-* [How to get remote system information](https://www.sconstantinou.com/get-remote-system-information-part-1/)
+
 * [AWS PowerShell - EC2 Tags and Filtering](https://overpoweredshell.com//AWS-PowerShell-EC2-Tags-and-Filtering/)
 * [PowerShell Scripting Guide to Python – Passing Command-Line Arguments](https://ridicurious.com/2018/08/28/powershell-scripting-guide-to-python-passing-command-line-arguments/)
 * [Installing Chocolatey Packages Remotely With PowerShell](https://winsysblog.com/2018/08/installing-chocolatey-packages-remotely-with-powershell.html)
@@ -104,9 +119,7 @@
 * [Powershell Hardware inventory script - Part 1](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
 * [Powershell Hardware inventory script - Part 2](https://www.sconstantinou.com/powershell-hardware-inventory-script-part-2/)
 
-#### Office
-* [Does anybody know how to uninstall office via powershell?](https://www.reddit.com/r/sysadmin/comments/8cnpe2/does_anybody_know_how_to_uninstall_office_via/)
-* [Introduction to managing office 365 with powershell](https://www.randomizedharmony.com/blog/2018/8/29/milwaukee-powershell-user-group-4th-meeting)
+
 
 ## To decide
 - [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
@@ -119,17 +132,10 @@
 - [Notify Users for password expiration](https://www.sconstantinou.com/notify-users-for-password-expiration/)
 - [AWS PowerShell - Creating Ec2 Instances and Basic Machine Management](https://overpoweredshell.com//AWS-PowerShell-Creating-Ec2-Instances-and-Basic-Machine-Management/)
 
-#### Office365
-* [Assign a License to an Office 365 User with PowerShell](http://mikefrobbins.com/2018/05/24/assign-a-license-to-an-office-365-user-with-powershell/)
-* [Configuring “Send As” Permission in Office 365 using PowerShell](http://mikefrobbins.com/2018/05/31/configuring-send-as-permission-in-office-365-using-powershell/)
-* [Connect to Office 365 with PowerShell](http://mikefrobbins.com/2018/05/17/connect-to-office-365-with-powershell/)
-* [Do more cool stuuf with Powershell and Office 365](http://techgenix.com/powershell-and-office-365/)
-- [Determine if a Mailbox is On-Premises or in Office 365 with PowerShell](https://mikefrobbins.com/2018/08/02/determine-if-a-mailbox-is-on-premises-or-in-office-365-with-powershell/)
-- [Copying Office 365 User Licensing](https://king.geek.nz/2018/07/24/copying-office-365-user-licensing/)
 
 #### Windows servers
-* [PowerShell: Alert me when Disk Space is running low on my Windows Servers (E-Mail Notification)](https://sid-500.com/2018/06/03/powershell-alert-me-when-disk-space-is-running-low-on-my-windows-servers-e-mail-notification/)
-* [PowerShell: How to get a list of all installed Software on Remote Computers](https://sid-500.com/2018/04/02/powershell-how-to-get-a-list-of-all-installed-software-on-remote-computers/)
+
+
 * [How to run a PowerShell script as a Windows service](https://4sysops.com/archives/how-to-run-a-powershell-script-as-a-windows-service/)
 * [Use Powershell commands for all Windows Operating Systems](http://techgenix.com/basic-powershell-commands/)
 * [Use PowerShell to Install Windows Features and Reboot](http://mikefrobbins.com/2018/06/21/use-powershell-to-install-windows-features-and-reboot/)
