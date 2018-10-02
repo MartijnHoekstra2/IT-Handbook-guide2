@@ -41,13 +41,12 @@
 * [Hardware inventory script](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
 * [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
 
-
-
-#### Windows Server Features and Roles
+## Windows Server Features and Roles
 * [Install Windows Features and Reboot](http://mikefrobbins.com/2018/06/21/use-powershell-to-install-windows-features-and-reboot/)
 * [Install and configure an FTP server](https://4sysops.com/archives/install-and-configure-an-ftp-server-with-powershell/)
 
 
+## Still to find out
 * [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
 * [Showing the Uptime of all Windows Servers](https://sid-500.com/2018/09/09/powershell-showing-the-uptime-of-all-windows-servers/)
 * [Enterprise Security: How to configure and use Group Managed Service Accounts](http://www.signalwarrant.com/enterprise-security-how-to-configure-and-use-group-managed-service-accounts/)
