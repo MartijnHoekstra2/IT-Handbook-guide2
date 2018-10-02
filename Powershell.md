@@ -1,3 +1,14 @@
+## Active Directory
+* [PowerShell: Getting Windows Defender Status from all Domain Joined Computers (Get-AntiMalwareStatus)](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
+* [PSWinDocumentation - ActiveDirectory documentation to Word/Excel straight from PowerShell](https://www.reddit.com/r/sysadmin/comments/99rhkn/pswindocumentation_activedirectory_documentation/)
+* [List all users and group membership - Part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
+* [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
+* [Force password change multuple users](https://www.sconstantinou.com/powershell-force-password-change-multiple-users/)
+* [Get serial numbers of all Domain Computers with PowerShell](https://sid-500.com/2018/05/14/get-serial-numbers-of-all-domain-computers-by-using-windows-powershell/)
+* [Get Group Membership changes](https://www.sconstantinou.com/get-group-membership-changes/)
+* [Notify Users for password expiration](https://www.sconstantinou.com/notify-users-for-password-expiration/)
+* [Shutdown all your Windows computers in Active Directory with PowerShell](https://winsysblog.com/2018/05/shutdown-all-your-windows-computers-in-active-directory-with-powershell.html)
+
 ## AWS
 * [Configuring AWS CloudWatch with PowerShell](https://www.brycematthew.net/powershell/automation/2018/06/18/Configuring-AWS-CloudWatch-With-PowerShell.html)
 * [EC2 creating Instances and Basic Machine Management](https://overpoweredshell.com//AWS-PowerShell-Creating-Ec2-Instances-and-Basic-Machine-Management/)
@@ -9,6 +20,9 @@
 * [Using PowerShell to connect to Microsoft Azure](https://luke.geek.nz/Using-PowerShell-to-connect-to-Azure)
 * [How to Write an Azure Function in PowerShell](https://devblackops.io//how-to-write-an-azure-function-in-powershell/)
 * [Azure and Windows PowerShell: Getting Information](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-and-windows-powershell-getting-information/)
+
+## Certificates
+* [PowerShell: Alert me when Certificates expires soon](https://sid-500.com/2018/07/09/powershell-alert-me-when-certificates-expires-soon/)
 
 ## Remote Desktop
 * [Enabling Remote Desktop](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
@@ -25,9 +39,14 @@
 * [License: Assign an Office 365 license to an user](http://mikefrobbins.com/2018/05/24/assign-a-license-to-an-office-365-user-with-powershell/)
 * [Managing: Office 365](https://www.randomizedharmony.com/blog/2018/8/29/milwaukee-powershell-user-group-4th-meeting)
 * [Uninstall: Office 365](https://www.reddit.com/r/sysadmin/comments/8cnpe2/does_anybody_know_how_to_uninstall_office_via/)
+* [Automate Office 365 endpoint ACL configurations using PowerShell](http://www.powershell.no/exchange/online,office/365,powershell/2018/08/26/automate-office365-ip-address-handling.html)
 
 ## Podcast
 - [The PowerShell News Podcast](https://powershellnews.podbean.com/)
+
+## Python
+* [PowerShell Scripting Guide to Python – Passing Command-Line Arguments](https://ridicurious.com/2018/08/28/powershell-scripting-guide-to-python-passing-command-line-arguments/)
+* [PowerShell Scripting guide to Python : Part-1](https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/)
 
 ## Remote
 * [Remote information about the system](https://www.sconstantinou.com/get-remote-system-information-part-1/)
@@ -40,6 +59,11 @@
 * [Disable SMB1](https://luke.geek.nz/Using-PowerShell-to-disable-SMB1)
 * [Hardware inventory script](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
 * [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
+* [Uptime of all Windows Servers](https://sid-500.com/2018/09/09/powershell-showing-the-uptime-of-all-windows-servers/)
+* [Get-Scheduled Tasks status report](https://www.sconstantinou.com/get-scheduled-tasks-status-report/)
+* [Managing disks with PowerShell](https://ridicurious.com/2018/08/28/managing-disks-with-powershell/)
+* [Learn About Powershell Scheduled Jobs and how to create them](https://4sysops.com/archives/create-powershell-scheduled-jobs/)
+* [Get EventLog Event Details Content PowerShell](https://itfordummies.net/2018/07/30/get-eventlog-event-details-content-powershell/)
 
 ## Windows Server Features and Roles
 * [Install Windows Features and Reboot](http://mikefrobbins.com/2018/06/21/use-powershell-to-install-windows-features-and-reboot/)
@@ -48,27 +72,14 @@
 
 ## Still to find out
 * [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
-* [Showing the Uptime of all Windows Servers](https://sid-500.com/2018/09/09/powershell-showing-the-uptime-of-all-windows-servers/)
 * [Enterprise Security: How to configure and use Group Managed Service Accounts](http://www.signalwarrant.com/enterprise-security-how-to-configure-and-use-group-managed-service-accounts/)
-* [PSWinDocumentation - ActiveDirectory documentation to Word/Excel straight from PowerShell](https://www.reddit.com/r/sysadmin/comments/99rhkn/pswindocumentation_activedirectory_documentation/)
-* [PowerShell: Getting Windows Defender Status from all Domain Joined Computers (Get-AntiMalwareStatus)](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
-
-* [PowerShell Scripting guide to Python : Part-1](https://ridicurious.com/2018/03/30/powershell-scripting-guide-to-python-part1/)
 * [Array (Not Hash Table) Splatting](https://tommymaynard.com/array-not-hash-table-splatting-2018/)
 * [Harder, Better, Faster, Stronger…”-filter” vs. “where-object”](https://paweljarosz.wordpress.com/2018/08/25/harder-better-faster-stronger-filter-vs-where-object/)
-* [Automate Office 365 endpoint ACL configurations using PowerShell](http://www.powershell.no/exchange/online,office/365,powershell/2018/08/26/automate-office365-ip-address-handling.html)
-
-
-* [PowerShell Scripting Guide to Python – Passing Command-Line Arguments](https://ridicurious.com/2018/08/28/powershell-scripting-guide-to-python-passing-command-line-arguments/)
 * [Installing Chocolatey Packages Remotely With PowerShell](https://winsysblog.com/2018/08/installing-chocolatey-packages-remotely-with-powershell.html)
-* [Managing disks with PowerShell](https://ridicurious.com/2018/08/28/managing-disks-with-powershell/)
 * [Powershell execution policy](https://www.sconstantinou.com/powershell-execution-policy/)
 * [PowerShell While loops explained for Absolute Beginners](https://winsysblog.com/2018/09/powershell-while-loops-explained-for-absolute-beginners.html)
 * [Select-Object filtering](https://arconnetblog.wordpress.com/2018/09/04/select-object-filtering/)
-* [Get-Scheduled Tasks status report](https://www.sconstantinou.com/get-scheduled-tasks-status-report/)
 * [Powershell Script Blocks](https://www.sconstantinou.com/powershell-script-blocks/)
-
-
 
 
 #### Powershell Commands
@@ -114,28 +125,15 @@
 * [Understanding Powershell Write-Verbose and -Warning Template](https://tommymaynard.com/write-verbose-and-warning-template-2018/)
 * [Understanding Powershell File Paths from the Pipeline](https://4sysops.com/archives/process-file-paths-from-the-pipeline-in-powershell-functions/)
 * [Powershell - PSSpeedTest](https://mattbobke.com/2018/06/05/introducing-my-first-powershell-module-psspeedtest/)3
-* [PowerShell: Alert me when Certificates expires soon](https://sid-500.com/2018/07/09/powershell-alert-me-when-certificates-expires-soon/)
-* [Powershell Core Commands](https://www.sconstantinou.com/powershell-core-commands/)
 
-#### Active Directory
-* [List all users and group membership - Part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
-* [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
-* [Force password change multuple users](https://www.sconstantinou.com/powershell-force-password-change-multiple-users/)
-* [Get serial numbers of all Domain Computers with PowerShell](https://sid-500.com/2018/05/14/get-serial-numbers-of-all-domain-computers-by-using-windows-powershell/)
+* [Powershell Core Commands](https://www.sconstantinou.com/powershell-core-commands/)
 
 
 ## To decide
 * [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
-
 * [Windows Powershell Sessions PSSessions](https://www.sconstantinou.com/windows-powershell-sessions-pssessions/)
-* [Get Group Membership changes](https://www.sconstantinou.com/get-group-membership-changes/)
 * [Powershell Automatic Variables](https://www.sconstantinou.com/powershell-automatic-variables/)
-* [Learn About Powershell Scheduled Jobs and how to create them](https://4sysops.com/archives/create-powershell-scheduled-jobs/)
-* [Get EventLog Event Details Content PowerShell](https://itfordummies.net/2018/07/30/get-eventlog-event-details-content-powershell/)
-* [Notify Users for password expiration](https://www.sconstantinou.com/notify-users-for-password-expiration/)
-
-
 
 #### Windows servers
 * [Use PowerShell to start the DFS Namespace service](https://luke.geek.nz/win/dfs-namespace-service-not-starting-reboot/)
-* [Shutdown all your Windows computers in Active Directory with PowerShell](https://winsysblog.com/2018/05/shutdown-all-your-windows-computers-in-active-directory-with-powershell.html)
+
