@@ -1,9 +1,18 @@
+#### Remote Desktop
 * [Enabling Remote Desktop with PowerShell Remoting](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
 * [Connection Report for Remote Desktop (RDPConnectionParser.ps1)](https://gallery.technet.microsoft.com/Remote-Desktop-Connection-3fe225cd)
+
+#### Network
 * [Use PowerShell to Determine What Your System is Talking to](https://mikefrobbins.com/2018/07/19/use-powershell-to-determine-what-your-system-is-talking-to/)
+
+#### Windows Server
+* [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
+
+
+
+
 * [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
 * [Showing the Uptime of all Windows Servers](https://sid-500.com/2018/09/09/powershell-showing-the-uptime-of-all-windows-servers/)
-* [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
 * [Enterprise Security: How to configure and use Group Managed Service Accounts](http://www.signalwarrant.com/enterprise-security-how-to-configure-and-use-group-managed-service-accounts/)
 * [PSWinDocumentation - ActiveDirectory documentation to Word/Excel straight from PowerShell](https://www.reddit.com/r/sysadmin/comments/99rhkn/pswindocumentation_activedirectory_documentation/)
 * [PowerShell: Getting Windows Defender Status from all Domain Joined Computers (Get-AntiMalwareStatus)](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
