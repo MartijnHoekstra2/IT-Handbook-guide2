@@ -71,6 +71,32 @@
 * [Install and configure an FTP server](https://4sysops.com/archives/install-and-configure-an-ftp-server-with-powershell/)
 
 
+## Powershell Commands
+* [Command: Core ](https://www.sconstantinou.com/powershell-core-commands/)
+* [Command: History](https://www.sconstantinou.com/powershell-command-history/)
+* [Command: Structure](https://www.sconstantinou.com/powershell-commands-structure/)
+* [Command: Useful Commands](https://www.sconstantinou.com/useful-powershell-commands/)
+
+## Powershell Foreach
+* [Foreach: Explained 1](https://winsysblog.com/2018/05/powershell-foreach-loops-explained-for-absolute-beginners.html)
+* [Foreach: Explained 2](http://techgenix.com/powershell-foreach-loop/)
+
+## Powershell Operators
+* [Operators: Arithmetic](https://www.sconstantinou.com/powershell-arithmetic-operators/)
+* [Operators: Assignment](https://www.sconstantinou.com/powershell-assignment-operators/)
+* [Operators: Comparison filters](https://get-help.guru/2018/07/02/filtering-and-using-comparison-operators-in-powershell/)
+* [Operators: Comparison](https://www.sconstantinou.com/powershell-comparison-operators/)
+* [Operators: Join](https://www.sconstantinou.com/powershell-join-operator/)
+* [Operators: Logical](https://www.sconstantinou.com/powershell-logical-operators/)
+* [Operators: Redirection](https://www.sconstantinou.com/powershell-redirection-operators/)
+* [Operators: Split](https://www.sconstantinou.com/powershell-split-operator/)
+* [Operators: Type](https://www.sconstantinou.com/powershell-type-operators/)
+
+
+
+
+
+
 ## Still to find out
 * [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
 * [Enterprise Security: How to configure and use Group Managed Service Accounts](http://www.signalwarrant.com/enterprise-security-how-to-configure-and-use-group-managed-service-accounts/)
@@ -78,38 +104,15 @@
 * [Harder, Better, Faster, Stronger…”-filter” vs. “where-object”](https://paweljarosz.wordpress.com/2018/08/25/harder-better-faster-stronger-filter-vs-where-object/)
 * [Installing Chocolatey Packages Remotely With PowerShell](https://winsysblog.com/2018/08/installing-chocolatey-packages-remotely-with-powershell.html)
 * [Powershell execution policy](https://www.sconstantinou.com/powershell-execution-policy/)
-* [PowerShell While loops explained for Absolute Beginners](https://winsysblog.com/2018/09/powershell-while-loops-explained-for-absolute-beginners.html)
 * [Select-Object filtering](https://arconnetblog.wordpress.com/2018/09/04/select-object-filtering/)
 * [Powershell Script Blocks](https://www.sconstantinou.com/powershell-script-blocks/)
-
-
-#### Powershell
-* [Operators: Arithmetic](https://www.sconstantinou.com/powershell-arithmetic-operators/)
-* [Operators: Assignment](https://www.sconstantinou.com/powershell-assignment-operators/)
-* [Operators: Comparison](https://www.sconstantinou.com/powershell-comparison-operators/)
-* [Operators: Comparison filters](https://get-help.guru/2018/07/02/filtering-and-using-comparison-operators-in-powershell/)
-* [Operators: Join](https://www.sconstantinou.com/powershell-join-operator/)
-* [Operators: Logical](https://www.sconstantinou.com/powershell-logical-operators/)
-* [Operators: Redirection](https://www.sconstantinou.com/powershell-redirection-operators/)
-* [Operators: Split](https://www.sconstantinou.com/powershell-split-operator/)
-
-
-
-
-* [Useful Powershell Commands](https://www.sconstantinou.com/useful-powershell-commands/)
 * [Powershell Comments](https://www.sconstantinou.com/powershell-comments/)
-
-
-
-* [Powershell Commands Structure](https://www.sconstantinou.com/powershell-commands-structure/)
 * [Powershell Format Output View](https://www.sconstantinou.com/powershell-format-output-view/)
 * [Powershell Data Format](https://www.sconstantinou.com/powershell-date-format/)
 * [Powershell Quotes](https://www.sconstantinou.com/powershell-quotes/)
-* [Powershell Command History](https://www.sconstantinou.com/powershell-command-history/)
-
 * [Powershell Reserverd Words](https://www.sconstantinou.com/powershell-reserved-words/)
 * [Powershell Special Characters](https://www.sconstantinou.com/powershell-special-characters/)
-- [Powershell Type Operators](https://www.sconstantinou.com/powershell-type-operators/)
+
 
 #### Powershell for Beginners
 * [PowerShell for Beginners (Part 1): The Console and the First Command](https://sid-500.com/2017/12/26/powershell-for-beginners-part-1-the-console-and-the-first-command/)
@@ -128,12 +131,8 @@
 * [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
 * [Windows Powershell Sessions PSSessions](https://www.sconstantinou.com/windows-powershell-sessions-pssessions/)
 * [Powershell Automatic Variables](https://www.sconstantinou.com/powershell-automatic-variables/)
-* [Understanding Powershell Foreach loop and Foreach-Object](http://techgenix.com/powershell-foreach-loop/)
-* [Understanding PowerShell Foreach loops explained](https://winsysblog.com/2018/05/powershell-foreach-loops-explained-for-absolute-beginners.html)
 * [Understanding PowerShell Scriptblock](https://4sysops.com/archives/the-powershell-scriptblock/)
 * [Understanding PowerShell Toolmaking](https://www.adamtheautomator.com/understanding-powershell-toolmaking/)
 * [Understanding Powershell Write-Verbose and -Warning Template](https://tommymaynard.com/write-verbose-and-warning-template-2018/)
 * [Understanding Powershell File Paths from the Pipeline](https://4sysops.com/archives/process-file-paths-from-the-pipeline-in-powershell-functions/)
 * [Powershell - PSSpeedTest](https://mattbobke.com/2018/06/05/introducing-my-first-powershell-module-psspeedtest/)3
-* [Powershell Core Commands](https://www.sconstantinou.com/powershell-core-commands/)
-
