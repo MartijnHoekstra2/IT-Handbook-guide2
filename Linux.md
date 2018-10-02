@@ -8,6 +8,8 @@
 * [How to Set Up and Use LXD on CentOS](https://www.cyberciti.biz/faq/how-to-set-up-and-use-lxd-on-centos-linux-7-x-server/)
 * [Rebuilding corrupted RPM database on a CentOS](https://www.cyberciti.biz/tips/rebuilding-corrupted-rpm-database.html)
 * [Install IPTraf to Get Network Statistics](https://www.cyberciti.biz/faq/install-iptraf-centos-redhat-fedora-linux/)
+* [CentOS 7.0 Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/centos-7-0-set-up-openvpn-server-in-5-minutes/)
+* [CentOS 7 dig command not found – How to install dig on CentOS](https://www.cyberciti.biz/faq/centos-7-dig-command-not-found-how-to-install-dig-on-centos/)
 
 ## Debain
 * [Debian Linux Install GNU GCC Compiler and Development Environment](https://www.cyberciti.biz/faq/debian-linux-install-gnu-gcc-compiler/)
