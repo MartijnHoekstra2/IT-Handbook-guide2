@@ -5,11 +5,10 @@
 * [Install AWS Tools for PowerShell Core 6.0.2](https://ridicurious.com/2018/06/06/install-aws-tools-for-powershell-core-6-0-2/)
 
 ## Azure
-* [MSOnline PowerShell for Azure Active Directory 1.1.166.0](https://www.powershellgallery.com/packages/MSOnline/1.1.166.0)
 * [Understanding PowerShell objects: an Azure VM example](https://www.yobyot.com/cloud/explain-powershell-objects-an-azure-vm-example/2018/05/21/)
 * [Using PowerShell to connect to Microsoft Azure](https://luke.geek.nz/Using-PowerShell-to-connect-to-Azure)
 * [How to Write an Azure Function in PowerShell](https://devblackops.io//how-to-write-an-azure-function-in-powershell/)
-* [Azure and Windows PowerShell: Getting Information](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-and-windows-powershell-getting-information/
+* [Azure and Windows PowerShell: Getting Information](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-and-windows-powershell-getting-information/)
 
 ## Remote Desktop
 * [Enabling Remote Desktop](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
