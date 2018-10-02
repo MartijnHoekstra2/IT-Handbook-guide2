@@ -1,6 +1,6 @@
 ## Active Directory
-* [PowerShell: Getting Windows Defender Status from all Domain Joined Computers (Get-AntiMalwareStatus)](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
-* [PSWinDocumentation - ActiveDirectory documentation to Word/Excel straight from PowerShell](https://www.reddit.com/r/sysadmin/comments/99rhkn/pswindocumentation_activedirectory_documentation/)
+* [Status: Windows Defender for all domain computers](https://sid-500.com/2018/08/27/powershell-getting-windows-defender-status-from-all-domain-joined-computers-get-antimalwarestatus/)
+* [Report: Active Directory documentation](https://www.reddit.com/r/sysadmin/comments/99rhkn/pswindocumentation_activedirectory_documentation/)
 * [List all users and group membership - Part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
 * [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
 * [Force password change multuple users](https://www.sconstantinou.com/powershell-force-password-change-multiple-users/)
