@@ -64,6 +64,7 @@
 * [Managing disks with PowerShell](https://ridicurious.com/2018/08/28/managing-disks-with-powershell/)
 * [Learn About Powershell Scheduled Jobs and how to create them](https://4sysops.com/archives/create-powershell-scheduled-jobs/)
 * [Get EventLog Event Details Content PowerShell](https://itfordummies.net/2018/07/30/get-eventlog-event-details-content-powershell/)
+* [Use PowerShell to start the DFS Namespace service](https://luke.geek.nz/win/dfs-namespace-service-not-starting-reboot/)
 
 ## Windows Server Features and Roles
 * [Install Windows Features and Reboot](http://mikefrobbins.com/2018/06/21/use-powershell-to-install-windows-features-and-reboot/)
@@ -82,22 +83,30 @@
 * [Powershell Script Blocks](https://www.sconstantinou.com/powershell-script-blocks/)
 
 
-#### Powershell Commands
+#### Powershell
+* [Operators: Arithmetic](https://www.sconstantinou.com/powershell-arithmetic-operators/)
+* [Operators: Assignment](https://www.sconstantinou.com/powershell-assignment-operators/)
+* [Operators: Comparison](https://www.sconstantinou.com/powershell-comparison-operators/)
+* [Operators: Comparison filters](https://get-help.guru/2018/07/02/filtering-and-using-comparison-operators-in-powershell/)
+* [Operators: Join](https://www.sconstantinou.com/powershell-join-operator/)
+* [Operators: Logical](https://www.sconstantinou.com/powershell-logical-operators/)
+* [Operators: Redirection](https://www.sconstantinou.com/powershell-redirection-operators/)
+* [Operators: Split](https://www.sconstantinou.com/powershell-split-operator/)
+
+
+
+
 * [Useful Powershell Commands](https://www.sconstantinou.com/useful-powershell-commands/)
 * [Powershell Comments](https://www.sconstantinou.com/powershell-comments/)
-* [Powershell Comparison Operators](https://www.sconstantinou.com/powershell-comparison-operators/)
-* [PowerShell Comparison Filtering and using operators](https://get-help.guru/2018/07/02/filtering-and-using-comparison-operators-in-powershell/)
-* [Powreshell Logical Operators](https://www.sconstantinou.com/powershell-logical-operators/)
+
+
+
 * [Powershell Commands Structure](https://www.sconstantinou.com/powershell-commands-structure/)
 * [Powershell Format Output View](https://www.sconstantinou.com/powershell-format-output-view/)
 * [Powershell Data Format](https://www.sconstantinou.com/powershell-date-format/)
 * [Powershell Quotes](https://www.sconstantinou.com/powershell-quotes/)
 * [Powershell Command History](https://www.sconstantinou.com/powershell-command-history/)
-* [Powershell Arithmetic Operators](https://www.sconstantinou.com/powershell-arithmetic-operators/)
-* [Powershell Join Operator](https://www.sconstantinou.com/powershell-join-operator/)
-* [Powershell Assignment Operators](https://www.sconstantinou.com/powershell-assignment-operators/)
-* [Powershell Redirection Operators](https://www.sconstantinou.com/powershell-redirection-operators/)
-* [Powershell Split Operator](https://www.sconstantinou.com/powershell-split-operator/)
+
 * [Powershell Reserverd Words](https://www.sconstantinou.com/powershell-reserved-words/)
 * [Powershell Special Characters](https://www.sconstantinou.com/powershell-special-characters/)
 - [Powershell Type Operators](https://www.sconstantinou.com/powershell-type-operators/)
@@ -116,8 +125,9 @@
 * [PowerShell for Beginners (Part 11): Having fun with PowerShell Drives](https://sid-500.com/2018/02/20/powershell-for-beginners-part-11-having-fun-with-powershell-drives/)
 * [PowerShell for Beginners (Part 12): PowerShell Modules](https://sid-500.com/2018/04/10/powershell-for-beginners-part-12-powershell-modules/)
 * [PowerShell for Beginners (Part 13): PowerShell Remoting](https://sid-500.com/2018/06/25/powershell-for-beginners-part-13-powershell-remoting/)
-
-#### Powershell others
+* [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
+* [Windows Powershell Sessions PSSessions](https://www.sconstantinou.com/windows-powershell-sessions-pssessions/)
+* [Powershell Automatic Variables](https://www.sconstantinou.com/powershell-automatic-variables/)
 * [Understanding Powershell Foreach loop and Foreach-Object](http://techgenix.com/powershell-foreach-loop/)
 * [Understanding PowerShell Foreach loops explained](https://winsysblog.com/2018/05/powershell-foreach-loops-explained-for-absolute-beginners.html)
 * [Understanding PowerShell Scriptblock](https://4sysops.com/archives/the-powershell-scriptblock/)
@@ -125,15 +135,5 @@
 * [Understanding Powershell Write-Verbose and -Warning Template](https://tommymaynard.com/write-verbose-and-warning-template-2018/)
 * [Understanding Powershell File Paths from the Pipeline](https://4sysops.com/archives/process-file-paths-from-the-pipeline-in-powershell-functions/)
 * [Powershell - PSSpeedTest](https://mattbobke.com/2018/06/05/introducing-my-first-powershell-module-psspeedtest/)3
-
 * [Powershell Core Commands](https://www.sconstantinou.com/powershell-core-commands/)
-
-
-## To decide
-* [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
-* [Windows Powershell Sessions PSSessions](https://www.sconstantinou.com/windows-powershell-sessions-pssessions/)
-* [Powershell Automatic Variables](https://www.sconstantinou.com/powershell-automatic-variables/)
-
-#### Windows servers
-* [Use PowerShell to start the DFS Namespace service](https://luke.geek.nz/win/dfs-namespace-service-not-starting-reboot/)
 
