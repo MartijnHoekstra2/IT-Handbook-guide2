@@ -1,15 +1,29 @@
-## General
-* [Linux / Unix Find All The Files Owned By a Particular User / Group](https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/)
+## CentOS
+* [How To Change Timezone on a CentOS 6 and 7](https://www.cyberciti.biz/faq/centos-linux-6-7-changing-timezone-command-line/)
+* [Install Packetfence on CentOS 7](https://www.techrepublic.com/article/how-to-install-packetfence-on-centos-7/)
+* [Install PHP 7.2 on CentOS 7](https://www.cyberciti.biz/faq/how-to-install-php-7-2-on-centos-7-rhel-7/)
+* [Install RackTables on CentOS 7 - Option 1](https://linoxide.com/linux-how-to/install-racktables-centos-7/)
+* [install RackTables on CentOS 7 - Option 2](https://www.techrepublic.com/article/how-to-install-racktables-on-centos-7/)
+* [How to see PCI devices info on CentOS 7](https://www.cyberciti.biz/faq/how-to-see-pci-devices-info-on-centos-7-and-redhat-enterprise-linux-7/)
+* [How to Set Up and Use LXD on CentOS](https://www.cyberciti.biz/faq/how-to-set-up-and-use-lxd-on-centos-linux-7-x-server/)
+* [Rebuilding corrupted RPM database on a CentOS](https://www.cyberciti.biz/tips/rebuilding-corrupted-rpm-database.html)
+* [Install IPTraf to Get Network Statistics](https://www.cyberciti.biz/faq/install-iptraf-centos-redhat-fedora-linux/)
 
 ## Debain
 * [Debian Linux Install GNU GCC Compiler and Development Environment](https://www.cyberciti.biz/faq/debian-linux-install-gnu-gcc-compiler/)
 * [How to zip a folder](https://www.cyberciti.biz/faq/how-to-zip-a-folder-in-ubuntu-linux/)
+* [How to find out if my server needs a reboot](https://www.cyberciti.biz/faq/how-to-find-out-if-my-ubuntudebian-linux-server-needs-a-reboot/)
+* [How to open DNS port 53 using ufw](https://www.cyberciti.biz/faq/howto-open-dns-port-53-using-ufw-ubuntu-debian/)
+
+## Fedora
+* [Install IPTraf to Get Network Statistics](https://www.cyberciti.biz/faq/install-iptraf-centos-redhat-fedora-linux/)
 
 ## FreeBSD
 * [FreeBSD add a user to group](https://www.cyberciti.biz/faq/freebsd-add-a-user-to-group/)
 * [FreeBSD Install Nginx Webserver Tutorial](https://www.cyberciti.biz/faq/freebsd-install-nginx-webserver/)
 * [FreeBSD find CPU (processor) temperature command](https://www.cyberciti.biz/faq/freebsd-determine-processor-cpu-temperature-command/)
 * [FreeBSD Allow Normal Users To Mount CDROMs/DVDs/USB Devices](https://www.cyberciti.biz/faq/freebsd-allow-ordinary-users-mount-cd-rom-dvds-usb-removabledevice/)
+* [How To: FreeBSD install VIM text editor using pkg and ports](https://www.cyberciti.biz/faq/howto-install-vim-text-editor-under-freebsd/)
 
 ## Ubuntu
 * [Ubuntu 18.04 LTS Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-set-up-openvpn-server-in-5-minutes/)
@@ -23,49 +37,32 @@
 * [How to zip a folder](https://www.cyberciti.biz/faq/how-to-zip-a-folder-in-ubuntu-linux/)
 * [Install and Configure Nginx on Ubuntu Linux 18.04 LTS](https://www.cyberciti.biz/faq/install-and-configure-nginx-on-ubuntu-linux-18-04-lts/)
 * [Install FOG Server on Ubuntu Server 16.04 LTS – The Ultimate Guide VirtualBox](https://www.ceos3c.com/sysadmin/install-fog-server-ubuntu-server-16-04-lts-ultimate-guide-virtualbox/)
+* [How to Install and Configure latest version of Ansible on Ubuntu Linux](https://www.cyberciti.biz/faq/how-to-install-and-configure-latest-version-of-ansible-on-ubuntu-linux/)
+* [How To Setup OpenVPN Server In 5 Minutes on Ubuntu Linux](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
+* [How to find out if my server needs a reboot](https://www.cyberciti.biz/faq/how-to-find-out-if-my-ubuntudebian-linux-server-needs-a-reboot/)
+* [How to open DNS port 53 using ufw](https://www.cyberciti.biz/faq/howto-open-dns-port-53-using-ufw-ubuntu-debian/)
+* [My First 10 Minutes On a Server - Primer for Securing Ubuntu](https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
+* [Secure Nginx with Let’s Encrypt on Ubuntu 18.04 with DNS Validation](https://www.cyberciti.biz/faq/secure-nginx-with-lets-encrypt-on-ubuntu-18-04-with-dns-validation/)
 
-
-## CentOS
-* [How To Change Timezone on a CentOS 6 and 7](https://www.cyberciti.biz/faq/centos-linux-6-7-changing-timezone-command-line/)
-* [Install Packetfence on CentOS 7](https://www.techrepublic.com/article/how-to-install-packetfence-on-centos-7/)
-* [Install PHP 7.2 on CentOS 7](https://www.cyberciti.biz/faq/how-to-install-php-7-2-on-centos-7-rhel-7/)
-* [Install RackTables on CentOS 7 - Option 1](https://linoxide.com/linux-how-to/install-racktables-centos-7/)
-* [install RackTables on CentOS 7 - Option 2](https://www.techrepublic.com/article/how-to-install-racktables-on-centos-7/)
-* [How to see PCI devices info on CentOS 7](https://www.cyberciti.biz/faq/how-to-see-pci-devices-info-on-centos-7-and-redhat-enterprise-linux-7/)
-* [How to Set Up and Use LXD on CentOS](https://www.cyberciti.biz/faq/how-to-set-up-and-use-lxd-on-centos-linux-7-x-server/)
-* [Rebuilding corrupted RPM database on a CentOS](https://www.cyberciti.biz/tips/rebuilding-corrupted-rpm-database.html)
-
-
-## Still to filter
-* [10 Alpine Linux apk Command Examples](https://www.cyberciti.biz/faq/10-alpine-linux-apk-command-examples/)
-* [30 Best Sources For Linux / BSD / Unix Documentation On the Web](https://www.cyberciti.biz/tips/linux-unix-bsd-documentations.html)
-* [50 UNIX / Linux Sysadmin Tutorials](https://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/)
+## General
+* [Linux / Unix Find All The Files Owned By a Particular User / Group](https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/)
 * [curl hide progress bar output on Linux/Unix shell scripts](https://www.cyberciti.biz/faq/curl-hide-progress-bar-output-linux-unix-macos/)
 * [Free Linux Server Monitoring and APM solutions for SysAdmins](https://www.reddit.com/r/sysadmin/comments/8ttv7t/free_linux_server_monitoring_and_apm_solutions/)
-* [FreeNAS Install And Configure APC UPS For Power Management](https://www.cyberciti.biz/faq/how-to-install-apc-ups-on-freenas-server/)
 * [How do I find out my Linux Gateway / Router IP Address?](https://www.cyberciti.biz/faq/how-to-find-gateway-ip-address/)
 * [How To – Linux List Disk Partitions Command](https://www.cyberciti.biz/faq/linux-list-disk-partitions-command/)
 * [How to add comments to iptables rules on Linux](https://www.cyberciti.biz/faq/how-to-add-comments-to-iptables-rules-on-linux/)
 * [How to configure Samba to use SMBv2 and disable SMBv1 on Linux or Unix](https://www.cyberciti.biz/faq/how-to-configure-samba-to-use-smbv2-and-disable-smbv1-on-linux-or-unix/)
-* [How To Create Disk Image on Mac OS X With dd Command](https://www.cyberciti.biz/faq/how-to-create-disk-image-on-mac-os-x-with-dd-command/)
 * [How to delete or remove a MySQL/MariaDB user account on Linux/Unix](https://www.cyberciti.biz/faq/how-to-delete-remove-user-account-in-mysql-mariadb/)
-* [How to find out if my Ubuntu/Debian Linux server needs a reboot](https://www.cyberciti.biz/faq/how-to-find-out-if-my-ubuntudebian-linux-server-needs-a-reboot/)
-* [How to Install and Configure latest version of Ansible on Ubuntu Linux](https://www.cyberciti.biz/faq/how-to-install-and-configure-latest-version-of-ansible-on-ubuntu-linux/)
+* [FreeNAS Install And Configure APC UPS For Power Management](https://www.cyberciti.biz/faq/how-to-install-apc-ups-on-freenas-server/)
 * [How to monitor network protocol traffic on your data center Linux servers](https://www.techrepublic.com/article/how-to-monitor-network-protocol-traffic-on-your-data-center-linux-servers/#ftag=RSS56d97e7)
-* [How to open DNS port 53 using ufw on Ubuntu/Debian Linux](https://www.cyberciti.biz/faq/howto-open-dns-port-53-using-ufw-ubuntu-debian/)
 * [How to reset a KVM clone virtual Machines with virt-sysprep on Linux](https://www.cyberciti.biz/faq/reset-a-kvm-clone-virtual-machines-with-virt-sysprep-on-linux/)
 * [How to Restart Linux server using putty ssh client on Windows](https://www.cyberciti.biz/faq/how-to-restart-linux-server-using-putty-ssh-client/)
 * [How to Set Locales (i18n) On a Linux or Unix](https://www.cyberciti.biz/faq/how-to-set-locales-i18n-on-a-linux-unix/)
 * [How to set up an SFTP server on Linux](https://www.techrepublic.com/article/how-to-set-up-an-sftp-server-on-linux/)
-* [How To Setup OpenVPN Server In 5 Minutes on Ubuntu Linux](https://www.cyberciti.biz/faq/howto-setup-openvpn-server-on-ubuntu-linux-14-04-or-16-04-lts/)
 * [How To Use SSH Keys with DigitalOcean Droplets](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-digitalocean-droplets)
-
-* [How To: FreeBSD install VIM text editor using pkg and ports](https://www.cyberciti.biz/faq/howto-install-vim-text-editor-under-freebsd/)
 * [Howto Configure PFSense Site-to-Site IPSec VPN Tunnel For Remote Access](https://www.cyberciti.biz/faq/howto-site-to-site-ipsec-vpn-between-cisco-openbsd-router-pfsense/)
 * [I created a thorough FOG Server tutorial - Repost!](https://www.reddit.com/r/sysadmin/comments/7slit1/i_created_a_thorough_fog_server_tutorial_repost/)
 * [ifconfig Command Does Not Show IPv4 Address on Linux](https://www.cyberciti.biz/faq/linux-unix-ifconfig-does-not-show-ip-address/)
-
-* [Install IPTraf on a CentOS / RHEL / Fedora Linux To Get Network Statistics](https://www.cyberciti.biz/faq/install-iptraf-centos-redhat-fedora-linux/)
 * [Linux / UNIX Desktop Fun: Steam Locomotive – get train in shell](https://www.cyberciti.biz/tips/displays-animations-when-accidentally-you-type-sl-instead-of-ls.html)
 * [Linux / Unix id Command Examples](https://www.cyberciti.biz/faq/unix-linux-id-command-examples-usage-syntax/)
 * [Linux / Unix: Test Internet Connection Speed From SSH Command](https://www.cyberciti.biz/faq/linux-unix-test-internet-connection-download-upload-speed/)
@@ -87,19 +84,21 @@
 * [Linux: How To Copy a Folder [ Command Line Option ]](https://www.cyberciti.biz/faq/copy-folder-linux-command-line/)
 * [LinuxFest Northwest 2018: Linux 102: Choosing The Right Distro For You](https://www.youtube.com/watch?v=KUbEN8pVECA&feature=youtu.be)
 * [Make Linux/Unix Script Portable With #!/usr/bin/env As a Shebang](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)
-* [My First 10 Minutes On a Server - Primer for Securing Ubuntu](https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
 * [pfSense email notification when fallback WAN connection goes down](https://www.cyberciti.biz/faq/pfsense-email-notification-smtp-gmail-cloud-aws-ses/)
 * [PHP.INI settings Disable exec, shell_exec, system, popen and Other Functions To Improve Security](https://www.cyberciti.biz/faq/linux-unix-apache-lighttpd-phpini-disable-functions/)
 * [Ping using specific gateway interface or source IP address](https://www.cyberciti.biz/faq/ping-using-specific-gateway-interface-or-source-ip-address/)
-
-* [Secure Nginx with Let’s Encrypt on Ubuntu 18.04 with DNS Validation](https://www.cyberciti.biz/faq/secure-nginx-with-lets-encrypt-on-ubuntu-18-04-with-dns-validation/)
 * [Stress Test CPU and Memory (VM) On a Linux / Unix With Stress-ng](https://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/)
-* [Top 20 OpenSSH Server Best Security Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
-
 * [Unix / Linux Print Environment Variables Command](https://www.cyberciti.biz/faq/unix-linux-print-environment-variable-comamnd/)
 * [Where are the passwords of the users located in Linux?](https://www.cyberciti.biz/faq/where-are-the-passwords-of-the-users-located-in-linux/)
 
-#### Reddit
+## Others
+* [10 Alpine Linux apk Command Examples](https://www.cyberciti.biz/faq/10-alpine-linux-apk-command-examples/)
+* [30 Best Sources For Linux / BSD / Unix Documentation On the Web](https://www.cyberciti.biz/tips/linux-unix-bsd-documentations.html)
+* [50 UNIX / Linux Sysadmin Tutorials](https://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/)
+* [Top 20 OpenSSH Server Best Security Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
+* [UUpdating Spacewalk](https://spacewalkproject.github.io/)
+
+## Reddit
 * [Best Linux Distro to Learn Sysadmin Skills From on My Home Machine?](https://www.reddit.com/r/sysadmin/comments/82cofo/best_linux_distro_to_learn_sysadmin_skills_from/)
 * [Get started with linux just enough to be useful](https://www.reddit.com/r/sysadmin/comments/6tr3zz/get_started_with_linux_just_enough_to_be_useful/)
 * [Getting started with a Linux web server?](https://www.reddit.com/r/sysadmin/comments/8i6dxn/getting_started_with_a_linux_web_server/)
@@ -109,6 +108,3 @@
 * [Tips and Checklists to Help You Secure Your Linux Server and Beef Up Security](https://www.reddit.com/r/sysadmin/comments/8gq8au/tips_and_checklists_to_help_you_secure_your_linux/)
 * [Tips for for a windows guy to be a lot more familiar with linux?](https://www.reddit.com/r/sysadmin/comments/8btj6i/tips_for_for_a_windows_guy_to_be_a_lot_more/)
 * [What are common interview questions for Junior Linux administrator?](https://www.reddit.com/r/sysadmin/comments/80ws4y/what_are_common_interview_questions_for_junior/)
-
-#### Others
-* [UUpdating Spacewalk](https://spacewalkproject.github.io/)
