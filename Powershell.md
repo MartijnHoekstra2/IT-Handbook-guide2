@@ -1,29 +1,52 @@
-#### Remote Desktop
+## AWS
+* [Configuring AWS CloudWatch with PowerShell](https://www.brycematthew.net/powershell/automation/2018/06/18/Configuring-AWS-CloudWatch-With-PowerShell.html)
+* [EC2 creating Instances and Basic Machine Management](https://overpoweredshell.com//AWS-PowerShell-Creating-Ec2-Instances-and-Basic-Machine-Management/)
+* [EC2 Tags and Filtering](https://overpoweredshell.com//AWS-PowerShell-EC2-Tags-and-Filtering/)
+* [Install AWS Tools for PowerShell Core 6.0.2](https://ridicurious.com/2018/06/06/install-aws-tools-for-powershell-core-6-0-2/)
+
+## Azure
+* [MSOnline PowerShell for Azure Active Directory 1.1.166.0](https://www.powershellgallery.com/packages/MSOnline/1.1.166.0)
+* [Understanding PowerShell objects: an Azure VM example](https://www.yobyot.com/cloud/explain-powershell-objects-an-azure-vm-example/2018/05/21/)
+* [Using PowerShell to connect to Microsoft Azure](https://luke.geek.nz/Using-PowerShell-to-connect-to-Azure)
+* [How to Write an Azure Function in PowerShell](https://devblackops.io//how-to-write-an-azure-function-in-powershell/)
+* [Azure and Windows PowerShell: Getting Information](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-and-windows-powershell-getting-information/
+
+## Remote Desktop
 * [Enabling Remote Desktop](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
 * [Connection report for Remote Desktop](https://gallery.technet.microsoft.com/Remote-Desktop-Connection-3fe225cd)
 
-#### Network
+## Network
 * [Use PowerShell to Determine What Your System is Talking to](https://mikefrobbins.com/2018/07/19/use-powershell-to-determine-what-your-system-is-talking-to/)
 
-#### Office
+## Office 365
+* [Check: If a mailbox is On-Premises or in Office 365](https://mikefrobbins.com/2018/08/02/determine-if-a-mailbox-is-on-premises-or-in-office-365-with-powershell/)
 * [Connect to Office 365](http://mikefrobbins.com/2018/05/17/connect-to-office-365-with-powershell/)
 * [Configuring: Send As Permission in Office 365](http://mikefrobbins.com/2018/05/31/configuring-send-as-permission-in-office-365-using-powershell/)
-* [Check: If a mailbox is On-Premises or in Office 365](https://mikefrobbins.com/2018/08/02/determine-if-a-mailbox-is-on-premises-or-in-office-365-with-powershell/)
 * [License: Copy Office 365 user license](https://king.geek.nz/2018/07/24/copying-office-365-user-licensing/)
 * [License: Assign an Office 365 license to an user](http://mikefrobbins.com/2018/05/24/assign-a-license-to-an-office-365-user-with-powershell/)
 * [Managing: Office 365](https://www.randomizedharmony.com/blog/2018/8/29/milwaukee-powershell-user-group-4th-meeting)
 * [Uninstall: Office 365](https://www.reddit.com/r/sysadmin/comments/8cnpe2/does_anybody_know_how_to_uninstall_office_via/)
 
+## Podcast
+- [The PowerShell News Podcast](https://powershellnews.podbean.com/)
 
-#### Remote
+## Remote
 * [Remote information about the system](https://www.sconstantinou.com/get-remote-system-information-part-1/)
 * [Remote information about installed software](https://sid-500.com/2018/04/02/powershell-how-to-get-a-list-of-all-installed-software-on-remote-computers/)
 
-#### Windows Server
-* [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
+## Windows Server
 * [Alert when Disk Space is running low on my Windows Servers](https://sid-500.com/2018/06/03/powershell-alert-me-when-disk-space-is-running-low-on-my-windows-servers-e-mail-notification/)
 * [Create a Scheduled Tasks on local and or remote computer](https://sid-500.com/2018/08/25/how-to-create-powershell-scheduled-jobs-on-the-local-computer-and-on-remote-hosts/)
+* [Creata a Windows Service](https://4sysops.com/archives/how-to-run-a-powershell-script-as-a-windows-service/)
+* [Disable SMB1](https://luke.geek.nz/Using-PowerShell-to-disable-SMB1)
+* [Hardware inventory script](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
+* [Query page file size on Windows Servers](https://www.networkadm.in/query-page-file-size-on-windows-servers-w-powershell/)
 
+
+
+#### Windows Server Features and Roles
+* [Install Windows Features and Reboot](http://mikefrobbins.com/2018/06/21/use-powershell-to-install-windows-features-and-reboot/)
+* [Install and configure an FTP server](https://4sysops.com/archives/install-and-configure-an-ftp-server-with-powershell/)
 
 
 * [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
@@ -37,7 +60,7 @@
 * [Harder, Better, Faster, Stronger…”-filter” vs. “where-object”](https://paweljarosz.wordpress.com/2018/08/25/harder-better-faster-stronger-filter-vs-where-object/)
 * [Automate Office 365 endpoint ACL configurations using PowerShell](http://www.powershell.no/exchange/online,office/365,powershell/2018/08/26/automate-office365-ip-address-handling.html)
 
-* [AWS PowerShell - EC2 Tags and Filtering](https://overpoweredshell.com//AWS-PowerShell-EC2-Tags-and-Filtering/)
+
 * [PowerShell Scripting Guide to Python – Passing Command-Line Arguments](https://ridicurious.com/2018/08/28/powershell-scripting-guide-to-python-passing-command-line-arguments/)
 * [Installing Chocolatey Packages Remotely With PowerShell](https://winsysblog.com/2018/08/installing-chocolatey-packages-remotely-with-powershell.html)
 * [Managing disks with PowerShell](https://ridicurious.com/2018/08/28/managing-disks-with-powershell/)
@@ -48,8 +71,7 @@
 * [Powershell Script Blocks](https://www.sconstantinou.com/powershell-script-blocks/)
 
 
-#### Powershell Podcast
-- [The PowerShell News Podcast](https://powershellnews.podbean.com/)
+
 
 #### Powershell Commands
 * [Useful Powershell Commands](https://www.sconstantinou.com/useful-powershell-commands/)
@@ -99,46 +121,23 @@
 
 #### Active Directory
 * [List all users and group membership - Part 1](https://www.sconstantinou.com/powershell-list-all-users-and-group-membership/)
-* [List all users and group membership - Part 2](https://www.sconstantinou.com/powershell-users-and-membership-part-2/)
 * [Bulk User Add - Multiple Email Addresses](https://www.reddit.com/r/sysadmin/comments/87xhhe/bulk_user_add_multiple_email_addresses/)
-* [Powershell force password change multuple users](https://www.sconstantinou.com/powershell-force-password-change-multiple-users/)
+* [Force password change multuple users](https://www.sconstantinou.com/powershell-force-password-change-multiple-users/)
 * [Get serial numbers of all Domain Computers with PowerShell](https://sid-500.com/2018/05/14/get-serial-numbers-of-all-domain-computers-by-using-windows-powershell/)
-
-#### AWS
-* [Configuring AWS CloudWatch with PowerShell](https://www.brycematthew.net/powershell/automation/2018/06/18/Configuring-AWS-CloudWatch-With-PowerShell.html)
-* [Install AWS Tools for PowerShell Core 6.0.2](https://ridicurious.com/2018/06/06/install-aws-tools-for-powershell-core-6-0-2/)
-
-#### Azure
-* [MSOnline PowerShell for Azure Active Directory 1.1.166.0](https://www.powershellgallery.com/packages/MSOnline/1.1.166.0)
-* [Understanding PowerShell objects: an Azure VM example](https://www.yobyot.com/cloud/explain-powershell-objects-an-azure-vm-example/2018/05/21/)
-* [Using PowerShell to connect to Microsoft Azure](https://luke.geek.nz/Using-PowerShell-to-connect-to-Azure)
-* [How to Write an Azure Function in PowerShell](https://devblackops.io//how-to-write-an-azure-function-in-powershell/)
-* [Azure and Windows PowerShell: Getting Information](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-and-windows-powershell-getting-information/
-
-#### Hardware Inventory
-* [Powershell Hardware inventory script - Part 1](https://www.sconstantinou.com/powershell-hardware-inventory-script/)
-* [Powershell Hardware inventory script - Part 2](https://www.sconstantinou.com/powershell-hardware-inventory-script-part-2/)
-
 
 
 ## To decide
-- [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
-- [Install and configure an FTP server with PowerShell](https://4sysops.com/archives/install-and-configure-an-ftp-server-with-powershell/)
-- [Windows Powershell Sessions PSSessions](https://www.sconstantinou.com/windows-powershell-sessions-pssessions/)
-- [Get Group Membership changes](https://www.sconstantinou.com/get-group-membership-changes/)
-- [Powershell Automatic Variables](https://www.sconstantinou.com/powershell-automatic-variables/)
-- [Learn About Powershell Scheduled Jobs and how to create them](https://4sysops.com/archives/create-powershell-scheduled-jobs/)
-- [Get EventLog Event Details Content PowerShell](https://itfordummies.net/2018/07/30/get-eventlog-event-details-content-powershell/)
-- [Notify Users for password expiration](https://www.sconstantinou.com/notify-users-for-password-expiration/)
-- [AWS PowerShell - Creating Ec2 Instances and Basic Machine Management](https://overpoweredshell.com//AWS-PowerShell-Creating-Ec2-Instances-and-Basic-Machine-Management/)
+* [The PowerShell Here-String – Preserve text formatting](https://4sysops.com/archives/the-powershell-here-string-preserve-text-formatting/)
+
+* [Windows Powershell Sessions PSSessions](https://www.sconstantinou.com/windows-powershell-sessions-pssessions/)
+* [Get Group Membership changes](https://www.sconstantinou.com/get-group-membership-changes/)
+* [Powershell Automatic Variables](https://www.sconstantinou.com/powershell-automatic-variables/)
+* [Learn About Powershell Scheduled Jobs and how to create them](https://4sysops.com/archives/create-powershell-scheduled-jobs/)
+* [Get EventLog Event Details Content PowerShell](https://itfordummies.net/2018/07/30/get-eventlog-event-details-content-powershell/)
+* [Notify Users for password expiration](https://www.sconstantinou.com/notify-users-for-password-expiration/)
+
 
 
 #### Windows servers
-
-
-* [How to run a PowerShell script as a Windows service](https://4sysops.com/archives/how-to-run-a-powershell-script-as-a-windows-service/)
-* [Use Powershell commands for all Windows Operating Systems](http://techgenix.com/basic-powershell-commands/)
-* [Use PowerShell to Install Windows Features and Reboot](http://mikefrobbins.com/2018/06/21/use-powershell-to-install-windows-features-and-reboot/)
-* [Use PowerShell to disable SMB1](https://luke.geek.nz/Using-PowerShell-to-disable-SMB1)
 * [Use PowerShell to start the DFS Namespace service](https://luke.geek.nz/win/dfs-namespace-service-not-starting-reboot/)
 * [Shutdown all your Windows computers in Active Directory with PowerShell](https://winsysblog.com/2018/05/shutdown-all-your-windows-computers-in-active-directory-with-powershell.html)
