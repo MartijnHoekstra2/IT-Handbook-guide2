@@ -16,6 +16,7 @@
 * [How to zip a folder](https://www.cyberciti.biz/faq/how-to-zip-a-folder-in-ubuntu-linux/)
 * [How to find out if my server needs a reboot](https://www.cyberciti.biz/faq/how-to-find-out-if-my-ubuntudebian-linux-server-needs-a-reboot/)
 * [How to open DNS port 53 using ufw](https://www.cyberciti.biz/faq/howto-open-dns-port-53-using-ufw-ubuntu-debian/)
+* [Check Linux package version using apt-get/aptitude command](https://www.cyberciti.biz/faq/debian-ubuntu-linux-apt-get-aptitude-show-package-version-command/)
 
 ## Fedora
 * [Install IPTraf to Get Network Statistics](https://www.cyberciti.biz/faq/install-iptraf-centos-redhat-fedora-linux/)
@@ -29,6 +30,7 @@
 
 ## Ubuntu
 * [Ubuntu 18.04 LTS Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-set-up-openvpn-server-in-5-minutes/)
+* [Check Linux package version using apt-get/aptitude command](https://www.cyberciti.biz/faq/debian-ubuntu-linux-apt-get-aptitude-show-package-version-command/)
 * [Install and Configure TigerVNC server on Ubuntu 18.04](https://www.cyberciti.biz/faq/install-and-configure-tigervnc-server-on-ubuntu-18-04/)
 * [Ubuntu Linux Change Hostname (computer name)](https://www.cyberciti.biz/faq/ubuntu-change-hostname-command/)
 * [Ubuntu Linux install Gnome desktop on server](https://www.cyberciti.biz/faq/ubuntu-linux-install-gnome-desktop-on-server/)
@@ -99,6 +101,8 @@
 * [50 UNIX / Linux Sysadmin Tutorials](https://www.thegeekstuff.com/2010/12/50-unix-linux-sysadmin-tutorials/)
 * [Top 20 OpenSSH Server Best Security Practices](https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html)
 * [UUpdating Spacewalk](https://spacewalkproject.github.io/)
+* [Linux Command To Find SATA Link Speed Such as 1.5 / 3.0 / 6.0 Gbps "Hard Disk"](https://www.cyberciti.biz/faq/linux-command-to-find-sata-harddisk-link-speed/)
+* [Linux Delete All Files In Directory Using Command Line](https://www.cyberciti.biz/faq/linux-delete-all-files-in-directory-using-command-line/)
 
 ## Reddit
 * [Best Linux Distro to Learn Sysadmin Skills From on My Home Machine?](https://www.reddit.com/r/sysadmin/comments/82cofo/best_linux_distro_to_learn_sysadmin_skills_from/)
