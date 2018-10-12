@@ -7,3 +7,4 @@
 * [Remedial Networking 101: Subnetting](https://standalone-sysadmin.com/remedial-networking-101-subnetting-c46540147f58)
 * [Subnet Calculator](https://www.tunnelsup.com/subnet-calculator/)
 * [Subnet mask](https://study-ccna.com/subnet-mask/)
+* [What is a layer 3 switch?](http://techgenix.com/layer-3-switch/)
