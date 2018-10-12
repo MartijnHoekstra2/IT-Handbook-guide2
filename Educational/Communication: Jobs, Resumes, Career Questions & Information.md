@@ -8,6 +8,9 @@
 ## IT Career Questions
 * [Reddit ITCareerQuestions](https://www.reddit.com/r/ITCareerQuestions/)
 
+## Salary
+* [Salary adjustment in a constantly growing company?](https://www.reddit.com/r/sysadmin/comments/9mg9cx/salary_adjustment_in_a_constantly_growing_company/)
+
 ## Information
 * [7 Reasons to Call It Quits and Move On](https://www.adamtheautomator.com/quit-job/)
 * [New sysadmin job - preparing a to-do/check list](https://www.reddit.com/r/sysadmin/comments/5ioemb/new_sysadmin_job_preparing_a_todocheck_list/)
