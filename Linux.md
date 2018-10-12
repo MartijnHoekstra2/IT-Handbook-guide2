@@ -49,6 +49,7 @@
 * [Secure Nginx with Let’s Encrypt on Ubuntu 18.04 with DNS Validation](https://www.cyberciti.biz/faq/secure-nginx-with-lets-encrypt-on-ubuntu-18-04-with-dns-validation/)
 
 ## General
+* [Linux Make Sure /etc/resolv.conf Never Get Updated By DHCP Client](https://www.cyberciti.biz/faq/dhclient-etcresolvconf-hooks/)
 * [Linux Find Out Which Process Is Listening Upon a Port](https://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
 * [Linux / Unix Find All The Files Owned By a Particular User / Group](https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/)
 * [curl hide progress bar output on Linux/Unix shell scripts](https://www.cyberciti.biz/faq/curl-hide-progress-bar-output-linux-unix-macos/)
