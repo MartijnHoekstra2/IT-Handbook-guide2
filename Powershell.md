@@ -24,6 +24,9 @@
 ## Certificates
 * [PowerShell: Alert me when Certificates expires soon](https://sid-500.com/2018/07/09/powershell-alert-me-when-certificates-expires-soon/)
 
+## Reporting
+* [Creating colorful HTML disk reports](https://jdhitsolutions.com/blog/powershell/6130/creating-colorful-html-disk-reports-with-powershell/)
+
 ## Remote Desktop
 * [Enabling Remote Desktop](https://sid-500.com/2018/08/22/remotely-enable-remote-desktop-with-powershell/)
 * [Connection report for Remote Desktop](https://gallery.technet.microsoft.com/Remote-Desktop-Connection-3fe225cd)
