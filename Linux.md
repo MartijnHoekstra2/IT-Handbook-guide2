@@ -49,6 +49,7 @@
 * [Secure Nginx with Let’s Encrypt on Ubuntu 18.04 with DNS Validation](https://www.cyberciti.biz/faq/secure-nginx-with-lets-encrypt-on-ubuntu-18-04-with-dns-validation/)
 
 ## General
+* [Linux Find Out Which Process Is Listening Upon a Port](https://www.cyberciti.biz/faq/what-process-has-open-linux-port/)
 * [Linux / Unix Find All The Files Owned By a Particular User / Group](https://www.cyberciti.biz/faq/how-do-i-find-all-the-files-owned-by-a-particular-user-or-group/)
 * [curl hide progress bar output on Linux/Unix shell scripts](https://www.cyberciti.biz/faq/curl-hide-progress-bar-output-linux-unix-macos/)
 * [Free Linux Server Monitoring and APM solutions for SysAdmins](https://www.reddit.com/r/sysadmin/comments/8ttv7t/free_linux_server_monitoring_and_apm_solutions/)
