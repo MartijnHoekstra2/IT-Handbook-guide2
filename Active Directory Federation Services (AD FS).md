@@ -4,3 +4,4 @@
 * [AD FS 2.0 Claims Rule Language Primer](https://blogs.technet.microsoft.com/askds/2011/10/07/ad-fs-2-0-claims-rule-language-primer/)
 https://github.com/natescherer/Get-ExpiringAdfsCertificate
 * [AD FS 2016 being attacked](https://www.reddit.com/r/sysadmin/comments/9mtmdm/ad_fs_2016_being_attacked/)
+* [ADFS and TLS 1.2](https://www.reddit.com/r/sysadmin/comments/9nawdt/adfs_and_tls_12/)
