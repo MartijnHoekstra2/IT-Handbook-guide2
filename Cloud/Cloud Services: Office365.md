@@ -1,4 +1,5 @@
 ## Office 365
+* [Fully automate the installation of Office 365](https://marckean.com/2013/07/01/fully-automate-the-installation-of-office-365/)
 * [How to configure Send As Permission to a User in Office 365](https://www.msdigest.net/2012/05/how-to-configure-send-as-permission-to-a-user-in-office-365/)
 * [Office 365 Inactive Distribution List Report](https://www.reddit.com/r/sysadmin/comments/9dxp0a/office_365_inactive_distribution_list_report/)
 * [How to configure IIS for relay with Office 365](https://support.office.com/en-us/article/how-to-configure-iis-for-relay-with-office-365-eb57abd2-3859-4e79-b721-2ed1f0f579c9)
