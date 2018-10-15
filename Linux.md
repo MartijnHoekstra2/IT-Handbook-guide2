@@ -10,6 +10,7 @@
 * [Install IPTraf to Get Network Statistics](https://www.cyberciti.biz/faq/install-iptraf-centos-redhat-fedora-linux/)
 * [CentOS 7.0 Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/centos-7-0-set-up-openvpn-server-in-5-minutes/)
 * [CentOS 7 dig command not found – How to install dig on CentOS](https://www.cyberciti.biz/faq/centos-7-dig-command-not-found-how-to-install-dig-on-centos/)
+* [Run Script When Network Interface is Up (Network Manager)](https://www.cyberciti.biz/faq/centos-7-run-script-when-network-interface-is-up-network-manager/)
 
 ## Debain
 * [Debian Linux Install GNU GCC Compiler and Development Environment](https://www.cyberciti.biz/faq/debian-linux-install-gnu-gcc-compiler/)
