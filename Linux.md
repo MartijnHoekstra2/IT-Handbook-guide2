@@ -1,4 +1,5 @@
 ## CentOS
+* [Check how many CPUs are there in Linux system](https://www.cyberciti.biz/faq/check-how-many-cpus-are-there-in-linux-system/)
 * [How To Change Timezone on a CentOS 6 and 7](https://www.cyberciti.biz/faq/centos-linux-6-7-changing-timezone-command-line/)
 * [Install Packetfence on CentOS 7](https://www.techrepublic.com/article/how-to-install-packetfence-on-centos-7/)
 * [Install PHP 7.2 on CentOS 7](https://www.cyberciti.biz/faq/how-to-install-php-7-2-on-centos-7-rhel-7/)
