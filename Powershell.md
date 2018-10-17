@@ -98,9 +98,12 @@
 
 
 
-
-
 ## Still to find out
+
+* [Everything you wanted to know about arrays](https://kevinmarquette.github.io/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/?utm_source=feedly&utm_medium=blog&utm_content=rss)
+* [Making Dates: Good and Better](https://tommymaynard.com/making-dates-good-and-better-2018/)
+* [4 Ways to Find OS Architecture using PowerShell (32 or 64 bit)](https://ridicurious.com/2018/10/17/4-ways-to-find-os-architecture-using-powershell-32-or-64-bit/)
+
 * [Top 50 PowerShell bloggers of 2018](https://www.sqlshack.com/top-50-powershell-bloggers-of-2018/)
 * [Enterprise Security: How to configure and use Group Managed Service Accounts](http://www.signalwarrant.com/enterprise-security-how-to-configure-and-use-group-managed-service-accounts/)
 * [Array (Not Hash Table) Splatting](https://tommymaynard.com/array-not-hash-table-splatting-2018/)
