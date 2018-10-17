@@ -3,6 +3,7 @@
 * [Azure pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 * [Microsoft Azure Cost Estimator Tool](https://www.microsoft.com/en-ca/download/details.aspx?id=43376)
 * [How I choose which services to use in Azure](https://channel9.msdn.com/Shows/Azure-Friday/How-I-choose-which-services-to-use-in-Azure)
+* [Azure PowerShell – Cross-platform “Az” module replacing “AzureRM”](https://azure.microsoft.com/en-us/blog/azure-powershell-cross-platform-az-module-replacing-azurerm/)
 * [Azure AD Domain Services Documentation](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/)
 * [Can someone explain Azure's "database-as-a-service " to me?](https://www.reddit.com/r/sysadmin/comments/9dvuej/can_someone_explain_azures_databaseasaservice_to/)
 * [Role-based access control documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control)
