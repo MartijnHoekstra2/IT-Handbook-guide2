@@ -1,5 +1,6 @@
 * [Hyper-V 2016 Host Mode: GUI vs Core](https://www.altaro.com/hyper-v/hyper-v-2016-host-mode-gui-core/)
 * [Are there any good tools to monitor Hyper-V performance?](https://www.reddit.com/r/sysadmin/comments/89y916/are_there_any_good_tools_to_monitor_hyperv/)
+* [Yes, Your Hyper-V Host Should be Domain-Joined](https://www.altaro.com/hyper-v/domain-joined-hyper-v-host/)
 * [Time Configuration in Active Directory](https://blogs.technet.microsoft.com/nepapfe/2013/03/01/its-simple-time-configuration-in-active-directory/
 
 
