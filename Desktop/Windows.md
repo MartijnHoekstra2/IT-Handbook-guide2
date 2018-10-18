@@ -1,4 +1,5 @@
 ## Windows 10
+* [Windows 10 commercial edition comparison](https://wincom.blob.core.windows.net/documents/Windows10_Commercial_Comparison.pdf)
 * [Download Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
 * [Desktop manufacturing](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/)
 * [How to Convert ESD to WIM File on Windows 10](https://theitbros.com/convert-windows-esd-file-to-windows-wim-file/)
