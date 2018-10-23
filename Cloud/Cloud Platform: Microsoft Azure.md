@@ -7,6 +7,7 @@
 * [Azure AD Domain Services Documentation](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/)
 * [Can someone explain Azure's "database-as-a-service " to me?](https://www.reddit.com/r/sysadmin/comments/9dvuej/can_someone_explain_azures_databaseasaservice_to/)
 * [Role-based access control documentation](https://docs.microsoft.com/en-us/azure/role-based-access-control)
+* [Self-paced Labs](https://www.microsoft.com/handsonlabs/selfpacedlabs)
 
 ## Azure AD Connect
 * [Integrate your on-premises directories with Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)
