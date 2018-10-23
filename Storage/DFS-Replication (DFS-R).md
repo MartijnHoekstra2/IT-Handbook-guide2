@@ -4,3 +4,6 @@
 - [Common DFSR Configuration Mistakes and Oversights](https://blogs.technet.microsoft.com/askds/2010/11/01/common-dfsr-configuration-mistakes-and-oversights/)
 - [Understanding (the Lack of) Distributed File Locking in DFSR](https://blogs.technet.microsoft.com/askds/2009/02/20/understanding-the-lack-of-distributed-file-locking-in-dfsr/)
 https://blogs.technet.microsoft.com/filecab/2014/06/25/streamlined-migration-of-frs-to-dfsr-sysvol/#hyper
+* [DFS Replication Monitoring](https://thesurlyadmin.com/2012/08/03/dfs-replication-monitoring/#more-103)
+* [How can I monitor Distributed File System Replication (DFS-R)?](https://kb.paessler.com/en/topic/50263-how-can-i-monitor-distributed-file-system-replication-dfs-r)
+* [DFSR monitoring script in PowerShell (Weekly e-mail report)](http://www.fajta.eu/?p=187)
