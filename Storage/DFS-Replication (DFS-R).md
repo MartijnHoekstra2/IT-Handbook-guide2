@@ -7,3 +7,4 @@
 * [DFS Replication Monitoring](https://thesurlyadmin.com/2012/08/03/dfs-replication-monitoring/#more-103)
 * [How can I monitor Distributed File System Replication (DFS-R)?](https://kb.paessler.com/en/topic/50263-how-can-i-monitor-distributed-file-system-replication-dfs-r)
 * [DFSR monitoring script in PowerShell (Weekly e-mail report)](http://www.fajta.eu/?p=187)
+* [How to Configure DFSR Replication](https://www.poweradmin.com/blog/how-to-configure-dfsr-replication/)
