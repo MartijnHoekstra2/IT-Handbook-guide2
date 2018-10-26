@@ -5,6 +5,7 @@
 * [Here’s what happens when you pick the wrong Office 365 tenant name](https://blog.lawrencecawood.com/heres-what-happens-when-you-pick-the-wrong-office-365-tenant-name-27b657e8acbd)
 * [Fully automate the installation of Office 365](https://marckean.com/2013/07/01/fully-automate-the-installation-of-office-365/)
 * [How to configure Send As Permission to a User in Office 365](https://www.msdigest.net/2012/05/how-to-configure-send-as-permission-to-a-user-in-office-365/)
+* [Exchange to Office 365 Migration](https://www.reddit.com/r/sysadmin/comments/9qpcre/exchange_to_office_365_migration/)
 * [Office 365 Inactive Distribution List Report](https://www.reddit.com/r/sysadmin/comments/9dxp0a/office_365_inactive_distribution_list_report/)
 * [How to configure IIS for relay with Office 365](https://support.office.com/en-us/article/how-to-configure-iis-for-relay-with-office-365-eb57abd2-3859-4e79-b721-2ed1f0f579c9)
 * [How to check Office 365 service health](https://support.office.com/en-us/article/how-to-check-office-365-service-health-932ad3ad-533c-418a-b938-6e44e8bc33b0)
