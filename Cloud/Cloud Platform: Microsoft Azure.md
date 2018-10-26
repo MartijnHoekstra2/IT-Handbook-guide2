@@ -16,6 +16,7 @@
 * [Azure Monitor: Route AAD Activity Logs using diagnostic settings](https://azure.microsoft.com/en-us/blog/azure-monitor-aad-activity-logs-using-diagnostic-settings/)
 
 ## Azure general
+* [Who has switched from ADFS to Azure SSO? Why? How was the transition? How has it worked so far?](https://www.reddit.com/r/sysadmin/comments/9rd3e5/who_has_switched_from_adfs_to_azure_sso_why_how/)
 * [Azure Advisor](https://azure.microsoft.com/en-us/blog/new-recommendations-in-azure-advisor/)
 * [Azure management groups now in general availability](https://azure.microsoft.com/en-us/blog/azure-management-groups-now-in-general-availability/)
 * [Managed Disks migration now available in the Azure Portal](https://azure.microsoft.com/en-us/blog/managed-disks-migration-portal/)
