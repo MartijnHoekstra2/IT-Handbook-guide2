@@ -49,6 +49,12 @@
 * [How to open DNS port 53 using ufw](https://www.cyberciti.biz/faq/howto-open-dns-port-53-using-ufw-ubuntu-debian/)
 * [My First 10 Minutes On a Server - Primer for Securing Ubuntu](https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
 * [Secure Nginx with Let’s Encrypt on Ubuntu 18.04 with DNS Validation](https://www.cyberciti.biz/faq/secure-nginx-with-lets-encrypt-on-ubuntu-18-04-with-dns-validation/)
+* [Ubuntu Linux – How Do I install .deb Packages?](https://www.cyberciti.biz/faq/ubuntu-linux-how-do-i-install-deb-packages/)
+* [Ubuntu upgrade or update a single package using apt-get](https://www.cyberciti.biz/faq/ubuntu-upgrade-update-single-package-using-apt-get/)
+* [Ubuntu 18.04 Setup SSH Public Key Authentication](https://www.cyberciti.biz/faq/ubuntu-18-04-setup-ssh-public-key-authentication/)
+* [Ubuntu 18.04 LTS change hostname permanently](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-change-hostname-permanently/)
+
+
 
 ## General
 * [Linux Make Sure /etc/resolv.conf Never Get Updated By DHCP Client](https://www.cyberciti.biz/faq/dhclient-etcresolvconf-hooks/)
