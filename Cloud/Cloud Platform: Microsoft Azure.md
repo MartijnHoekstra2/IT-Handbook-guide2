@@ -25,6 +25,7 @@
 * [Is there a way to send an alert (email) when a device joins Azure AD?](https://www.reddit.com/r/sysadmin/comments/9djadq/is_there_a_way_to_send_an_alert_email_when_a/)
 * [Get notified when your Azure resources become unavailable](https://azure.microsoft.com/en-us/blog/get-notified-when-your-azure-resources-become-unavailable/)
 * [Renew federation certificates for Office 365 and Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-fed-o365-certs)
+* [Assign licenses to users by group membership in Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-groups-assign)
 
 ## Azure Powershell
 * [Azure and Windows PowerShell: The Basics](https://www.red-gate.com/simple-talk/sysadmin/powershell/azure-windows-powershell-basics/)
