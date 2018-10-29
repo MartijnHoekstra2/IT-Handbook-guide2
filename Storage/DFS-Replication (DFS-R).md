@@ -10,3 +10,4 @@
 * [How to Configure DFSR Replication](https://www.poweradmin.com/blog/how-to-configure-dfsr-replication/)
 * [Replication](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc770278(v=ws.11))
 * [Replicate folder targets using DFS Replication](https://docs.microsoft.com/en-us/windows-server/storage/dfs-namespaces/replicate-folder-targets-using-dfs-replication)
+* [Understanding File Date/Time behavior in DFSR Replication (and better ways of knowing that a file has replicated)](https://blogs.technet.microsoft.com/askds/2008/12/17/understanding-file-datetime-behavior-in-dfsr-replication-and-better-ways-of-knowing-that-a-file-has-replicated/)
