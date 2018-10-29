@@ -26,6 +26,7 @@
 * [X500 addresses – where is the beef?](https://paweljarosz.wordpress.com/2017/12/14/x500-addresses-where-is-the-beef/)
 * [Configure Azure Multi-Factor Authentication Server to work with AD FS in Windows Server](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfaserver-adfs-2012)
 * [Displaying the entire email address and name in Outlook](https://www.reddit.com/r/sysadmin/comments/99ette/displaying_the_entire_email_address_and_name_in/)
+* [Renew federation certificates for Office 365 and Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-fed-o365-certs)
 
 ## Tools
 * [Install and run the Office 365 IdFix tool](https://support.office.com/en-us/article/install-and-run-the-office-365-idfix-tool-f4bd2439-3e41-4169-99f6-3fabdfa326ac)
