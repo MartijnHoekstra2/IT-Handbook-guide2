@@ -5,3 +5,4 @@
 https://github.com/natescherer/Get-ExpiringAdfsCertificate
 * [AD FS 2016 being attacked](https://www.reddit.com/r/sysadmin/comments/9mtmdm/ad_fs_2016_being_attacked/)
 * [ADFS and TLS 1.2](https://www.reddit.com/r/sysadmin/comments/9nawdt/adfs_and_tls_12/)
+* [ADFS CMG Certificates](https://minimumrequiredeffort.wordpress.com/2015/05/05/adfs-cng-certificates/)
