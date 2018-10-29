@@ -6,6 +6,7 @@
 * [How do I efficiently back up and restore MySQL databases](https://www.reddit.com/r/sysadmin/comments/9ho5si/how_do_i_efficiently_back_up_and_restore_mysql/)
 
 #### Information
+* [MSSQL Basic Maintenance](https://www.reddit.com/r/sysadmin/comments/9qt69p/mssql_basic_maintenance/)
 * [dbatools](https://dbatools.io/)
 * [SQL Server Maintenance Solution](https://ola.hallengren.com/)
 * [SQL DBA with A Beard](https://sqldbawithabeard.com)
