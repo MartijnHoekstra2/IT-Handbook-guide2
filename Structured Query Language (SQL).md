@@ -14,6 +14,7 @@
 * [Troubleshooting SQL Server: A Guide for Accidental DBAs](https://www.red-gate.com/library/troubleshooting-sql-server-a-guide-for-accidental-dbas)
 * [SQL Tutorial](https://sqlzoo.net/)
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+* [Hardware and Software Requirements for Installing SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server?view=sql-server-2017)
 
 #### Tools
 * [Microsoft Data Migration Assistant v3.5](https://www.microsoft.com/en-us/download/details.aspx?id=53595)
