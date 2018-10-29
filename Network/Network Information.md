@@ -8,3 +8,6 @@
 * [Subnet Calculator](https://www.tunnelsup.com/subnet-calculator/)
 * [Subnet mask](https://study-ccna.com/subnet-mask/)
 * [What is a layer 3 switch?](http://techgenix.com/layer-3-switch/)
+
+
+* [Vlan day today - tips](https://www.reddit.com/r/sysadmin/comments/9s2f9j/vlan_day_today_tips/)
