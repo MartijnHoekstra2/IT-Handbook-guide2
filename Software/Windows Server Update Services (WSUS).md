@@ -1,4 +1,5 @@
 ## Windows Server Update Services (WSUS)
+* [Understanding WSUS and Windows 10](https://www.reddit.com/r/sysadmin/comments/9scwmc/understanding_wsus_and_windows_10/)
 * [Fixing IIS worker WSUSpool issue](http://www.systemsitpro.com/2017/03/fixing-up-iis-worker-wsuspool-issue.html)
 * [WSUS server keeps crashing](https://www.reddit.com/r/sysadmin/comments/9j35xp/wsus_server_keeps_crashing/)
 * [Microsoft Update catalog](https://www.catalog.update.microsoft.com/Home.aspx)
