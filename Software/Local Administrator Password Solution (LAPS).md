@@ -5,6 +5,7 @@
 * [LAPS](https://www.reddit.com/r/sysadmin/comments/86mwwr/laps/?st=jf5z84m8&sh=c9a28d40)
 * [Local Administrator Password Solution](https://technet.microsoft.com/en-us/mt227395.aspx)
 * [Microsoft How Healthy is your LAPS Environment?](https://www.reddit.com/r/sysadmin/comments/8oijoa/microsoft_how_healthy_is_your_laps_environment/)
+* [Deploying Local Administrator Password Management](http://techgenix.com/deploying-laps/)
 
 Do you need to install the LAPS client on DC’s?
 No, the Domain Controllers doesn’t have a local administrator account so that isn’t necassery)
