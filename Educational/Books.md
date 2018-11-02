@@ -12,6 +12,9 @@
 ## Debugging
 * [Troubleshooting with the Windows Sysinternals Tools 2nd Edition](https://www.amazon.com/gp/product/0735684448/ref=as_li_tl?ie=UTF8&tag=wwwsccmptipsr-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735684448&linkId=37b935c991b39b858bdfc15bfe8ba52e)
 
+## FreeBSD
+* [Absolute FreeBSD, 3rd Edition: The Complete Guide to FreeBSD](https://www.amazon.com/gp/product/1593278926/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=cyberciti-20&linkId=258b24bb4f721b3b798e9d74e942715b&language=en_US)
+
 ## Linux
 * [Book review: Ed Mastery](https://www.cyberciti.biz/reviews/book-review-ed-mastery/)
 * [linux-training.be](http://linux-training.be/)
