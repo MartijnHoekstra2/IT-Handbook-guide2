@@ -36,6 +36,7 @@ IIS
 
 ## Network
 * [Use PowerShell to Determine What Your System is Talking to](https://mikefrobbins.com/2018/07/19/use-powershell-to-determine-what-your-system-is-talking-to/)
+* [How to secure PowerShell remoting in a Windows domain](https://www.networkadm.in/securing-powershell/)
 
 ## Office 365
 * [Check: If a mailbox is On-Premises or in Office 365](https://mikefrobbins.com/2018/08/02/determine-if-a-mailbox-is-on-premises-or-in-office-365-with-powershell/)
