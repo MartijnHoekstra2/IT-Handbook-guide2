@@ -6,3 +6,4 @@
 * [ Deploying an AD CS Two-Tier PKI Hierarchy](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831348(v=ws.11))
 * [PKI: AD CS Two-Tier CA Hierarchy with Server Core for Windows 2012 R2](https://binarynature.blogspot.com/2015/03/pki-active-directory-certificate-services-two-tier-ca-server-core-for-windows-2012-r2.html)
 * [Building Public Key Infrastructure in Windows](https://notawful.org/windows-pki/)
+* [Designing and Implementing a PKI: Part I Design and Planning](https://blogs.technet.microsoft.com/askds/2009/09/01/designing-and-implementing-a-pki-part-i-design-and-planning/)
