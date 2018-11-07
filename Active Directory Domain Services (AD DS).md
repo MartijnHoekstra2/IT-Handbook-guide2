@@ -1,4 +1,5 @@
 * [Get Account Lock Out Source using Powershell](https://thesysadminchannel.com/get-account-lock-out-source-powershell/)
+* [AD from scratch - new system - best practices?](https://www.reddit.com/r/sysadmin/comments/9ufpxi/ad_from_scratch_new_system_best_practices/)
 
 https://www.reddit.com/r/sysadmin/comments/99ozf0/dns_secondary_zone_replication_between_domain/
 
