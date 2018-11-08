@@ -53,6 +53,7 @@
 * [Ubuntu upgrade or update a single package using apt-get](https://www.cyberciti.biz/faq/ubuntu-upgrade-update-single-package-using-apt-get/)
 * [Ubuntu 18.04 Setup SSH Public Key Authentication](https://www.cyberciti.biz/faq/ubuntu-18-04-setup-ssh-public-key-authentication/)
 * [Ubuntu 18.04 LTS change hostname permanently](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-change-hostname-permanently/)
+* [Ubuntu dig command not found – How to install dig on Ubuntu](https://www.cyberciti.biz/faq/ubuntu-dig-command-not-found-install-digonubuntu/)
 
 
 
