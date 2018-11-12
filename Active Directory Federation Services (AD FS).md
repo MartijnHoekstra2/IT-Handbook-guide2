@@ -7,3 +7,4 @@ https://github.com/natescherer/Get-ExpiringAdfsCertificate
 * [ADFS and TLS 1.2](https://www.reddit.com/r/sysadmin/comments/9nawdt/adfs_and_tls_12/)
 * [ADFS CMG Certificates](https://minimumrequiredeffort.wordpress.com/2015/05/05/adfs-cng-certificates/)
 * [Notes on ADFS Certificates](https://rakhesh.com/infrastructure/notes-on-adfs-certificates/)
+* [AD FS Extranet Lockout and Extranet Smart Lockout](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/operations/configure-ad-fs-extranet-smart-lockout-protection)
