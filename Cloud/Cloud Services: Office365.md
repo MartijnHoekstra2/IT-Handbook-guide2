@@ -3,6 +3,7 @@
 * [Office 365 ProPlus - update channel](https://www.reddit.com/r/sysadmin/comments/9u30ix/office_365_proplus_update_channel/)
 * [Anyone else having Office 365 authentication issues?](https://www.reddit.com/r/sysadmin/comments/9sddxr/anyone_else_having_office_365_authentication/)
 * [Connect to Exchange Online tenants with remote Windows PowerShell for Delegated Access Permissions (DAP) partners](https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-exchange-online-tenants-with-remote-windows-powershell-for-delegated)
+* [Solving the problem of DMARC’s incompatibility with mailing lists – Part 1](https://blogs.msdn.microsoft.com/tzink/2015/05/28/solving-the-problem-of-dmarcs-incompatibility-with-mailing-lists-part-1/)
 * [Set-HostedContentFilterPolicy](https://docs.microsoft.com/en-us/powershell/module/exchange/antispam-antimalware/set-hostedcontentfilterpolicy?view=exchange-ps)
 * [We have terminated employees and no way to deal with their mailboxes on office 365](https://www.reddit.com/r/sysadmin/comments/9sxpn9/we_have_terminated_employees_and_no_way_to_deal/)
 * [O365 licenses](https://www.reddit.com/r/sysadmin/comments/9olii9/o365_licenses/)
