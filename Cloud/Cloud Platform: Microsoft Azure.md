@@ -16,6 +16,7 @@
 * [Azure Monitor: Route AAD Activity Logs using diagnostic settings](https://azure.microsoft.com/en-us/blog/azure-monitor-aad-activity-logs-using-diagnostic-settings/)
 
 ## Azure general
+* [Validating Azure Run As accounts in Micrososft Azure](http://techgenix.com/validating-azure-run-as-accounts/)
 * [Best practices for alerting on metrics with Azure Database for MySQL monitoring](https://azure.microsoft.com/en-us/blog/best-practices-for-alerting-on-metrics-with-azure-database-for-mysql-monitoring/)
 * [Who has switched from ADFS to Azure SSO? Why? How was the transition? How has it worked so far?](https://www.reddit.com/r/sysadmin/comments/9rd3e5/who_has_switched_from_adfs_to_azure_sso_why_how/)
 * [Azure Advisor](https://azure.microsoft.com/en-us/blog/new-recommendations-in-azure-advisor/)
