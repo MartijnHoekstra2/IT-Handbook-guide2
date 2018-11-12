@@ -16,6 +16,7 @@
 * [Azure Monitor: Route AAD Activity Logs using diagnostic settings](https://azure.microsoft.com/en-us/blog/azure-monitor-aad-activity-logs-using-diagnostic-settings/)
 
 ## Azure general
+* [Leverage Azure Security Center to detect when compromised Linux machines attack](https://azure.microsoft.com/en-us/blog/leverage-azure-security-center-to-detect-when-compromised-linux-machines-attack/)
 * [Workload insights into SQL Data Warehouse delivered through Microsoft Azure Monitor diagnostic logs](https://azure.microsoft.com/en-us/blog/workload-insights-with-sql-data-warehouse-delivered-through-azure-monitor-diagnostic-logs-pass/)
 * [Row-Level Security is now supported for Microsoft Azure SQL Data Warehouse](https://azure.microsoft.com/en-us/blog/row-level-security-is-now-supported-for-azure-sql-data-warehouse/)
 * [Automatically discover workload insights for advanced performance tuning directly in Azure portal](https://azure.microsoft.com/en-us/blog/automatically-discover-workload-insights-for-advanced-performance-tuning-directly-in-the-azure-portal/)
