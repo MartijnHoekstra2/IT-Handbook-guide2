@@ -55,7 +55,7 @@
 * [Ubuntu 18.04 Setup SSH Public Key Authentication](https://www.cyberciti.biz/faq/ubuntu-18-04-setup-ssh-public-key-authentication/)
 * [Ubuntu 18.04 LTS change hostname permanently](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-change-hostname-permanently/)
 * [Ubuntu dig command not found – How to install dig on Ubuntu](https://www.cyberciti.biz/faq/ubuntu-dig-command-not-found-install-digonubuntu/)
-
+* [How to add bash auto completion in Ubuntu Linux](https://www.cyberciti.biz/faq/add-bash-auto-completion-in-ubuntu-linux/)
 
 
 ## General
