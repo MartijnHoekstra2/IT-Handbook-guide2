@@ -1,6 +1,8 @@
 ## Office 365
 * [onOffice 365 Licencing Audit Tool](https://www.reddit.com/r/sysadmin/comments/9uqw3v/office_365_licencing_audit_tool/)
 * [Office 365 ProPlus - update channel](https://www.reddit.com/r/sysadmin/comments/9u30ix/office_365_proplus_update_channel/)
+* [https://evotec.xyz/office-365-creating-archive-mailboxes-powershell-bulk](https://evotec.xyz/office-365-creating-archive-mailboxes-powershell-bulk/)
+* [Office 365 – Using dynamic variable as prefix for Office 365 commands](https://evotec.xyz/office-365-using-dynamic-variable-as-prefix-for-office-365-commands/)
 * [Anyone else having Office 365 authentication issues?](https://www.reddit.com/r/sysadmin/comments/9sddxr/anyone_else_having_office_365_authentication/)
 * [Connect to Exchange Online tenants with remote Windows PowerShell for Delegated Access Permissions (DAP) partners](https://docs.microsoft.com/en-us/office365/enterprise/powershell/connect-to-exchange-online-tenants-with-remote-windows-powershell-for-delegated)
 * [Solving the problem of DMARC’s incompatibility with mailing lists – Part 1](https://blogs.msdn.microsoft.com/tzink/2015/05/28/solving-the-problem-of-dmarcs-incompatibility-with-mailing-lists-part-1/)
