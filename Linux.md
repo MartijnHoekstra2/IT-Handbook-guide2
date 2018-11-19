@@ -13,6 +13,7 @@
 * [CentOS 7 dig command not found – How to install dig on CentOS](https://www.cyberciti.biz/faq/centos-7-dig-command-not-found-how-to-install-dig-on-centos/)
 * [Run Script When Network Interface is Up (Network Manager)](https://www.cyberciti.biz/faq/centos-7-run-script-when-network-interface-is-up-network-manager/)
 * [Check and List Running Services Linux Command](https://www.cyberciti.biz/faq/check-running-services-in-rhel-redhat-fedora-centoslinux/)
+* [Bash check if process is running or not on Linux / Unix](https://www.cyberciti.biz/faq/bash-check-if-process-is-running-or-notonlinuxunix/)
 
 ## Debain
 * [Debian Linux Install GNU GCC Compiler and Development Environment](https://www.cyberciti.biz/faq/debian-linux-install-gnu-gcc-compiler/)
@@ -20,6 +21,7 @@
 * [How to find out if my server needs a reboot](https://www.cyberciti.biz/faq/how-to-find-out-if-my-ubuntudebian-linux-server-needs-a-reboot/)
 * [How to open DNS port 53 using ufw](https://www.cyberciti.biz/faq/howto-open-dns-port-53-using-ufw-ubuntu-debian/)
 * [Check Linux package version using apt-get/aptitude command](https://www.cyberciti.biz/faq/debian-ubuntu-linux-apt-get-aptitude-show-package-version-command/)
+* [Bash check if process is running or not on Linux / Unix](https://www.cyberciti.biz/faq/bash-check-if-process-is-running-or-notonlinuxunix/)
 
 ## Fedora
 * [Install IPTraf to Get Network Statistics](https://www.cyberciti.biz/faq/install-iptraf-centos-redhat-fedora-linux/)
@@ -30,6 +32,7 @@
 * [FreeBSD find CPU (processor) temperature command](https://www.cyberciti.biz/faq/freebsd-determine-processor-cpu-temperature-command/)
 * [FreeBSD Allow Normal Users To Mount CDROMs/DVDs/USB Devices](https://www.cyberciti.biz/faq/freebsd-allow-ordinary-users-mount-cd-rom-dvds-usb-removabledevice/)
 * [How To: FreeBSD install VIM text editor using pkg and ports](https://www.cyberciti.biz/faq/howto-install-vim-text-editor-under-freebsd/)
+* [Bash check if process is running or not on Linux / Unix](https://www.cyberciti.biz/faq/bash-check-if-process-is-running-or-notonlinuxunix/)
 
 ## Ubuntu
 * [Ubuntu 18.04 LTS Set Up OpenVPN Server In 5 Minutes](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-set-up-openvpn-server-in-5-minutes/)
@@ -56,6 +59,7 @@
 * [Ubuntu 18.04 LTS change hostname permanently](https://www.cyberciti.biz/faq/ubuntu-18-04-lts-change-hostname-permanently/)
 * [Ubuntu dig command not found – How to install dig on Ubuntu](https://www.cyberciti.biz/faq/ubuntu-dig-command-not-found-install-digonubuntu/)
 * [How to add bash auto completion in Ubuntu Linux](https://www.cyberciti.biz/faq/add-bash-auto-completion-in-ubuntu-linux/)
+* [Bash check if process is running or not on Linux / Unix](https://www.cyberciti.biz/faq/bash-check-if-process-is-running-or-notonlinuxunix/)
 
 
 ## General
@@ -107,6 +111,7 @@
 * [Unix / Linux Print Environment Variables Command](https://www.cyberciti.biz/faq/unix-linux-print-environment-variable-comamnd/)
 * [Where are the passwords of the users located in Linux?](https://www.cyberciti.biz/faq/where-are-the-passwords-of-the-users-located-in-linux/)
 * [Linux Kernel /etc/sysctl.conf Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
+* [Bash foreach loop examples for Linux / Unix](https://www.cyberciti.biz/faq/bash-foreach-loop-examples-for-linux-unix/)
 
 ## Others
 * [10 Alpine Linux apk Command Examples](https://www.cyberciti.biz/faq/10-alpine-linux-apk-command-examples/)
