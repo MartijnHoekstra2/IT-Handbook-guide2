@@ -8,3 +8,4 @@ https://github.com/natescherer/Get-ExpiringAdfsCertificate
 * [ADFS CMG Certificates](https://minimumrequiredeffort.wordpress.com/2015/05/05/adfs-cng-certificates/)
 * [Notes on ADFS Certificates](https://rakhesh.com/infrastructure/notes-on-adfs-certificates/)
 * [AD FS Extranet Lockout and Extranet Smart Lockout](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/operations/configure-ad-fs-extranet-smart-lockout-protection)
+* [How to Turn On ADFS Security Auditing with Powershell](https://www.scriptinglibrary.com/languages/powershell/how-to-turn-on-adfs-security-auditing-with-powershell/)
