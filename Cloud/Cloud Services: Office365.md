@@ -1,4 +1,5 @@
 ## Office 365
+* [Office 365 inter-tenant collaboration](https://docs.microsoft.com/en-us/office365/enterprise/office-365-inter-tenant-collaboration)
 * [Lessons learned from the O365 MFA Outage](https://www.orbid365.be/lessons-learned-from-the-o365-mfa-outage/)
 * [onOffice 365 Licencing Audit Tool](https://www.reddit.com/r/sysadmin/comments/9uqw3v/office_365_licencing_audit_tool/)
 * [Office 365 ProPlus - update channel](https://www.reddit.com/r/sysadmin/comments/9u30ix/office_365_proplus_update_channel/)
