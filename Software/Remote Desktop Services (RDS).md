@@ -1,5 +1,6 @@
 ## Remote Desktop Services
 * [Remote Desktop Services (RDS) Architecture Explained](https://blogs.technet.microsoft.com/yungchou/2010/01/04/remote-desktop-services-rds-architecture-explained/)
+* [terminal server Recycle bin giving me nightmares](https://www.reddit.com/r/sysadmin/comments/a1608p/terminal_server_recycle_bin_giving_me_nightmares/)
 * [Help in installing E3 office 365 in shared RDP](https://www.reddit.com/r/sysadmin/comments/9bhmoa/help_in_installing_e3_office_365_in_shared_rdp/)
 * [Access servers only through management zone](https://www.reddit.com/r/sysadmin/comments/8ra8n6/access_servers_only_through_management_zone/)
 * [Deploying a 2012 / 2012R2 Remote Desktop Services (RDS) farm](https://thewolfblog.com/2014/02/08/deploying-a-2012-2012r2-remote-desktop-services-farm/)
