@@ -1,5 +1,6 @@
 ## Old
 * [(Don’t) Set or Save Passwords Using Group Policy Preferences](https://blogs.technet.microsoft.com/ash/2014/11/10/dont-set-or-save-passwords-using-group-policy-preferences/)
+* [How to use Group Policy Preferences to Secure Local Administrator Groups](http://www.grouppolicy.biz/2010/01/how-to-use-group-policy-preferences-to-secure-local-administrator-groups/)
 * [Control How Group Policy Is Applied At Logon](https://technet.microsoft.com/en-us/library/gg486839.aspx)
 * [Redirecting User's Folders on Terminal Server Farm](https://www.reddit.com/r/sysadmin/comments/7yy3im/redirecting_users_folders_on_terminal_server_farm/?st=jf8mv2vx&sh=93c1ddd7)
 * [A life without a roaming profile](https://www.reddit.com/r/sysadmin/comments/8sr86z/a_life_without_a_roaming_profile/)
