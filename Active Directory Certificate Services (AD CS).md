@@ -7,3 +7,4 @@
 * [PKI: AD CS Two-Tier CA Hierarchy with Server Core for Windows 2012 R2](https://binarynature.blogspot.com/2015/03/pki-active-directory-certificate-services-two-tier-ca-server-core-for-windows-2012-r2.html)
 * [Building Public Key Infrastructure in Windows](https://notawful.org/windows-pki/)
 * [Designing and Implementing a PKI: Part I Design and Planning](https://blogs.technet.microsoft.com/askds/2009/09/01/designing-and-implementing-a-pki-part-i-design-and-planning/)
+* [Revocation is broken](https://scotthelme.co.uk/revocation-is-broken/)
