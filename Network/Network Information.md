@@ -10,3 +10,6 @@
 * [What is a layer 3 switch?](http://techgenix.com/layer-3-switch/)
 * [IP subnetting made easy](https://www.techrepublic.com/blog/data-center/ip-subnetting-made-easy-125343/)
 * [Vlan day today - tips](https://www.reddit.com/r/sysadmin/comments/9s2f9j/vlan_day_today_tips/)
+
+
+* [Export an NPS Configuration for Import on Another Server](https://docs.microsoft.com/en-us/windows-server/networking/technologies/nps/nps-manage-export)
