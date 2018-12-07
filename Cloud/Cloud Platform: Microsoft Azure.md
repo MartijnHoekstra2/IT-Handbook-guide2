@@ -1,3 +1,6 @@
+## Steps
+* [Setup MFA](aka.ms/mfasetup)
+
 ## Micrososft Azure
 * [Azure Free Account](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
 * [Azure pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
