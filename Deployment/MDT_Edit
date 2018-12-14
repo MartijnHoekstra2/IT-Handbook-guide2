@@ -15,7 +15,7 @@ UserPassword=Password
 [Location2]
 DeployRoot=\\servername\DeploymentShare$
 UserDomain=contonso.local
-UserID=DomainUsername
+UserID=Username
 UserPassword=Password
 
 [Default]
@@ -40,7 +40,6 @@ SkipBitLocker=YES
 ;Computer Details
 SkipComputerName=No
 SkipDomainMembership=Yes
-
 
 ;User Data & User Data (Restore) & Move Data and Settings
 SkipUserData=Yes
