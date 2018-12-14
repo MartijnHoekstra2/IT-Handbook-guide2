@@ -3,29 +3,31 @@
 Priority=DefaultGateway,Default
 
 [DefaultGateway]
-X.X.X.X=Location1
-X.X.X.X=Location2
+  X.X.X.X=Location1
+  X.X.X.X=Location2
 
 [Location1]
-DeployRoot=\\servername\DeploymentShare$
-UserDomain=contonso.local
-UserID=DomainUsername
-UserPassword=Password
+  DeployRoot=\\servername\DeploymentShare$
+  UserDomain=contonso.local
+  UserID=DomainUsername
+  UserPassword=Password
+  MachineObjectOU=OU=yourouname,OU=computers,DC=yourdomainname,DC=local
 
 [Location2]
-DeployRoot=\\servername\DeploymentShare$
-UserDomain=contonso.local
-UserID=Username
-UserPassword=Password
+  DeployRoot=\\servername\DeploymentShare$
+  UserDomain=contonso.local
+  UserID=Username
+  UserPassword=Password
+  MachineObjectOU=OU=yourouname,OU=computers,DC=yourdomainname,DC=local
 
 [Default]
-SkipBDDWelcome=YES
-KeyboardLocale=en-US
+  SkipBDDWelcome=YES
+  KeyboardLocale=en-US
 
 
 ###  Custom Settings
 [Settings]
-Priority=Default
+  Priority=Default
 Properties=MyCustomProperty
 
 [Default]
@@ -47,3 +49,13 @@ SkipUserData=Yes
 ;Locale and Time
 SkipLocaleSelection=Yes
 SkipTimeZone=Yes
+
+
+###  Task Sequence
+Initialization
+  Gather local only
+Validation
+  Validate
+  Check BIOS
+  Next Phase
+
