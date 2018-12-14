@@ -1,3 +1,4 @@
+
 * [Awesome lists](https://github.com/sindresorhus/awesome)
 * [ADRecon](https://github.com/sense-of-security/ADRecon)
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
@@ -33,4 +34,5 @@
 * [Sublist3r](https://github.com/aboul3la/Sublist3r)
 * [TechBookHunter](https://github.com/TechBookHunter)
 * [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [VNC client using HTML5](https://github.com/novnc/noVNC)
