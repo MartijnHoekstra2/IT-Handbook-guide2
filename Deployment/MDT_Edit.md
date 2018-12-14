@@ -45,6 +45,6 @@ SkipDomainMembership=Yes
 ;User Data & User Data (Restore) & Move Data and Settings
 SkipUserData=Yes
 
-; Locale and Time
+;Locale and Time
 SkipLocaleSelection=Yes
 SkipTimeZone=Yes
