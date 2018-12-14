@@ -11,14 +11,18 @@ Priority=DefaultGateway,Default
   UserDomain=contonso.local
   UserID=DomainUsername
   UserPassword=Password
-  MachineObjectOU=OU=yourouname,OU=computers,DC=yourdomainname,DC=local
+  OSDComputername=Location1-%SerialNumber%
+  WSUSServer=https://Location1-WSUS
+  MachineObjectOU=OU=Computers,OU=Location1,DC=contonso,DC=local
 
 [Location2]
   DeployRoot=\\servername\DeploymentShare$
   UserDomain=contonso.local
   UserID=Username
   UserPassword=Password
-  MachineObjectOU=OU=yourouname,OU=computers,DC=yourdomainname,DC=local
+  OSDComputername=Location2-%SerialNumber%
+  WSUSServer=https://Location2-WSUS
+  MachineObjectOU=OU=Computers,OU=Location2,DC=contonso,DC=local
 
 [Default]
   SkipBDDWelcome=YES
@@ -31,25 +35,28 @@ Priority=DefaultGateway,Default
 Properties=MyCustomProperty
 
 [Default]
-_SMSTSOrgName=CompanyName
-OSInstall=Y
-SkipCapture=YES
-SkipAdminPassword=YES
-SkipProductKey=YES
-SkipComputerBackup=YES
-SkipBitLocker=YES
+  _SMSTSOrgName=CompanyName
+  OSInstall=Y
+  SkipCapture=YES
+  SkipAdminPassword=YES
+  SkipProductKey=YES
+  SkipComputerBackup=YES
+  SkipBitLocker=YES
 
-;Computer Details
-SkipComputerName=No
-SkipDomainMembership=Yes
+;Computer Details / Join Domain
+  SkipComputerName=No
+  SkipDomainMembership=No
+  JoinDomain=contonso.local
+  DomainAdmin=Username
+  DomainAdminDomain=contonso.local
+  DomainAdminPassword=Password
 
 ;User Data & User Data (Restore) & Move Data and Settings
-SkipUserData=Yes
+  SkipUserData=Yes
 
 ;Locale and Time
-SkipLocaleSelection=Yes
-SkipTimeZone=Yes
-
+  SkipLocaleSelection=Yes
+  SkipTimeZone=Yes
 
 ###  Task Sequence
 Initialization
