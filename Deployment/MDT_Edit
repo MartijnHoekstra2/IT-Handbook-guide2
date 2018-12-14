@@ -1,6 +1,6 @@
 ### Bootstrap.ini
 [Settings]
-Priority=DefaultGateway,Default
+  Priority=DefaultGateway,Default
 
 [DefaultGateway]
   X.X.X.X=Location1
