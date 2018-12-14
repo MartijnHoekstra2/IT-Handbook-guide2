@@ -1,4 +1,4 @@
-** Bootstrap.ini
+### Bootstrap.ini
 [Settings]
 Priority=DefaultGateway,Default
 
@@ -23,7 +23,7 @@ SkipBDDWelcome=YES
 KeyboardLocale=en-US
 
 
-** Custom Settings
+###  Custom Settings
 [Settings]
 Priority=Default
 Properties=MyCustomProperty
