@@ -13,6 +13,7 @@
 * [Self-paced Labs](https://www.microsoft.com/handsonlabs/selfpacedlabs)
 
 ## Azure AD Connect
+* [Azure AD Connect](https://www.reddit.com/r/sysadmin/comments/a61gub/azure_ad_connect/)
 * [Integrate your on-premises directories with Azure Active Directory](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect)
 * [Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso)
 * [Azure AD Connect - Re-installation of this service safe?](https://www.reddit.com/r/sysadmin/comments/910kzi/azure_ad_connect_reinstallation_of_this_service/)
