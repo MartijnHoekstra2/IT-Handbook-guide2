@@ -3,6 +3,7 @@ https://www.reddit.com/r/sysadmin/comments/9bp9xy/need_help_ive_created_many_net
 https://www.anitian.com/blog/packet-goes-where/
 https://www.smartdraw.com/network-diagram/examples/firewall/
 http://techgenix.com/network-topology/
+https://www.reddit.com/r/sysadmin/comments/a61b5w/setting_up_radius_using_peap/
 
 
 * [MIB Browser](http://www.ireasoning.com/mibbrowser.shtml)
