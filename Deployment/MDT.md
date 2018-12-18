@@ -10,7 +10,7 @@
 
  * [How to Capture an Image from a Reference Computer Manually](https://prajwaldesai.com/how-to-capture-an-image-from-a-reference-computer-manually/)
  
-## Network DHCP for UEFI and BIOS
+## DHCP Settings for UEFI and BIOS
 * [DHCP Vendor class](https://gal.vin/2017/05/05/pxe-booting-for-uefi-bios/)
 
 ## Deployment Security
