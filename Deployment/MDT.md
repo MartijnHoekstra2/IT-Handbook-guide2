@@ -32,6 +32,7 @@
 * [BIOS upgrade during OS Deployment in MDT/ConfigMgr (v3)](https://deploymentbunny.com/2016/07/20/osd-bios-upgrade-during-os-deployment-in-mdtconfigmgr-v3/)
 
 ## Additional options
+* [Deploying Applications with Microsoft Deployment Toolkit](https://lethewookiewin.wordpress.com/2011/04/21/84/)
 * [Property Reference](https://technet.microsoft.com/en-us/library/bb490304.aspx)
 * [Toolkit Reference](http://systemscenter.ru/mdt2012.en/toolkitreference.htm)
 * [How to make MDT deploy a set of applications without having to select them?](https://www.reddit.com/r/sysadmin/comments/9moz0p/how_to_make_mdt_deploy_a_set_of_applications/)
