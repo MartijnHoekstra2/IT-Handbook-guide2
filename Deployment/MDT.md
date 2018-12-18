@@ -29,7 +29,7 @@
 * [How to use MDT scripts to test your configuration before deployment](https://www.techrepublic.com/article/mdt-advanced-settings-testing-settings-and-configuration/)
 
 ## Driver Management
-* [How to set a propper Out-of-Box strategy](https://deploymentresearch.com/Research/Post/325/MDT-2013-Lite-Touch-Driver-Management)
+* [How to configure a propper Out-of-Box strategy](https://deploymentresearch.com/Research/Post/325/MDT-2013-Lite-Touch-Driver-Management)
 
 ## OS Deployment
 * [BIOS upgrade during OS Deployment in MDT/ConfigMgr (v3)](https://deploymentbunny.com/2016/07/20/osd-bios-upgrade-during-os-deployment-in-mdtconfigmgr-v3/)
