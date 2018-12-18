@@ -14,7 +14,14 @@
 ## Application Management
 * [Configure deployment/installation of Applications](https://lethewookiewin.wordpress.com/2011/04/21/84/)
 * [Test deployment/installation of Applications](https://www.techrepublic.com/article/mdt-advanced-settings-testing-settings-and-configuration/)
+* [Bundle Applications and deploy](https://www.reddit.com/r/sysadmin/comments/9moz0p/how_to_make_mdt_deploy_a_set_of_applications/)
 
+## MDT Property values
+* [Property Toolkit Reference](https://docs.microsoft.com/en-us/sccm/mdt/toolkit-reference)
+* [Older version of: Property Toolkit Reference](https://technet.microsoft.com/en-us/library/bb490304.aspx)
+
+## Other information
+* [MDT TUTORIAL: PROLOGUE & REQUIREMENTS](https://itinlegal.wordpress.com/2017/10/07/mdt-tutorial-prologue/)
 
 
 ## CustomSettings.ini Settings
@@ -28,19 +35,9 @@
 ## OS Deployment
 * [BIOS upgrade during OS Deployment in MDT/ConfigMgr (v3)](https://deploymentbunny.com/2016/07/20/osd-bios-upgrade-during-os-deployment-in-mdtconfigmgr-v3/)
 
-## Additional options
-
-* [MDT TUTORIAL: PROLOGUE & REQUIREMENTS](https://itinlegal.wordpress.com/2017/10/07/mdt-tutorial-prologue/)
-* [Property Reference](https://technet.microsoft.com/en-us/library/bb490304.aspx)
-* [Toolkit Reference](http://systemscenter.ru/mdt2012.en/toolkitreference.htm)
-* [How to make MDT deploy a set of applications without having to select them?](https://www.reddit.com/r/sysadmin/comments/9moz0p/how_to_make_mdt_deploy_a_set_of_applications/)
-* [Property Definition](http://systemscenter.ru/mdt2012.en/propertydefinition.htm)
-
-
 
 
 ## Microsoft Deployment Toolkit
-
 * [Building a Windows 10 v1809 reference image using Microsoft Deployment Toolkit (MDT)](https://deploymentresearch.com/Research/Post/1676/Building-a-Windows-10-v1809-reference-image-using-Microsoft-Deployment-Toolkit-MDT)
 * [Windows 10 Reference Image](https://www.reddit.com/r/sysadmin/comments/8oo0qw/windows_10_reference_image/)
     * [How Many Sysadmins Have Stopped Removing The Default W10 Enterprise Apps?](https://www.reddit.com/r/sysadmin/comments/8m2abp/how_many_sysadmins_have_stopped_removing_the/)
