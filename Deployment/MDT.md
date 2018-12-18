@@ -11,8 +11,8 @@
  * [How to Capture an Image from a Reference Computer Manually](https://prajwaldesai.com/how-to-capture-an-image-from-a-reference-computer-manually/)
 
 ## Deployment Security
-* [Delegating domain join permissions](https://4sysops.com/archives/if-mdt-domain-join-is-not-working/)
-* [MDT: Secure the Deployment Share](https://www.ingmarverheij.com/mdt-secure-deployment-share/)
+* [Deployment Domain Join Delegating permissions](https://4sysops.com/archives/if-mdt-domain-join-is-not-working/)
+* [Deployment Share NTFS permissions](https://www.ingmarverheij.com/mdt-secure-deployment-share/)
 
 ## Bootstrap.ini
 * [MDT: How to automate deployments using Bootstrap.ini](https://www.techrepublic.com/article/microsoft-deployment-toolkit-advanced-settings-for-automating-deployments-using-bootstrap-ini/)
