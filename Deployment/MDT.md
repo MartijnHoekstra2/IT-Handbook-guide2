@@ -1,5 +1,5 @@
 ## Microsoft Deployment Toolkit
-* [PXE Booting with WDS for UEFI and BIOS Devices](https://gal.vin/2017/05/05/pxe-booting-for-uefi-bios/)
+
 * [Building a Windows 10 v1809 reference image using Microsoft Deployment Toolkit (MDT)](https://deploymentresearch.com/Research/Post/1676/Building-a-Windows-10-v1809-reference-image-using-Microsoft-Deployment-Toolkit-MDT)
 * [Windows 10 Reference Image](https://www.reddit.com/r/sysadmin/comments/8oo0qw/windows_10_reference_image/)
     * [How Many Sysadmins Have Stopped Removing The Default W10 Enterprise Apps?](https://www.reddit.com/r/sysadmin/comments/8m2abp/how_many_sysadmins_have_stopped_removing_the/)
@@ -9,6 +9,9 @@
 * [Cloud OS Deployment - Running MDT Task Sequences from Microsoft Intune](https://deploymentresearch.com/Research/Post/663/Cloud-OS-Deployment-Part-1-Running-MDT-Task-Sequences-from-Microsoft-Intune)
 
  * [How to Capture an Image from a Reference Computer Manually](https://prajwaldesai.com/how-to-capture-an-image-from-a-reference-computer-manually/)
+ 
+## Network DHCP for UEFI and BIOS
+* [DHCP Vendor class](https://gal.vin/2017/05/05/pxe-booting-for-uefi-bios/)
 
 ## Deployment Security
 * [Deployment Domain Join Delegating permissions](https://4sysops.com/archives/if-mdt-domain-join-is-not-working/)
