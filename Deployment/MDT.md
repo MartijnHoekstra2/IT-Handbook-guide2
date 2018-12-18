@@ -33,6 +33,7 @@
 
 ## Additional options
 * [Installing Applications with MDT.](https://lethewookiewin.wordpress.com/2011/04/21/84/)
+* [MDT TUTORIAL: PROLOGUE & REQUIREMENTS](https://itinlegal.wordpress.com/2017/10/07/mdt-tutorial-prologue/)
 * [Property Reference](https://technet.microsoft.com/en-us/library/bb490304.aspx)
 * [Toolkit Reference](http://systemscenter.ru/mdt2012.en/toolkitreference.htm)
 * [How to make MDT deploy a set of applications without having to select them?](https://www.reddit.com/r/sysadmin/comments/9moz0p/how_to_make_mdt_deploy_a_set_of_applications/)
