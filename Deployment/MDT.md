@@ -17,10 +17,10 @@
 * [Deployment Domain Join Delegating permissions](https://4sysops.com/archives/if-mdt-domain-join-is-not-working/)
 * [Deployment Share NTFS permissions](https://www.ingmarverheij.com/mdt-secure-deployment-share/)
 
-## Bootstrap.ini
+## Bootstrap.ini Settings
 * [MDT: How to automate deployments using Bootstrap.ini](https://www.techrepublic.com/article/microsoft-deployment-toolkit-advanced-settings-for-automating-deployments-using-bootstrap-ini/)
 
-## CustomSettings.ini
+## CustomSettings.ini Settings
 * [CustomSettings.ini – Explained](https://deploymentbunny.com/2012/04/21/back-to-basic-customsettings-ini-explained/)
 * [Converting Desktop and Laptop computer types into Roles](https://deploymentbunny.com/2015/05/22/back-to-basic-customsettings-ini-converting-desktop-and-laptop-computer-types-into-roles/)
 * [Converting Model and ModelAlias into Roles](https://deploymentbunny.com/2015/05/22/back-to-basic-customsettings-ini-converting-model-and-modelalias-into-roles/)
@@ -28,8 +28,8 @@
 * [Testing customsettings.ini variables in MDT](https://deploymentbunny.com/2011/04/27/quick-and-dirty-testing-customsettings-ini-variables-in-mdt/)
 * [How to use MDT scripts to test your configuration before deployment](https://www.techrepublic.com/article/mdt-advanced-settings-testing-settings-and-configuration/)
 
-## Out-of-Box-Drivers
-* [MDT 2013 Lite Touch Driver Management](https://deploymentresearch.com/Research/Post/325/MDT-2013-Lite-Touch-Driver-Management)
+## Driver Management
+* [How to set a propper Out-of-Box strategy](https://deploymentresearch.com/Research/Post/325/MDT-2013-Lite-Touch-Driver-Management)
 
 ## OS Deployment
 * [BIOS upgrade during OS Deployment in MDT/ConfigMgr (v3)](https://deploymentbunny.com/2016/07/20/osd-bios-upgrade-during-os-deployment-in-mdtconfigmgr-v3/)
