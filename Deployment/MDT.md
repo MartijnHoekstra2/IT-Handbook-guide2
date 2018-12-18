@@ -10,7 +10,7 @@
 
  * [How to Capture an Image from a Reference Computer Manually](https://prajwaldesai.com/how-to-capture-an-image-from-a-reference-computer-manually/)
 
-## Active Directory
+## Deployment Security
 * [Delegating domain join permissions](https://4sysops.com/archives/if-mdt-domain-join-is-not-working/)
 * [MDT: Secure the Deployment Share](https://www.ingmarverheij.com/mdt-secure-deployment-share/)
 
