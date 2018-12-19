@@ -34,4 +34,4 @@
 
 ## Other information
 * [MDT TUTORIAL: PROLOGUE & REQUIREMENTS](https://itinlegal.wordpress.com/2017/10/07/mdt-tutorial-prologue/)
-* [Windows 10 - Removing default Apps] (https://www.reddit.com/r/sysadmin/comments/8m2abp/how_many_sysadmins_have_stopped_removing_the/)
+* [Windows 10 - Removing default Apps](https://www.reddit.com/r/sysadmin/comments/8m2abp/how_many_sysadmins_have_stopped_removing_the/)
