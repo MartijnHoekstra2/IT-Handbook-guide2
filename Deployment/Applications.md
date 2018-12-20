@@ -5,7 +5,7 @@
 ### Adobe Reader
 [Adobe Reader Customization Wizard DC](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/basics.html)
 [Adobe Reader DC Latest version](ftp://ftp.adobe.com/pub/adobe/reader/win/AcrobatDC/)
-setup.exe /sPB /rs /msi TRANSFORMS="\\servername\DeploymentShare$\Applications\Adobe Reader DC 1901020064\AcroRead.mst"
+* setup.exe /sPB /rs /msi TRANSFORMS="\\servername\DeploymentShare$\Applications\Adobe Reader DC 1901020064\AcroRead.mst"
 
 ### Chrome
 [Chrome .msi Download](https://cloud.google.com/chrome-enterprise/browser/download/)
