@@ -1,5 +1,6 @@
 CMTrace
 DelProf
+VLC
 
 ##### 7-Zip
 [7-Zip .msi Download](https://www.7-zip.org/download.html)
