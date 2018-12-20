@@ -4,7 +4,6 @@
 
 ### Adobe Reader
 [Adobe Reader Customization Wizard DC](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/basics.html)
-
 [Adobe Reader DC Latest version](ftp.adobe.com/pub/adobe/reader/win/AcrobatDC/)
 * setup.exe /sPB /rs /msi TRANSFORMS="\\servername\DeploymentShare$\Applications\Adobe Reader DC 1901020064\AcroRead.mst"
 
