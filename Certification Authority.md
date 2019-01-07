@@ -1,6 +1,7 @@
 * [Can anyone provide a recommendation for a (preferably free and open-source) root Certificate Authority? The primary purpose will be to issue SSL certs for internal web apps.](https://www.reddit.com/r/sysadmin/comments/9oppip/can_anyone_provide_a_recommendation_for_a/)
 * [Windows Server https SSL certificate - letsencrypt.org (free) or a regular SSL provider (paid)?](https://www.reddit.com/r/sysadmin/comments/9ozz69/windows_server_https_ssl_certificate/)
 * [[Microsoft] PKI Basics: How to Manage the Certificate Store](https://www.reddit.com/r/sysadmin/comments/826pnj/microsoft_pki_basics_how_to_manage_the/)
+* [IIS Crypto](https://www.nartac.com/Products/IISCrypto)
 * [Creating an Offline Certificate Request in Windows Server](https://documentation.meraki.com/zGeneral_Administration/Other_Topics/Creating_an_Offline_Certificate_Request_in_Windows_Server)
 * [Should I build an internal Certificate Authority?](https://www.reddit.com/r/sysadmin/comments/957cnh/should_i_build_an_internal_certificate_authority/)
 * [Windows Server 2012 R2 Two-Tier PKI CA Pt. 1](https://www.derekseaman.com/2014/01/windows-server-2012-r2-two-tier-pki-ca-pt-1.html)
