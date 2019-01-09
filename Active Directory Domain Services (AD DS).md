@@ -2,22 +2,15 @@
 * [AD from scratch - new system - best practices?](https://www.reddit.com/r/sysadmin/comments/9ufpxi/ad_from_scratch_new_system_best_practices/)
 * [Step-By-Step: Setting Up Active Directory Sites, Subnets & Site-Links](https://blogs.technet.microsoft.com/canitpro/2015/03/03/step-by-step-setting-up-active-directory-sites-subnets-site-links/)
 * [Understanding site links and site bridges](https://www.reddit.com/r/sysadmin/comments/a7zai1/i_apparently_dont_understand_site_links_and_site/)
-
-https://www.reddit.com/r/sysadmin/comments/99ozf0/dns_secondary_zone_replication_between_domain/
-
-https://blogs.technet.microsoft.com/askpfeplat/2013/12/15/domain-and-dc-migrations-how-to-monitor-ldap-kerberos-and-ntlm-traffic-to-your-domain-controllers/
-
-https://technet.microsoft.com/en-us/library/2009.06.subnets.aspx
-
-https://en.m.wikiversity.org/wiki/Wireshark/DNS
-
-https://www.techitbuzz.com/2018/04/how-replication-works-in-Active-Directory-and-How-to-Troubleshoot.html
-
-https://blogs.technet.microsoft.com/askds/2008/09/24/domain-locator-across-a-forest-trust/
-
+* [FSMO placement and optimization on Active Directory domain controllers](https://support.microsoft.com/en-us/help/223346/fsmo-placement-and-optimization-on-active-directory-domain-controllers)
+* [DNS: Secondary Zone Replication between Domain Controllers?](https://www.reddit.com/r/sysadmin/comments/99ozf0/dns_secondary_zone_replication_between_domain/)
+* [Domain and DC Migrations: How To Monitor LDAP, Kerberos and NTLM Traffic To Your Domain Controllers](https://blogs.technet.microsoft.com/askpfeplat/2013/12/15/domain-and-dc-migrations-how-to-monitor-ldap-kerberos-and-ntlm-traffic-to-your-domain-controllers/)
+* [Using Catch-All Subnets in Active Directory](https://technet.microsoft.com/en-us/library/2009.06.subnets.aspx)
+* [Wireshark/DNS](https://en.m.wikiversity.org/wiki/Wireshark/DNS)
+* [Domain Locator Across a Forest Trust](https://blogs.technet.microsoft.com/askds/2008/09/24/domain-locator-across-a-forest-trust/)
+* [How to force an authoritative and non-authoritative synchronization for DFSR-replicated SYSVOL (like "D4/D2" for FRS)](https://support.microsoft.com/en-us/help/2218556/how-to-force-an-authoritative-and-non-authoritative-synchronization-fo)
 * [Raising Active Directory functional levels](https://www.reddit.com/r/sysadmin/comments/8wl34c/raising_active_directory_functional_levels/)
-* [
-After the Active Directory post: what are some asinine hidden attributes of things other than AD everyone should know?](https://www.reddit.com/r/sysadmin/comments/9b0r36/after_the_active_directory_post_what_are_some/)
+* [After the Active Directory post: what are some asinine hidden attributes of things other than AD everyone should know?](https://www.reddit.com/r/sysadmin/comments/9b0r36/after_the_active_directory_post_what_are_some/)
 
 ## Prep-AD
 - [Everything you need to get started with Active Directory](https://blogs.technet.microsoft.com/ashleymcglone/2012/01/03/everything-you-need-to-get-started-with-active-directory/)
