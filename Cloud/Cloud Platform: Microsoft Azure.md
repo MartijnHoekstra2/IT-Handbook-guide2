@@ -20,6 +20,7 @@
 * [Azure Monitor: Route AAD Activity Logs using diagnostic settings](https://azure.microsoft.com/en-us/blog/azure-monitor-aad-activity-logs-using-diagnostic-settings/)
 
 ## Azure general
+* [Remote access to on-premises applications through Azure Active Directory's Application Proxy](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/application-proxy)
 * [Premium Block Blob Storage - a new level of performance](https://azure.microsoft.com/en-us/blog/premium-block-blob-storage-a-new-level-of-performance/)
 * [Considering Azure Functions for a serverless data streaming scenario](https://azure.microsoft.com/en-us/blog/considering-azure-functions-for-a-serverless-data-streaming-scenario/)
 * [Manage emergency-access administrative accounts in Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/directory-emergency-access)
