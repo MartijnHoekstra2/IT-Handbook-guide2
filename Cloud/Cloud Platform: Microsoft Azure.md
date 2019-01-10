@@ -2,7 +2,8 @@
 * [Setup MFA](aka.ms/mfasetup)
 
 ## Micrososft Azure
-* [Azure Free Account](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
+* [Learn free Azure](https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure/)
+* [Azure free Account](https://azure.microsoft.com/en-us/offers/ms-azr-0044p/)
 * [Azure pricing calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 * [Microsoft Azure Cost Estimator Tool](https://www.microsoft.com/en-ca/download/details.aspx?id=43376)
 * [How I choose which services to use in Azure](https://channel9.msdn.com/Shows/Azure-Friday/How-I-choose-which-services-to-use-in-Azure)
