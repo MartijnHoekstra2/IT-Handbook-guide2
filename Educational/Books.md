@@ -61,3 +61,4 @@
 * [Windows Server 2008 R2 Unleashed 1st Edition](https://www.amazon.com/Windows-Server-2008-R2-Unleashed/dp/067233092X)
 * [Windows Server 2016 Unleashed (includes Content Update Program) 1st Edition](https://www.amazon.com/Windows-Server-Unleashed-Content-Program/dp/0134583752/)
 * [Windows Internals Book](https://docs.microsoft.com/en-us/sysinternals/learn/windows-internals)
+* [Troubleshooting with the Windows Sysinternals Tools](https://my.safaribooksonline.com/book/operating-systems-and-server-administration/microsoft-windows/9780133986549)
