@@ -11,3 +11,4 @@ https://github.com/natescherer/Get-ExpiringAdfsCertificate
 * [How to Turn On ADFS Security Auditing with Powershell](https://www.scriptinglibrary.com/languages/powershell/how-to-turn-on-adfs-security-auditing-with-powershell/)
 * [AD FS Troubleshooting - Events and Logging](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/troubleshooting/ad-fs-tshoot-logging)
 * [ADFS not showing errors?](https://www.reddit.com/r/sysadmin/comments/a10mzb/adfs_not_showing_errors/)
+* [Updating Windows Server 2012 R2 AD FS SSL and Service Certificates](https://blogs.technet.microsoft.com/rmilne/2016/03/21/updating-windows-server-2012-r2-adfs-ssl-and-service-certificates/)
