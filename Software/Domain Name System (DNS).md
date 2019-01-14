@@ -6,3 +6,4 @@
 * [How to Configure AD Integrated DNS Zone- Windows Server 2012 R2](http://www.itingredients.com/how-to-configure-ad-integrated-dns-zone-windows-server-2012-r2/)
 * [Domain Name Service DNS](https://docs.microsoft.com/en-us/previous-versions/tn-archive/bb962025(v=technet.10)
 * [How to configure DNS dynamic updates in Windows Server 2003](https://support.microsoft.com/en-us/help/816592/how-to-configure-dns-dynamic-updates-in-windows-server-2003)
+* [How DNS Scavenging and the DHCP Lease Duration Relate](https://blogs.technet.microsoft.com/askpfe/2011/06/03/how-dns-scavenging-and-the-dhcp-lease-duration-relate/)
