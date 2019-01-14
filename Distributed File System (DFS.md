@@ -1,7 +1,7 @@
 - [Why DFS can be Amazing](https://www.reddit.com/r/sysadmin/comments/95cx3b/why_dfs_can_be_amazing/)
 - [Windows Server 2016 - DFSR Performance](https://www.reddit.com/r/sysadmin/comments/95g8sd/windows_server_2016_dfsr_performance/)
 
-
+* [Dilemma in regards to our DFS servers](https://www.reddit.com/r/sysadmin/comments/adpqb0/dilemma_in_regards_to_our_dfs_servers/)
 
 
 
