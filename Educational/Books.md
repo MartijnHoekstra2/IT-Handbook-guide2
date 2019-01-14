@@ -6,6 +6,9 @@
 * [Active Directory, 5th Edition Designing, Deploying, and Running Active Directory](https://www.amazon.com/Active-Directory-Designing-Deploying-Running/dp/1449320023)
 * [Learn Active Directory Management in a Month of Lunches](https://www.amazon.com/Learn-Active-Directory-Management-Lunches/dp/1617291196)
 
+## Azure
+* [Learn Azure in a Month of Lunches](https://azure.microsoft.com/mediahandler/files/resourcefiles/learn-azure-in-a-month-of-lunches/Learn_Azure_in_a_Month_of_Lunches.pdf)
+
 ## Cloud
 * [Practice of Cloud System Administration, The: DevOps and SRE Practices for Web Services, Volume 2](https://www.amazon.com/Practice-Cloud-System-Administration-Practices/dp/032194318X)
 
