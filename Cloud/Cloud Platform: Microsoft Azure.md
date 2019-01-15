@@ -107,3 +107,5 @@
 ### Discovery Cloud Applications Used in Your Organization
 * Azure AD Cloud App Discovery is a feature of Azure AD premium, and lets you install an agent on devices. It will run in the background and search for services which are users are using. This is based on HTTP or HTTPS, if the application/services does not use HTTP or HTTPS the application won't be discoverd.
 * Informing the organization that you are going to collect this information is optional. Can be specific at the donwload part of the agent.
+* [Cloud App Discovery System Center Deployment Guide](https://social.technet.microsoft.com/wiki/contents/articles/30968.cloud-app-discovery-system-center-deployment-guide.aspx)
+* [Cloud App Discovery Group Policy Deployment Guide](https://social.technet.microsoft.com/wiki/contents/articles/30965.cloud-app-discovery-group-policy-deployment-guide.aspx)
