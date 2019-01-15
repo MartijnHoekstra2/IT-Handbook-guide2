@@ -58,4 +58,8 @@
 * [What is application access and single sign-on with Azure Active Directory?](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on)
 
 ## Others
-* [Managing Linux VM Authentication in Micrososft Azure](http://techgenix.com/managing-linux-vm-azure/)
+* [Managing Linux VM Authentication in Micrososft Azure](http://techgenix.com/managing-linux-vm-azure/).
+
+##### Active Directory Azure
+* Each Azure region should be its own Active Directory site
+* Azure Virtual Networks can be configured to use DCs for DNS services
