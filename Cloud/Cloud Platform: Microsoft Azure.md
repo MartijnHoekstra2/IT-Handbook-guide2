@@ -66,6 +66,7 @@
 * Make at least one DC in Azure a Global Catalog
 * Create if possible multiple DCs in Azure if one's being maintained
 * If placing multiple DCss in Azure deploy them in an Availability Set
+* Generally RODC is NOT a good fit for Azure (Apps don't work very well and there is traffic)
 
 ##### Site Configuration
 * In Active Directory Sites and Services configure each Azure region to be its own Active Directory site
