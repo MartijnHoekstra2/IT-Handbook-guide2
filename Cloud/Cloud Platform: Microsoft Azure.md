@@ -101,4 +101,5 @@
 * Authentication Options below:
 1. Authentication Option 1: AD DS > Identity sync with password hash > Microsoft Azure AD
 2. Authentication Option 2: AD DS > Identity Sync with ADFS > Micrososft Azure AD < Best option
+* [Azure AD Connect and federation](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-fed-whatis)
 * [Manage AD FS trust with Azure AD using Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-azure-ad-trust)
