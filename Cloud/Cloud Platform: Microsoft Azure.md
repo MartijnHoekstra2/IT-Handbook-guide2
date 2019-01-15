@@ -64,7 +64,7 @@
 
 * Azure Virtual Networks can be configured to use DCs for DNS services
 
-* Place AD database and logs on data disk with NO caching and NOT on OS disk
+
 * Assign a reserved IP address to the DC using Azure Configuration
 * Update the Virtual Network DNS to use Azure based DCs first
 * Make at least one DC in Azure a Global Catalog
@@ -77,8 +77,13 @@
 * In Active Directory Sites and Services configure each Azure region to be its own Active Directory site
 * If you're using multiple regions, then make sure that is visible within the name
 * Define the IP subnets that are being used for that site, so you have a site to subnet link
-* At the Inter-Site Transport configure a site link between a location which is physically connected to Azure. 
-##### Database placement
+* At the Inter-Site Transport configure a site link between a location which is physically connected to Azure.
+
+##### Database placement within an Azure based domain controller
+* Add/Create a new data disk to the Azure based DC with with NO caching NO read NO write (Host Caching: None)
+* When running DC Promo configure the NTDS and SYSVOl to be placed on this data disk
+* Dont store the NTDS and SYSVOL on the OS drive
+
 ##### IP reservation and network configuration
 ##### Generic DNS record suppression
 
