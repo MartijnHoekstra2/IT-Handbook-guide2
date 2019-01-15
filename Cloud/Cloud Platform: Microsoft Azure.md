@@ -141,3 +141,16 @@
 * Focus is on ARM as that is the new model for Azure that has support for RBAC, JSON templates, dependencies, tags. granular bullying and hybrid consistency via Azure Stack
 * Cannot mix resources, if you still want that it needs to be through VPNs or Express Route or something else. So this is why use possible ARM for all deployments.
 
+### Storage Accounts
+* Every storage account has a globally-unique name throughtout the hole Azure Space
+* Alle DNS names for specific types of service like blobs,queues, tables has also an unique name throughout the hole Azure space
+* Account Types: General Purpose > general purpose accounts have a performance type
+* Account Types: Blob storage > blob storage accounts are hot or cold tier, and these do not support page blobs, so I cannot use these for IaaS.
+* Hot tier storage explained: I would use for data that I intend to access more. For a hot storage blob account I pay a certain amount for the storage, and a certain amount to access transactions.
+* Cold tier storage explained: Very good for storing data I don't intend to access very often. For a cold storage account, the actual cost of storing data is about half of that of the hot tier, but the actual transactions frees are double that of the hot tier.
+* Like all Azure Resource Manager (ARM)) resources, storage accounts are in a Resource Group
+* Storage Account Replication types: Locally-redundant storage (LRS): Locally redundant storage. Locally redundant storage (LRS) replicates three copies of your data within the same data center you have your data in. The write requests you do with your storage are not committed until they are replicated to all three copies, which means it replicates synchronously.
+* Storage Account Replication types: Zone-redundant storage (ZRS): When you store your data in a storage account using ZRS replication, you can continue to access and manage your data if an availability zone becomes unavailable. ZRS provides excellent performance and low latency. ZRS offers the same scalability targets as locally redundant storage (LRS)
+* Storage Account Replication types: Geo-redundant storage (GRS): Geo-redundant storage (GRS) is designed to provide at least 99.99999999999999% (16 9's) durability of objects over a given year by replicating your data to a secondary region that is hundreds of miles away from the primary region. ... Read-access geo-redundant storage (RA-GRS) is based on GRS.
+* Storage Account Replication types: Read-access geo-redundant storage (RA-GRS): Read-access geo-redundant storage (RA-GRS) maximizes availability for your storage account. RA-GRS provides read-only access to the data in the secondary location, in addition to geo-replication across two regions.
+
