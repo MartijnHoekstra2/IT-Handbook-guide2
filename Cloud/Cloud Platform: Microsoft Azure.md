@@ -82,4 +82,5 @@
 * Assign a reserved IP static address to the DC using Azure Configuration
 
 ##### Generic DNS record suppression
-* To supress the creation og generic DNS records you can read about this article: [How to optimize the location of a domain controller or global catalog that resides outside of a client's site](https://support.microsoft.com/en-us/help/306602/how-to-optimize-the-location-of-a-domain-controller-or-global-catalog)
+* To supress the creation og generic DNS records you can read about this article:
+[How to optimize the location of a domain controller or global catalog that resides outside of a client's site](https://support.microsoft.com/en-us/help/306602/how-to-optimize-the-location-of-a-domain-controller-or-global-catalog)
