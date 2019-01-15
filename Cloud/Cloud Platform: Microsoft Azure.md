@@ -61,18 +61,12 @@
 * [Managing Linux VM Authentication in Micrososft Azure](http://techgenix.com/managing-linux-vm-azure/).
 
 ### Active Directory Azure configuration information
-
 * Azure Virtual Networks can be configured to use DCs for DNS services
-
-
-
 * Update the Virtual Network DNS to use Azure based DCs first
 * Make at least one DC in Azure a Global Catalog
 * Create if possible multiple DCs in Azure if one's being maintained
-* Configure Azure DCs to NOT publisch generic DNS records
 * If placing multiple DCss in Azure deploy them in an Availability Set
 
-### Active Directory Azure configuration information
 ##### Site Configuration
 * In Active Directory Sites and Services configure each Azure region to be its own Active Directory site
 * If you're using multiple regions, then make sure that is visible within the name
@@ -89,6 +83,3 @@
 
 ##### Generic DNS record suppression
 * To supress the creation og generic DNS records you can read about this article: [How to optimize the location of a domain controller or global catalog that resides outside of a client's site](https://support.microsoft.com/en-us/help/306602/how-to-optimize-the-location-of-a-domain-controller-or-global-catalog)
-
-
-
