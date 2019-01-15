@@ -121,4 +121,4 @@
 * Persistent: able to write data / power off a system and bring online and the data still is there / move virtual machines between nodes, and its storage is always there.
 * Non-Persistent: Think of a temporary disk while rebooting it stays there, but shut it down and then start it again you will lose it.
 * Other considerations: Durability. Resiliency, Performances, Connectivity, File- vs Block-based
-
+* [Windows Azure Storage: A Highly Available Cloud Storage Service with Strong Consistency](https://sigops.org/s/conferences/sosp/2011/current/2011-Cascais/printable/11-calder.pdf)
