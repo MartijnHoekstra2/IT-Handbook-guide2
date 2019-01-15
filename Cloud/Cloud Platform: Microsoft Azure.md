@@ -154,3 +154,28 @@
 * Storage Account Replication types: Geo-redundant storage (GRS): Geo-redundant storage (GRS) is designed to provide at least 99.99999999999999% (16 9's) durability of objects over a given year by replicating your data to a secondary region that is hundreds of miles away from the primary region. ... Read-access geo-redundant storage (RA-GRS) is based on GRS.
 * Storage Account Replication types: Read-access geo-redundant storage (RA-GRS): Read-access geo-redundant storage (RA-GRS) maximizes availability for your storage account. RA-GRS provides read-only access to the data in the secondary location, in addition to geo-replication across two regions.
 
+### Standard Storage
+* Also referred to as Basic storage
+* Baed on storage stamps primarily using HDDs
+* VHD files are stored in page blobs
+* A page blob has a 1 TB maximum size
+* 500 Maximum IOPS per disk for Standard tier VM (300 IOPS for Basic)
+* Up to 20.000 IOPS per Standard storage account
+* Always stick to 40 disks maximum in a storage account
+* The maximum size of a VHD is 1023 GB (overhead for 1GB)
+
+### Bigger and Faster Standard Storage
+* 500 IOPS and 1TB will not always be enough
+* One option: Add multi disks then combine
+* The combined volume has the aggregate size and performance. Combining 8 disk would enable 8 TB volume with 4000 IOPS.
+* When combining no mirroring or parity is required
+* Use simple virtual disks with storage space or RAID 0/striping
+* Applications may have their own technologies such as SQL Server
+
+### Pricing of Standard Storage
+* Like all Azure services the storage is billed based on consumption and the type of service
+* Items that impact the price: Capacity, how much data I'm actually storing
+* Items that impact the price: Tier, this could be hot and cold or more about the Standard vs Premium
+* Items that impact the price: Redundancy, is it (LRS) or/and (ZRS) or/and  (GRS) or/and (RA-GRS)
+* Items that impact the price: Transactions, how many transactions are you performing against the storage
+* Items that impact the price: Region, prices do vary based on the region
