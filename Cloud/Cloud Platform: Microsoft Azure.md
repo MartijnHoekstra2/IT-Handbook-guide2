@@ -110,3 +110,4 @@
 * [Cloud App Discovery System Center Deployment Guide](https://social.technet.microsoft.com/wiki/contents/articles/30968.cloud-app-discovery-system-center-deployment-guide.aspx)
 * [Cloud App Discovery Group Policy Deployment Guide](https://social.technet.microsoft.com/wiki/contents/articles/30965.cloud-app-discovery-group-policy-deployment-guide.aspx)
 * It will create an server on the devices named: Micrososft Cloud App Discovery Endpoint Agent
+* Within Azure AD you will get a report about the information
