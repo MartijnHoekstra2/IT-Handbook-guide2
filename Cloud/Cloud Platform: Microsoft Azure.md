@@ -98,3 +98,6 @@
 * Use a dedicated server for Azure AD Connect if possible
 * After configuring Azure AD Connect open the Synchronization Service to configure which OU's to sync. This can be done by going to the Connectors and select the AD and go to Configure Directory Parititions and then Containers
 * Running a "C:\Program Files\Microsoft Azure AD Sync\Bin\DirectorySyncClientCmd.exe delta [LearnCompany.LTD]". This will for a synchronization the easiest way between AD and Azure AD.
+* Authentication Option 1: AD DS > Identity sync with password hash > Microsoft Azure AD
+or
+* Authentication Option 2: AD DS > Identity Sync with ADFS > Micrososft Azure AD
