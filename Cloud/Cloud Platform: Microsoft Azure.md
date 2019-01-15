@@ -85,3 +85,12 @@
 ##### Generic DNS record suppression
 * To supress the creation og generic DNS records you can read about this article:
 [How to optimize the location of a domain controller or global catalog that resides outside of a client's site](https://support.microsoft.com/en-us/help/306602/how-to-optimize-the-location-of-a-domain-controller-or-global-catalog)
+
+### Enabling Cloud Service Relationships with Federation
+* Managing identity
+* Provisioning and deprovisioning accounts
+* Identifying cloud services used within an organization
+* Managing federations
+* Reporting and auditing
+* Providing a simple user experience
+* Account STS / Resources STS (STS stand for Security Token Service)
