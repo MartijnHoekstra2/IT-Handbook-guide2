@@ -111,3 +111,4 @@
 * [Cloud App Discovery Group Policy Deployment Guide](https://social.technet.microsoft.com/wiki/contents/articles/30965.cloud-app-discovery-group-policy-deployment-guide.aspx)
 * It will create an server on the devices named: Micrososft Cloud App Discovery Endpoint Agent
 * Within Azure AD you will get a report about the information which Applications are being used. Do know that there will be noise on this report, since it will report also applications which you have never used. But this application probaly fetches some information which causes to show up in the repot.
+* With a filter you can change the ammount of days its showing
