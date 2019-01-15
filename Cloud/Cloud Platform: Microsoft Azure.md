@@ -122,3 +122,22 @@
 * Non-Persistent: Think of a temporary disk while rebooting it stays there, but shut it down and then start it again you will lose it.
 * Other considerations: Durability. Resiliency, Performances, Connectivity, File- vs Block-based
 * [Windows Azure Storage: A Highly Available Cloud Storage Service with Strong Consistency](https://sigops.org/s/conferences/sosp/2011/current/2011-Cascais/printable/11-calder.pdf)
+
+### Azure Storage offerings
+* Storage Services available: StorSimple, Azure Backup, Azure SQL Database, content delivery networks and media services.
+* Storage Services type: Blobs (in containers as block or page). Blob is also know as object storage), is unstructured object data.
+* Storage Services types Tables (which have entities with field:value properties to NoSQL with no fixed schema), is structured data.
+* Storage Services type: Queues (which have messages)
+* Storage Services type: Files (via SMB shares)
+* For infrastructure the big focus is on page blobs
+
+### Azure Regions
+* Storage Stamps are deployed to datacenters which live in an Azure Region
+* An Azure Region has many datacenters that are wiithin a latency boundary
+* There are Azure Regeions throughout the globe and more are added every year 
+* Regions are paired for geo-redundant storage replication
+
+### ASM (Azure Service Manager) / ARM ( Azure Resources Manager)
+* Focus is on ARM as that is the new model for Azure that has support for RBAC, JSON templates, dependencies, tags. granular bullying and hybrid consistency via Azure Stack
+* Cannot mix resources, if you still want that it needs to be through VPNs or Express Route or something else. So this is why use possible ARM for all deployments.
+
