@@ -115,3 +115,10 @@
 
 ### Reports
 * [What are Azure Active Directory reports?](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/overview-reports)
+
+### Storage
+* Persistent vs Non-Persistent, most of the time you will choice for persistent
+* Persistent: able to write data / power off a system and bring online and the data still is there / move virtual machines between nodes, and its storage is always there.
+* Non-Persistent: Think of a temporary disk while rebooting it stays there, but shut it down and then start it again you will lose it.
+* Other considerations: Durability. Resiliency, Performances, Connectivity, File- vs Block-based
+
