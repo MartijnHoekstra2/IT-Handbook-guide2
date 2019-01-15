@@ -100,4 +100,5 @@
 * Running a "C:\Program Files\Microsoft Azure AD Sync\Bin\DirectorySyncClientCmd.exe delta [LearnCompany.LTD]". This will for a synchronization the easiest way between AD and Azure AD.
 * Authentication Options below:
 1. Authentication Option 1: AD DS > Identity sync with password hash > Microsoft Azure AD
-2. Authentication Option 2: AD DS > Identity Sync with ADFS > Micrososft Azure AD
+2. Authentication Option 2: AD DS > Identity Sync with ADFS > Micrososft Azure AD < Best option
+* [Manage AD FS trust with Azure AD using Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-azure-ad-trust)
