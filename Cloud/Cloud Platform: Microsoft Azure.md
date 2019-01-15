@@ -88,9 +88,7 @@
 * Assign a reserved IP static address to the DC using Azure Configuration
 
 ##### Generic DNS record suppression
-* To supress generic DNS records you open REGEDIT and go to: HKLM\Software\CurrentControlSet\Services\Netlogon\Parameters\
-Create a Mult-String record with the name: DnsAvoidRegisterRecords
-Add the following value data: LdapIpAddress Ldap Gc GcIpAddress Kdc Dc DcByGuid Rfc1510Kdc Rfc1510Kpwd Rfc1510UdpKdc Rfc1510UdpKpwd GenericGc
+* To supress the creation og generic DNS records you can read about this article: [How to optimize the location of a domain controller or global catalog that resides outside of a client's site](https://support.microsoft.com/en-us/help/306602/how-to-optimize-the-location-of-a-domain-controller-or-global-catalog)
 
 
 
