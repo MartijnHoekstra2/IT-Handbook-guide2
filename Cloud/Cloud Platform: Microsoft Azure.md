@@ -103,3 +103,7 @@
 2. Authentication Option 2: AD DS > Identity Sync with ADFS > Micrososft Azure AD < Best option
 * [Azure AD Connect and federation](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-fed-whatis)
 * [Manage AD FS trust with Azure AD using Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-azure-ad-trust)
+
+### Discovery Cloud Applications Used in Your Organization
+* Azure AD Cloud App Discovery is a feature of Azure AD premium, and lets you install an agent on devices. It will run in the background and search for services which are users are using. This is based on HTTP or HTTPS, if the application/services does not use HTTP or HTTPS the application won't be discoverd.
+* Informing the organization that you are going to collect this information is optional. Can be specific at the donwload part of the agent.
