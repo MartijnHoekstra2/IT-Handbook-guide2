@@ -112,3 +112,6 @@
 * It will create an server on the devices named: Micrososft Cloud App Discovery Endpoint Agent
 * Within Azure AD you will get a report about the information which Applications are being used. Do know that there will be noise on this report, since it will report also applications which you have never used. But this application probaly fetches some information which causes to show up in the repot.
 * With a filter you can change the ammount of days its showing
+
+### Reports
+* [What are Azure Active Directory reports?](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/overview-reports)
