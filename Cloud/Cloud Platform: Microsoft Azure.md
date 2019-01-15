@@ -94,3 +94,7 @@
 * Reporting and auditing
 * Providing a simple user experience
 * Account STS / Resources STS (STS stand for Security Token Service)
+* Choice of sign-in of WS-Fed, OAuth or SAML, which one to use depends on the application or vendor
+* Use a dedicated server for Azure AD Connect if possible
+* After configuring Azure AD Connect open the Synchronization Service to configure which OU's to sync. This can be done by going to the Connectors and select the AD and go to Configure Directory Parititions and then Containers
+* Running a "C:\Program Files\Microsoft Azure AD Sync\Bin\DirectorySyncClientCmd.exe delta [LearnCompany.LTD]". This will for a synchronization the easiest way between AD and Azure AD.
