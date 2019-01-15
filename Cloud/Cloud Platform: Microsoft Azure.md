@@ -90,21 +90,7 @@
 ##### Generic DNS record suppression
 * To supress generic DNS records you open REGEDIT and go to: HKLM\Software\CurrentControlSet\Services\Netlogon\Parameters\
 Create a Mult-String record with the name: DnsAvoidRegisterRecords
-
-Add the following value data:
-
-LdapIpAddress
-Ldap
-Gc
-GcIpAddress
-Kdc
-Dc
-DcByGuid
-Rfc1510Kdc
-Rfc1510Kpwd
-Rfc1510UdpKdc
-Rfc1510UdpKpwd
-GenericGc
+Add the following value data: LdapIpAddress Ldap Gc GcIpAddress Kdc Dc DcByGuid Rfc1510Kdc Rfc1510Kpwd Rfc1510UdpKdc Rfc1510UdpKpwd GenericGc
 
 
 
