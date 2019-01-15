@@ -60,6 +60,12 @@
 ## Others
 * [Managing Linux VM Authentication in Micrososft Azure](http://techgenix.com/managing-linux-vm-azure/).
 
-##### Active Directory Azure
-* Each Azure region should be its own Active Directory site
+##### Active Directory Azure configuration information
+* Assign a reserved IP address to the DC using Azure Configuration
 * Azure Virtual Networks can be configured to use DCs for DNS services
+* Each Azure region should be its own Active Directory site
+* Make at least one DC in Azure a Global Catalog
+* Place AD database and logs on data disk with NO caching and NOT on OS disk
+* Update the Virtual Network DNS to use Azure based DCs first
+
+
