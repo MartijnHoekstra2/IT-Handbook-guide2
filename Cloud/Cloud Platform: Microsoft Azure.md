@@ -179,3 +179,38 @@
 * Items that impact the price: Redundancy, is it (LRS) or/and (ZRS) or/and  (GRS) or/and (RA-GRS)
 * Items that impact the price: Transactions, how many transactions are you performing against the storage
 * Items that impact the price: Region, prices do vary based on the region
+
+### Understanding Sparse Storage and Trim in Azure Storage
+* Uses fixed size VHDs where the size of the VHD is provisioned at creation time.
+* You pay for what you consume which would typically mean creating the smallest VHD that meets your need.
+* Azure Storage uses sparse storage on the back end and also supports trim type operations. Therefor if your 1 TB VHD only 50 MB of data stored in it then only 50 MB of Azure Storage is actually used and therefor you pay for the 50 MB only. Not the same for Premium Storage. You only pay for the data you write to it, you pay for what you consume.
+
+### Resizing Disks
+* Always create disks to the maximum size
+* It is possible to resize via REST API, PowerShell and the portal
+* If used by a VM the VM must be deallocated from the fabric
+* Once increased in size extend the volume inside the OS
+
+### Azure Premium Storage
+* A separate set of storage stamps based on SSD primarily with additional network connectivity
+* Higher IOPS per disk
+* Predictable IOPS rather than simply a possible maximum, there is a guareantee 
+* Currently available as LRS "availability only"
+* For Azure VM disks "only"
+* Not sparse storage
+* Cost based on the disk size not the data you write
+
+### Using Premium Storage
+* Premium storage can only be used by specific VM series: DS, DSv2, GS and FS
+* Sepearate compute stamps with specific network connectivity
+* Less temporay storage as its used for caching purposes
+* Up to 80.000 IOPS and 2000 MB per second throughput per VM output
+* VM can use a mix of standard and premium storage
+
+### Practices for Azure Storage
+* Keep track of disks per storage account (500 IOPS per disk, 20.000 per storage account, above 40 disks then occurs throtteling)
+* Uses consisstent naming schemes for account and disks
+* For disks ensure its easy to relate which VM is using the disk
+* Storage and compute most be in the same region
+* Use multiple disks to increase IOPS without increasing cost for storage standard storage (not the case for premium storage)
+* Don't forget to backup your data
