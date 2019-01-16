@@ -274,4 +274,14 @@
 * Consider Azure Backup or Caputure VM
 * [Using snapshots with Azure IaaS VMs](https://www.youtube.com/watch?v=WP7-96KQJl0)
 
+### Server-side Copy
+* Possible to copy via client resulting in slow operation and egress charges
+* When moving or copying large amounts of data between storage account can use Azure server-side asynchronous copy
+* When copied between accounts in same region no egress charges
+* Copy across subscriptions and regions
+* Use PowerShell, AzCopy or other utilities
 
+### StorSimple
+* Store data in Azure
+* Provides an on-premises storage appliance that utilizes the cloud providing "infinite" storage
+* iSCSI > StorSimple > First SSD, then HDD and then it goes to Azure.
