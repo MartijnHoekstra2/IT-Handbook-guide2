@@ -214,3 +214,9 @@
 * Storage and compute most be in the same region
 * Use multiple disks to increase IOPS without increasing cost for storage standard storage (not the case for premium storage)
 * Don't forget to backup your data
+
+### Caching
+* Three types of caching: No caching
+* Three types of caching: Read caching
+* Three types of caching: Read and write caching
+
