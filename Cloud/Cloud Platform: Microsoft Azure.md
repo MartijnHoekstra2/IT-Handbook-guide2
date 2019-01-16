@@ -1,6 +1,7 @@
 ## Steps
 * [Setup MFA](aka.ms/mfasetup)
 
+
 ## Micrososft Azure
 * [Learn free Azure 1](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 * [Learn free Azure 2](https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure/)
@@ -252,3 +253,25 @@
 * It is not possible to place your own equipment at Azure Datacenters
 * Using storage solutions on-premises from Azure would likely have latencies that were too high, even via ExpressRoute to be performant
 * There are certain partnerships with ExpressRoute service providers to host storage solutions at their locations that can be used in Azure with very latencies.
+
+### Storage Account Keys
+* Two keys are provided; a primary and a secondary
+* This enables a key to be changed without interruption to access
+* keys should be protected and reset if compromised
+* Can be accessed through the portal, powershell and rest
+* It's possible to build complete solutions to store, roll and access
+
+### Managing Azure with GUI
+* CloudXplorer tool
+* Micrososft Azure Storage Explorer
+
+### Snapshots
+* There is no VM checkpoint capability in Azure
+* It is possible to perform blob snapshots which would not integrate with VSS inside the VM
+* Through Powershell can create a solution that creates and reverts to snapshots as required
+* Snapshots cannot outlive the source blob
+* Can copy snapshots to other locations
+* Consider Azure Backup or Caputure VM
+* [Using snapshots with Azure IaaS VMs](https://www.youtube.com/watch?v=WP7-96KQJl0)
+
+
