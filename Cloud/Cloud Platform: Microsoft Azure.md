@@ -223,4 +223,12 @@
 * Data Disks - [ Read ] and [ write ] caching
 * Many applications are sensitive to caching
 * Application data should be stored on data disks, never the OS disk
+* Temporary Drive: A series = HDD
+* Temporary Drive: D, DG, G, GS series: = SSD
+* Content is lost any time VM is reprovisioned to fabric (stop, start, resize)
+* Temporary drive is only used by the pagefile.sys
+* Should be used as a scratc drive, e.g. TempDB, Buffer Pool Extensions (SQL Server 2014)
+* May need special steps to create content on temp if needed by applications
+* [Using SSDs in Azure VMs to store SQL Server TempDB and Buffer Pool Extensions](https://cloudblogs.microsoft.com/sqlserver/2014/09/25/using-ssds-in-azure-vms-to-store-sql-server-tempdb-and-buffer-pool-extensions/)
+
 
