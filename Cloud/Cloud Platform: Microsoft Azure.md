@@ -219,4 +219,8 @@
 * Three types of caching: No caching
 * Three types of caching: Read caching
 * Three types of caching: Read and write caching
+* OS Disk - [ Read ] and [ write ] caching ( ARM,ASM R or RW)
+* Data Disks - [ Read ] and [ write ] caching
+* Many applications are sensitive to caching
+* Application data should be stored on data disks, never the OS disk
 
