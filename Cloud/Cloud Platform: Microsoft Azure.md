@@ -230,5 +230,25 @@
 * Should be used as a scratc drive, e.g. TempDB, Buffer Pool Extensions (SQL Server 2014)
 * May need special steps to create content on temp if needed by applications
 * [Using SSDs in Azure VMs to store SQL Server TempDB and Buffer Pool Extensions](https://cloudblogs.microsoft.com/sqlserver/2014/09/25/using-ssds-in-azure-vms-to-store-sql-server-tempdb-and-buffer-pool-extensions/)
+* Temporary Drive Letter is D by default, can be changed through a few laps
+* [Use the D: drive as a data drive on a Windows VM](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/change-drive-letter)
 
+### Azure Files
+* Provides and SMB 2.1 and 3.0 file share in Azure
+* Usable within the Azure and externalyl via SMB 3 and port 445 is open to the internet
+* Provies a shared file storage in Azure
+* Can be mapped using standard SMB clients
 
+### Encryption
+* By default data is not encrypted at rest
+* Best option is for you to own the encryption either through the application (e.g. SQL) or the OS
+* Data at rest encryption is possible
+* Third-party solutions exist for VM encryption
+* Azure has native Windows and Linux encryption using BitLocker and DM-Crypt respectively
+* Integrates with Azure Key Vault for key storage
+
+### Other Storage in Azure
+* Can use other types of virtual storage appliance in Azure via iSCSI or other IP based protocols
+* It is not possible to place your own equipment at Azure Datacenters
+* Using storage solutions on-premises from Azure would likely have latencies that were too high, even via ExpressRoute to be performant
+* There are certain partnerships with ExpressRoute service providers to host storage solutions at their locations that can be used in Azure with very latencies.
