@@ -284,4 +284,42 @@
 ### StorSimple
 * Store data in Azure
 * Provides an on-premises storage appliance that utilizes the cloud providing "infinite" storage
-* iSCSI > StorSimple > First SSD, then HDD and then it goes to Azure.
+* iSCSI > StorSimple > First SSD, then HDD and then it goes to Azure
+
+### Virtual IP
+* Azure has a huge number of public IP addresses which are constantly being added to
+* [Microsoft Azure Datacenter IP Ranges](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41653)
+* It is dangerous to whitelist all of these as anyone can provision a VM in Azure which would mean you trust it
+* Every time the cloud service or resource using a VIP is re-proivsioned the IP can change
+* When the Cloud Service is stopped (suspended), it loses its a Public IP address. When starting its gets a new one
+* Each cloud service also has a DNS name <cloud service>.cloudapp.net
+* The DNS name is updated when the VIP changes
+* Note that a VIP is simply a Public Instance IP (PIP) assigned to a load balancer rather than a VM (an actual NIC)
+* It is possible to reserve static VIPs to keep even if a service is de-provisioned and re-provisioned
+* Endpoints with a VIP: The cloud service VIP is used to provide access to VM services through endpoints
+* Endpoints with a VIP: Endpoints enable a port on the VIP to be mapped to a port for a VM or group of VMs (load balanaced)
+  
+### Dynamic IPs
+* Each VM in a Cloud Service automatically received a Dynamic IP (DIP)
+* This was assigned via DHCP from the IP range assigned to the Cloud Service
+* Every VM in a Cloud Service could communicate to all other VMs via its DIP in the same Cloud Service but not outside the Cloud Service except via VIPs and Endpoints
+* There was no way to specify a specific IP for a VM using just Cloud Service networking
+
+### Name Resolution in Cloud Services
+* Azure DNS is exclusively used for nativce Cloud Service name resolution
+* Provides a Dynamic DNS capability enebaling all VMs in the same cloud service to perform name resolution on all other VMs in the same Cloud Service
+* Internet DNS resolution also supported
+
+### Limitations of Cloud Service Networking
+* No control over IP scheme
+* No ability to assign IPs to VMs
+* No control over DNS
+* No communication outside the cloud service except via public communication methods
+* No ability to link cloud service or to on-premises
+* Which is why we have Virtual Networks and Cloud Serivce are dead with Azure Resource Manager
+
+### Ingress vs Egress
+* Data inboudn to Azure in ingress
+* Data outbound from Azure is egress
+* There are no charges for ingress
+* There are charges for egress (unless using an unmetered ExpressRoute connection) from an Azure datacenter
