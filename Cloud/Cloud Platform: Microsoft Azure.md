@@ -333,3 +333,11 @@
 * VMs are placed in virtual subnets
 * All machines within a virtual network can communicate
 * 4096 Private IPs per virtual network
+
+### CIDR Notation
+* Used in Virtual network configurations
+* Combines the IP address and its associated network mask
+* xxx.xxx.xxx.xxx/n
+* xxx.xxx.xxx.xxx is the IP network
+* N is the number of bits used for subnet mask, e.g. 24 would equate to 255.255.255.0
+* 10.2.1.0/24 equates to IP range 10.2.1.0 to 10.2.1.255
