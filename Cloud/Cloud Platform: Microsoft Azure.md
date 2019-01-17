@@ -341,3 +341,18 @@
 * xxx.xxx.xxx.xxx is the IP network
 * N is the number of bits used for subnet mask, e.g. 24 would equate to 255.255.255.0
 * 10.2.1.0/24 equates to IP range 10.2.1.0 to 10.2.1.255
+* Commonly a range from RFC 1918 is used
+* 10.0.0.0 - 10.255.255.255 (10/8 prefix)
+* 172.16.0.0 - 172.31.255.255 (172.16/12 prefix)
+* 192.168.0.0 - 192.168.255.255 (192.168/16 prefix)
+* These are very useful there none internet-routable
+
+### IP address range
+* Also possible to leverage other IP ranges for organizations that own lrage public blocks
+* Whatever IP range selected should not conflict with:
+* On-premises networks
+* Other virtual networks
+* Within a virtual subnet certain IP addresses are resserverd for Azure's internal use
+* First and last reseverd per protocol for host ID and broadcast
+* The first three ip addresses are reseverd for Azure
+* Binary 01,10 and 11 in the host ID portion of the IP address
