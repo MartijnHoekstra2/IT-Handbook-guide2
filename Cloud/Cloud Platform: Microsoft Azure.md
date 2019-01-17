@@ -357,3 +357,20 @@
 * The first three ip addresses are reseverd for Azure
 * Binary 01,10 and 11 in the host ID portion of the IP address
 * So /29 is the smallest you will ever use in Azure since the first 3 are used by Azure and the first one available is .4
+
+### DNS and Virtual Networks
+* DNS configuration is possible with a virtual network
+* The Azure DNS can be used which provides name resolution for all services within the virtual network
+* DNS servers can explicitly be configured such as your DCs
+* The DNS configuration is applied to the VMs via DHCP
+* VMs in Azure ALWAYS get their IP configuration via DHCP and never static configuration
+* VMs must be restarted to get updated DNS configurations
+
+### IP Support in a Virtual Network
+* IPv4 today
+* TCP, UDP and ICMP
+* No multicast, broadcast, GRE packets or IP-in-IP packets
+* IPv6 in the future
+* Virtual networks are recommended but optional with Azure Service Manager (ASM)
+* When used with ASM resolves the challanges of the nativce Cloud Service networking
+* Virtual networks are mandatory with Azure Resource Manager (ARM)
