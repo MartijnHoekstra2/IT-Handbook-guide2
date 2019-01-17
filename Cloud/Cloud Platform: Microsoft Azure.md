@@ -417,4 +417,8 @@
 * By default a VM has a single vmNIC
 * Depending on the size of the VM multiple NICs may be allowed
 * [Sizes for Cloud Services](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-sizes-specs)
+* NICs must be added at time of provisioning
+* Cannot mix single NIC and multi NIC VMs in same availibilty set
+* vmNICs can be in the same or different subnet
+* This is really designed for virtual appliances
 
