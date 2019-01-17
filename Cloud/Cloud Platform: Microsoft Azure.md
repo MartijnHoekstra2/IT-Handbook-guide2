@@ -416,4 +416,5 @@
 ### Multi-NIC VMs
 * By default a VM has a single vmNIC
 * Depending on the size of the VM multiple NICs may be allowed
+* [Sizes for Cloud Services](https://docs.microsoft.com/en-us/azure/cloud-services/cloud-services-sizes-specs)
 
