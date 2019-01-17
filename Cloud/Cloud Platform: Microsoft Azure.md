@@ -398,3 +398,22 @@
 * Enable rules to be created then assigned to a network security group
 * Network security groups applied to subnets or VMs
 * When applied to a subnet it is still enforced at the vmNIC, it is not an "Edge" device
+
+
+### Network Securtiy Group Rule (NSG)
+* Rules are based on 5-tuple and gave a priority and action (allow or deny)
+* Source IP address (can be a range using CIDR format)
+* Source port
+* Destination IP address (can be a range using CIDR format)
+* Destination port
+* Protocol (TCP,UDP, or *)
+* CIDR used to define source/destination
+* Three special identifiers
+* VIRTUAL_NETWORK: Identifies traffic within the virtual network address space
+* AZURE_LOADBALANCER: the Azure infrastructure load balancer
+* INTERNET: IP address space external to the virtual network
+
+### Multi-NIC VMs
+* By default a VM has a single vmNIC
+* Depending on the size of the VM multiple NICs may be allowed
+
