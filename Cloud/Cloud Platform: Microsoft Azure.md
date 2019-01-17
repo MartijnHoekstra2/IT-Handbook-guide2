@@ -323,3 +323,13 @@
 * Data outbound from Azure is egress
 * There are no charges for ingress
 * There are charges for egress (unless using an unmetered ExpressRoute connection) from an Azure datacenter
+
+### Virtual Network Basics
+* A virtual network is a construct created in Azure
+* Virtual networks live within a subscription wihtin a regio
+* A virtual network has one or more IP ranges assigned to it
+* DNS Servers can be configured that will be configured as part of the DHCP offer (Azure or Custom)
+* Virtual subnets are created in the virtual network to break up the network range
+* VMs are placed in virtual subnets
+* All machines within a virtual network can communicate
+* 4096 Private IPs per virtual network
