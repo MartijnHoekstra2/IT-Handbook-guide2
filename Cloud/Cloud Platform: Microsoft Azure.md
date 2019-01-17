@@ -374,3 +374,17 @@
 * Virtual networks are recommended but optional with Azure Service Manager (ASM)
 * When used with ASM resolves the challanges of the nativce Cloud Service networking
 * Virtual networks are mandatory with Azure Resource Manager (ARM)
+
+### Static Addresses
+* A VM always gets its IP address via DHCP in Azure
+* Called a DIP with ASM but with ARM the terminology is Private IP
+* NEVER try and assign a static IP, it will break at some point
+* When a VM is reprovisioned to the fabric it gets a new vmNIC and possible a new IP
+* Static IPs can be assigned via the Azure fabric using the portal or Powershell
+* Create a separate subnet as the pool for the static IP assignments
+
+### Traffic Flow in a Virtual Network
+* By default for a VM in a virtual network it can communicate with
+* Every other VM in every subnet in the same virtual network
+* Antrhing on the Internet (outbound)
+* Anything connected via a VPN or ExpressRoute
