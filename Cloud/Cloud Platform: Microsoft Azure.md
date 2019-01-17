@@ -422,3 +422,43 @@
 * vmNICs can be in the same or different subnet
 * This is really designed for virtual appliances
 
+### IP Address Types: ARM Terminology for IPs
+* Private IP ( f.k.a. DIP) => Used within a virtual network and to systems connected via VPN. Assigned to VM, Internal Load Balancer (ILB) and application gateway
+* Public IP (f.k.a VIP or PIP) => Communication from the Internet. Assigned to a VM, Internet-facing Load Balancer, VPN gateway and application gateways. Can be static or dynamic.
+
+### Public IP Addresses
+* An explicit resource used within a specific Azure region. Can be static or dynamic.
+* Has an optional DNS name
+* Once created can be assigned to a resource such as a load balancer or direct to a VM
+* VM does not see the Public IP directly but all traffic sent to the Public IP is sent to the VM f.k.a. instance-level Public IP
+
+### Load Balancer Basics
+* Provide distribution of request to multiple targets. This enables ability to scale and resiliency from service downtime.
+* Two types of Load Balancers Internet-facing Load Balancer: Balances incoming traffic from the Internet to VMs Azure
+* Two types of Load Balancers Internal Load Balancer: BAlances traffic between VMs in a virtual network (or connected network)
+* ASM vs ARM  Load Balancer: With ASM the cloud service provided Inter-facing Load Balancing services through its VIP and endpoints
+* ASM vs ARM  Load Balancer: With ARM the load balancer is an explicit object created and can be internal or external. Arm load balancer can have a public IP address assigned (along with a DNS name for the Public IP)
+* Load Balancer Modes: Works at network level (layer 4)
+* Load Balancer Modes: Provide two types of services
+* Load Balancer Modes: Provide two types of services: Hash-Based distribution > Actually balancing traffic between multiple targets
+* Load Balancer Modes: Provide two types of services: Port forwaring > Directs incoming traffic to a port on the LB inbound IP and forwards to a port on specific target (NAT rules just like endpoints with cloud service VIP)
+
+### Load Balancer Stickiness
+* By default uses 5 typle: The source IP address
+* By default uses 5 typle: The destination IP address
+* By default uses 5 typle: The protocol type (TCP or UDP)
+* By default uses 5 typle: The source port
+* By default uses 5 typle: The destination port
+* Can also use 2 or 3 tuple: SourceIP (2 tuple) - Source and destination IP only
+* Can also use 2 or 3 tuple: SourceIPProtocol (3 typle) - As above but also protocol
+
+### Traffic Manager
+* There may be multiple deployments of a service in different locations and different regions
+* Requirments to balance requests based on promixity to the requesting user, round-robin or failover
+* Traffice Manager provides a DNS based distribution service incoming DNS request
+* Targets can be VMs in Azure, Paas services, other Traffice Manager instrances and on-premises services
+* Routing Method: Performances most of the time
+
+
+
+
