@@ -388,3 +388,13 @@
 * Every other VM in every subnet in the same virtual network
 * Antrhing on the Internet (outbound)
 * Anything connected via a VPN or ExpressRoute
+
+### Traffic Flow in a Virtual Network > This may not always be desired
+* In a multi-tiered application may want only neighbor tiers to communicate
+* May want onyl certain VMs to talk to the internet (DMZ)
+* May want to restrict types of traffic
+
+### Network Security Groups
+* Enable rules to be created then assigned to a network security group
+* Network security groups applied to subnets or VMs
+* When applied to a subnet it is still enforced at the vmNIC, it is not an "Edge" device
