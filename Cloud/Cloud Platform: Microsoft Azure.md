@@ -356,3 +356,4 @@
 * First and last reseverd per protocol for host ID and broadcast
 * The first three ip addresses are reseverd for Azure
 * Binary 01,10 and 11 in the host ID portion of the IP address
+* So /29 is the smallest you will ever use in Azure since the first 3 are used by Azure and the first one available is .4
