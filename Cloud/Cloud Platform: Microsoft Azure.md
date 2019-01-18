@@ -467,6 +467,117 @@
 * Targets can be VMs in Azure, Paas services, other Traffice Manager instrances and on-premises services
 * Routing Method: Performances most of the time
 
+### Hybrid Cloud Requirments
+* Cross-cloud management
+* Single provisioning system (examples: Portal and or ticket system)
+* Network connectivity
+* The last item has to be their first for Azure to be an extension of your datacenter
+* Enables seamless connectivity without having to use internet facing access points
+* The only services open to the internet should be services you want to offer to the internet and not RDP and WS-Man
 
+### Routing between Azure and On-premises
+* Must use unique IP address ranges
+* It is not possible to route between networks that use the same IP scheme
+* Includes on-premises to Azure
+* Azure VN to Azure VN
+* VMs cannot be moved between Virtual Networks without deleting and recreating
+* Get the virtual networks rights the first time
 
+### Azure Site-to-site VPN
+* Provides connectivity between a virtual network and an on-premises network or another virtual network
+* To on-premises connects over the internet
+* Uses IPsec/IKE to encrypt the traffic
+* VPN Gateway created in Azure as automatically created pair of VMs (hidden) in active-passive configuration
+* On-premises compatible gateway device required
+* Microsoft provides configuration file for certain gateways
+
+### VPN Gateway Subnet
+* Azure-side VPN gateway requires its own subnet
+* Can use a /29 but recommended to use /27 to enable support for S2S and ExpressRoute gateway coexistence
+* Common when creating subnets in new virtual networks is to leave an address space at the start to use for the gateway
+* Do NOT use a NSG with gateway subnet
+
+### Types of VPN Gateway
+* IPSEC is computationally expensive which limits bandwidth
+* Three SKUs of gateway (S2S/ExpressRoute)
+* Basic - 100 Mbps/500 Mbps
+* Standard - 100 Mbps/1000 Mbps
+* High Performance - 200 Mbps/2000 Mbps
+* Common to see 80 Mbps with Basic and Standard
+* Latency will depend on many factors but expect 10's of milliseconds
+* [https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy)
+
+### Connecting Multiple networks
+* Basic and Standard SKUs support 10 tunnels
+* High Performance 30 tunnels
+* These can be to on=premises networks connected over the Internet or to other virtual networks via the Azure backbone
+* Virtual networks can be in different regions and different subscriptions
+* Traffic outside the regions/datacenter would result in egress traffic charges
+* Azure will not act as router between locations
+* Forced Tunneling: Typically traffice not destined for a know connected network is sent out via the Internet
+* Forced Tunneling: Forced tunneling configures all traffic including that which would normally route via the Internet to a specific route
+* Forced Tunneling: Uses User Defined Routes (UDRs)
+* Forced Tunneling: Only possible with route-based (dynamic) gateway
+* Forced Tunneling: Configured on a per subnet basis
+
+### Network Peering
+* Normally to connect virutal networks you must use site-to-site VPN or EpxressRoute
+* Network peering enables virtual networks to be connected via the Azure backbone network
+* Low latency, high bandwith
+* Must be in the same region
+* No overlap in IP scheme
+* Can be in different subscriptions
+* No derived transitive connection
+
+### Point-to-site VPN
+* Site-to-site: Connects a network to Azure virtual network
+* Point-to-site: Connects a single machine to Azure virtual network
+* Point-to-site: P2S IP range configured to use for the VPN clients
+* Point-to-site: Only works with route-based (dynamic gateway)
+* Point-to-site: Clients install Azure P2S client
+
+### Site-to-site VPN Challanges
+* It uses the internet
+* Bandwith
+* Unpredictable latency
+* Security may not the requirements
+* Potentially greater networking costs
+
+### ExpressRoute
+* Provides layer 3 connectivity from your location to Azure over a private connection
+* ExpressRoute provides: Predictable performances
+* ExpressRoute provides: High throughput
+* ExpressRoute provides: SLA
+* ExpressRoute provides: Redundancy (Every ExpressRoutes actually consists of two connections)
+* ExpressRoute provides: Does NOT use the Internet so does not need to encrypt
+* ExpressRoute Deployment Models: Using a cloud exchange co-location
+* ExpressRoute Deployment Models: Point-to-point Ether connection <Exchange provider>
+* ExpressRoute Deployment Models: Any-to-any (IPVPN) connection (network service provider)
+
+### ErxpressRoute Forced Tunneling
+* Uses BGP for routing enabling forced tunneling
+* Care should be taken as if all traffic is forced through customer location that would include access to other Azure services like storage
+* Rules should be structured so that Azure services (public peering) still route via Azure backbone and not via on-premises location
+
+### ExpressRoute Providers and costs
+* There are providers throughout the world
+* Costs vary based on speed, metered or un-metered and the premium add-on
+* [ExpressRoute partners and peering locations](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-locations)
+* [ExpressRoute Pricing](https://azure.microsoft.com/en-us/pricing/details/expressroute/)
+* Various Costs to Consider: ExpressRoute
+* Various Costs to Consider: Egress (if metered)
+* Various Costs to Consider: ExpressRoute Gateway
+* Various Costs to Consider: Service provider costs
+
+### Services Access
+* Whebn connecting via ExpressRoute all services in the geo-political boundary can be accessed via the connection
+* With ExpressRoute premium all services throughout the world can be accessed by the connection
+* Single ExpressRoute can be connected to multiple virtual networks which then allow them to communicate
+* ExpressRoute and S2S VPN can co-locate with S2S a fallback
+* Types of Peering: Site-to-site VPN is private peering connecting to a virtual network
+* Types of Peering: ExpressRoute also supports public and Microsoft peering
+* Types of Peering: Public peering provides access to nearly all Azures services via ExpressRoute instead of the Internet
+* Types of Peering: Micrososft peering provides access to Office 365 and CRM online and requires Premium add-on
+* Types of Peering: Single ExpressRoute provides 3 service keys, one for each type
+* Types of Peering: Service provider may charge separatly
 
