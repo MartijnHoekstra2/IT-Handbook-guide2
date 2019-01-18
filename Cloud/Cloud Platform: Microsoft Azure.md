@@ -422,6 +422,14 @@
 * vmNICs can be in the same or different subnet
 * This is really designed for virtual appliances
 
+### Customized Routing in a Virtual Network
+* User Defined Routes (UDR)
+* Enables modification of the default routing of packets
+* Example: adding a firewall/IDS appliance that all traffic should flow through
+* A virtual appliance could be added with multiple vmNICs with a NIC in each subnet and that IP is the default route for each subnet instead of the Azure default
+* A route is created for an address prefix and next hop IP, added to a route table then applied to a subnet
+* Also possible to just define next hop that points to a VM and Azure will handle the routing
+
 ### IP Address Types: ARM Terminology for IPs
 * Private IP ( f.k.a. DIP) => Used within a virtual network and to systems connected via VPN. Assigned to VM, Internal Load Balancer (ILB) and application gateway
 * Public IP (f.k.a VIP or PIP) => Communication from the Internet. Assigned to a VM, Internet-facing Load Balancer, VPN gateway and application gateways. Can be static or dynamic.
