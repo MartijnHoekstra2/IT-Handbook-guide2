@@ -570,7 +570,7 @@
 * Various Costs to Consider: Service provider costs
 
 ### Services Access
-* Whebn connecting via ExpressRoute all services in the geo-political boundary can be accessed via the connection
+* When connecting via ExpressRoute all services in the geo-political boundary can be accessed via the connection
 * With ExpressRoute premium all services throughout the world can be accessed by the connection
 * Single ExpressRoute can be connected to multiple virtual networks which then allow them to communicate
 * ExpressRoute and S2S VPN can co-locate with S2S a fallback
@@ -581,3 +581,8 @@
 * Types of Peering: Single ExpressRoute provides 3 service keys, one for each type
 * Types of Peering: Service provider may charge separatly
 
+### Deploying ExpressRoute
+* Can be managed through PowerShell and portal
+* Work with your service provider primarily
+* The service provider can assist with the actions required on the Azure side to acquire the service key
+* [Connect a virtual network to an ExpressRoute circuit using the portal](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager)
