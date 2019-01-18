@@ -586,3 +586,4 @@
 * Work with your service provider primarily
 * The service provider can assist with the actions required on the Azure side to acquire the service key
 * [Connect a virtual network to an ExpressRoute circuit using the portal](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager)
+
