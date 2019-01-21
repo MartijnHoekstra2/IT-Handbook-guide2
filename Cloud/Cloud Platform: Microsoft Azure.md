@@ -587,3 +587,33 @@
 * The service provider can assist with the actions required on the Azure side to acquire the service key
 * [Connect a virtual network to an ExpressRoute circuit using the portal](https://docs.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager)
 
+### Introduction to IaaS
+* Provides virtual machines in Azure
+* The networking, storage, compute, and hypervisor are all managed by Microsoft
+* You manage: Applications, Data Runtime, Middleware, O/S
+* Vendor manages: Virtualization, Servers, Storage, Networking
+* Everything wihtin the VM is within the customers control, including: The operating system
+* Everything wihtin the VM is within the customers control, including: Runtimes and libraries
+* Everything wihtin the VM is within the customers control, including: Applications
+* Everything wihtin the VM is within the customers control, including: Data
+* Also means everything in the VM needs to be managed and maintained by the customer
+* Azure VMs reply on other Azure services including: Resource group, Storage, Networking
+* It is vital to architect the subscriptions, resources groups, storage accounts, and the networks before creating VMs
+* Azure VM options: Numerous VM series exist that offer different capabilities
+* Azure VM options: Some series have tiers: basic and standard
+* Within the series there are different sizes that relate to: Number of cores with performance measured in Azure Compute Units (ACUs)
+* Within the series there are different sizes that relate to: Amount of RAM
+* Within the series there are different sizes that relate to: Amount of temporary storage
+* Within the series there are different sizes that relate to: Number of data disks
+* Within the series there are different sizes that relate to: Number and type of network adapters
+* Within the series there are different sizes that relate to: Network performance
+* Can't create custom sizes, btu there are a lot to choose from
+* Some have a v2 which run on newer stamps and offer increased processor performance
+* Series A: General purpose VMs with HDD temporary drive
+* Series D: SSD temporary drives with faster processors than A serie
+* Series F: Compute optimizes with 2 GB of RAM and 16 GB of SSD per core
+* Series G: Performance computer with massive scale and SSD temporary drives
+* Series N: GPU capabilities for graphical intensive workloads 
+* An S suffix to the series denotes it can use Premium Storage
+* For example the DSv2 series
+
