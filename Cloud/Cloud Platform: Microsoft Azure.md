@@ -620,4 +620,21 @@
 * Public cloud services are consumption based
 * You only pay for services as you use them
 * For example: a VM running for 2 days a month is only charged for 2 days a month
+* [Microsoft server software support for Microsoft Azure virtual machines](https://support.microsoft.com/en-us/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)
+* Stopped and Deallocated: A VM is allocated to a node in an Azure datacenter
+* Stopped and Deallocated: At the point of allocation, you start paying
+* Stopped and Deallocated: When a VM is stopped from within the guest OS, it is stopped but still allocated on a node which you still pay for it.
+* Stopped and Deallocated: It must be deallocated to stop charges via the portal or REST/PowerShell
+* Stopped and Deallocated: VM state is not lost when deallocated as the disks are still persisted in Azure storage
+* Stopped and Deallocated: Deallocate VMs when not needed to optimize spend
+* Availability Sets: VMs are placed on nodes in a rack
+* Availability Sets: Failures can occur at node and racks levels
+* Availability Sets: Maintenance is also required on hosts and VMs are not live migrated
+* Availability Sets: To ensure availability of services, always deploy at least two instances of any service and place in a unique availability set
+* Availability Sets: This ensures VMs are spread over three fault domains (racks) and five update domains
+* Availability Sets: Must have minimum of two VMs to receive the SLA
+* Availability Sets: Do NOT mix workloads in an Availability Set
+* Availability Sets: Azure has ZERO clue whats is running in your VM
+* Availability Sets: Need to use a unique availability set for every unique set of VMs
+* Availability Sets: Do not mix them EVER
 
