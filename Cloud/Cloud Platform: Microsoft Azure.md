@@ -616,4 +616,8 @@
 * Series N: GPU capabilities for graphical intensive workloads 
 * An S suffix to the series denotes it can use Premium Storage
 * For example the DSv2 series
+* [General purpose virtual machine sizes](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-general)
+* Public cloud services are consumption based
+* You only pay for services as you use them
+* For example: a VM running for 2 days a month is only charged for 2 days a month
 
