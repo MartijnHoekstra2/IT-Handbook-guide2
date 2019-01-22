@@ -659,3 +659,9 @@
 * Tags: All resources for are tagged with project tag and a value of the project name
 * Tags: Azure can be used to enforce tag usage at resource creation
 * Tags: Can search for resources and resource groups by tag value
+* Role-Based Access Control: Enables assignment of roles at various levels:
+* Role-Based Access Control: The subscription
+* Role-Based Access Control: A resource group
+* Role-Based Access Control: An individual resource
+* Role-Based Access Control: Assigned rights are inherited by child objects
+* Role-Based Access Control: Combine with Azure AD groups which contain users
