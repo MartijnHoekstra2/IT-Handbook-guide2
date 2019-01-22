@@ -637,4 +637,25 @@
 * Availability Sets: Azure has ZERO clue whats is running in your VM
 * Availability Sets: Need to use a unique availability set for every unique set of VMs
 * Availability Sets: Do not mix them EVER
-
+* Resource Groups: Every ARM resource exists in one, and only one resource group
+* Resource Groups: While resource groups are created in a region they can contain resources outside the region
+* Resource Groups: Resources can be moved between resource groups
+* Resource Groups: Resources in a resource group should share a common lifecyle
+* Resource Groups: Resource groups can be heterogeneous or homogeneous
+* Resource Groups: Resource groups are not a boundary of access
+* Role-Based Access Control (RBAC): With ARM the access to resources and the actions possible can be finally controlled
+* Role-Based Access Control (RBAC): A major use for resource groups is with RBAC by grouping resources together in a resource group then delegate authority to groups of users on the resource
+* Role-Based Access Control (RBAC): RBAC can also apply to entire subscriptions or invidual resource
+* Resource Groups Limits: 800 resources groups per subscription
+* Resource Groups Limits: 800 resources per resource type per resource group
+* Resource Groups Limits: 15 tags per source group
+* Resource Groups Limits: Bound by subscription
+* Creating and Using Resource Groups: Resource group names must be unique per subscription
+* Creating and Using Resource Groups: Reside in a regio
+* Tags: Tag keys can be 512 characters and values up to 256 characters
+* Tags: Assigned to resources groups and resources
+* Tags: 15 tags per resource/resource group
+* Tags: Enables resources to be categorized for management and billing purposes
+* Tags: All resources for are tagged with project tag and a value of the project name
+* Tags: Azure can be used to enforce tag usage at resource creation
+* Tags: Can search for resources and resource groups by tag value
