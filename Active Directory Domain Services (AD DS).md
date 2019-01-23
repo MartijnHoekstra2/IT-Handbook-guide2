@@ -11,6 +11,7 @@
 * [How to force an authoritative and non-authoritative synchronization for DFSR-replicated SYSVOL (like "D4/D2" for FRS)](https://support.microsoft.com/en-us/help/2218556/how-to-force-an-authoritative-and-non-authoritative-synchronization-fo)
 * [Raising Active Directory functional levels](https://www.reddit.com/r/sysadmin/comments/8wl34c/raising_active_directory_functional_levels/)
 * [After the Active Directory post: what are some asinine hidden attributes of things other than AD everyone should know?](https://www.reddit.com/r/sysadmin/comments/9b0r36/after_the_active_directory_post_what_are_some/)
+* [Active Directory Trusts](https://blogs.msmvps.com/acefekay/category/ad-trusts/)
 
 ## Prep-AD
 - [Everything you need to get started with Active Directory](https://blogs.technet.microsoft.com/ashleymcglone/2012/01/03/everything-you-need-to-get-started-with-active-directory/)
