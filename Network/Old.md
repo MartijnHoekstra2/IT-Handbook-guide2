@@ -4,6 +4,7 @@ https://www.anitian.com/blog/packet-goes-where/
 https://www.smartdraw.com/network-diagram/examples/firewall/
 http://techgenix.com/network-topology/
 https://www.reddit.com/r/sysadmin/comments/a61b5w/setting_up_radius_using_peap/
+https://www.reddit.com/r/sysadmin/comments/ajastb/preauthenticating_radius_wireless_on_laptops/
 
 
 * [MIB Browser](http://www.ireasoning.com/mibbrowser.shtml)
