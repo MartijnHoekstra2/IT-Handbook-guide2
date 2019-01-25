@@ -665,3 +665,9 @@
 * Role-Based Access Control: An individual resource
 * Role-Based Access Control: Assigned rights are inherited by child objects
 * Role-Based Access Control: Combine with Azure AD groups which contain users
+* Built-in Roles: Large number of inbox roles
+* Built-in Roles: Not every role applies to infrastructure
+* Built-in Roles: When looking at a resource only its relevant roles will be displayed
+* Built-in Roles: Classic resources have smaller set of available roles and only at subscription level (ASM)
+* Built-in Roles: Select a role and a resource provider to see detailed permission of the role
+* Built-in Roles: 
