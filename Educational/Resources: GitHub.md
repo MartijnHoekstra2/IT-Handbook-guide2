@@ -28,6 +28,7 @@
 * [Hacker101!](https://github.com/Hacker0x01/hacker101)
 * [lists](https://github.com/homelaber/lists)
 * [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference)
 * [Ops School Curriculum](https://github.com/opsschool/curriculum)
 * [Passcore](https://github.com/unosquare/passcore)
 * [PowerShell Team](https://github.com/PowerShell/PowerShell)
