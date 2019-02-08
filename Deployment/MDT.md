@@ -32,6 +32,9 @@
 * [Property Toolkit Reference](https://docs.microsoft.com/en-us/sccm/mdt/toolkit-reference)
 * [Older version of: Property Toolkit Reference](https://technet.microsoft.com/en-us/library/bb490304.aspx)
 
+## Offline image
+* [Creating an Offline MDT Deployment Media](http://www.vkernel.ro/blog/creating-an-offline-mdt-deployment-media)
+
 ## Other information
 * [Useful ConfigMgr / MDT / OSD links I really, really, really like](https://deploymentresearch.com/Research/Post/1687/Useful-ConfigMgr-MDT-OSD-links-I-really-really-really-like)
 * [Making WinPE Wait for Network in LTI Deployments](https://blogs.technet.microsoft.com/deploymentguys/2009/09/23/making-winpe-wait-for-network-in-lti-deployments/)
