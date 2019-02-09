@@ -132,3 +132,4 @@
 * [Tips and Checklists to Help You Secure Your Linux Server and Beef Up Security](https://www.reddit.com/r/sysadmin/comments/8gq8au/tips_and_checklists_to_help_you_secure_your_linux/)
 * [Tips for for a windows guy to be a lot more familiar with linux?](https://www.reddit.com/r/sysadmin/comments/8btj6i/tips_for_for_a_windows_guy_to_be_a_lot_more/)
 * [What are common interview questions for Junior Linux administrator?](https://www.reddit.com/r/sysadmin/comments/80ws4y/what_are_common_interview_questions_for_junior/)
+* ["This is what I tell people to do, who ask me "how do I learn to be a Linux sysadmin?""](https://www.reddit.com/r/linuxadmin/comments/67yufq/updated_iconrads_this_is_what_i_tell_people_to_do/)
