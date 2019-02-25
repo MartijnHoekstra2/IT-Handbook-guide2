@@ -16,6 +16,10 @@
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 * [Hardware and Software Requirements for Installing SQL Server](https://docs.microsoft.com/en-us/sql/sql-server/install/hardware-and-software-requirements-for-installing-sql-server?view=sql-server-2017)
 
+#### Security
+* [Introduction to SQL Server Security — Part 1](https://www.red-gate.com/simple-talk/sysadmin/data-protection-and-privacy/introduction-to-sql-server-security-part-1/)
+
+
 #### Tools
 * [Microsoft Data Migration Assistant v3.5](https://www.microsoft.com/en-us/download/details.aspx?id=53595)
 * [Microsoft SQL Server Utilities and Tools](http://www.sqlservercentral.com/articles/Tools/157911/)
