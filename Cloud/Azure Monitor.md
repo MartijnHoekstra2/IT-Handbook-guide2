@@ -3,11 +3,10 @@
 * OMS has Log Analytics functionality
   * Collects and analyzes log data
   * Works with on-premises and cloud based deployments
-
 * Connect Azure VMs to OMS Log Analytics
- * Azure Portal
- * Azure PowerShell
- * ARM Template
+  * Azure Portal
+  * Azure PowerShell
+  * ARM Template
 
 
 ## System Center Operations Manager
