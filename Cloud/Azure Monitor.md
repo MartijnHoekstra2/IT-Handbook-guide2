@@ -5,7 +5,7 @@
 * [Azure Virtual Machine Agent overview](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows)
 * Ensure that VM agent is installed
 * Enable monitoring, and the following will be monitored:
-1. Basic metric
+* * . Basic metric
 1. Network and web metrics
 1. .Net metrics
 1. Windows event system logs
