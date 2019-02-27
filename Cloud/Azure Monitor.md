@@ -7,11 +7,11 @@
 * Enable monitoring, and the following will be monitored:
 1. Basic metric
 1. Network and web metrics
-1.  .Net metrics
-1.  Windows event system logs
-1.  Windows event security logs
-1.  Windows event application logs
-1.  Diagnostic infrastructre logs
-1.  IIS logs
+1. .Net metrics
+1. Windows event system logs
+1. Windows event security logs
+1. Windows event application logs
+1. Diagnostic infrastructre logs
+1. IIS logs
 
 
