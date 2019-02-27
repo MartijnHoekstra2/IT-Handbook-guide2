@@ -1,33 +1,33 @@
 ## Operations Management Suite (OMS)
 [Operations Management Suite (OMS) Overview](https://azure.microsoft.com/en-us/resources/videos/operations-management-suite-oms-overview/)
 * Can deploy on-premises or in Azure Iaas VM
- * Recommend on-premises deployment due to system requirements for management server and supporting SQL database
+  * Recommend on-premises deployment due to system requirements for management server and supporting SQL database
 * Monitor Azure by adding Azure Management Pack
 * Monitor IaaS Vms by deploying agents directly on VMs that report back to gateway server or management server
 
 ### Operations Manager Azure Management Pack
 * Discovery only
- * Application Insights
- * Automation
- * Backup
- * BizTalk
- * Logic App
- * Media Services
- * Networks
- * Notifications Hubs
- * Operational Insights
- * Scheduler
- * Search
- * Service Bus
- * Traffic Manager
+  * Application Insights
+  * Automation
+  * Backup
+  * BizTalk
+  * Logic App
+  * Media Services
+  * Networks
+  * Notifications Hubs
+  * Operational Insights
+  * Scheduler
+  * Search
+  * Service Bus
+  * Traffic Manager
 * Discovers and provides performance counters
- * Cloud Service (web and worker roles)
- * Data Factory
- * DocumentDB
- * Mobile Services
- * Redis Cache
- * Virtual machines
- * Websites
+  * Cloud Service (web and worker roles)
+  * Data Factory
+  * DocumentDB
+  * Mobile Services
+  * Redis Cache
+  * Virtual machines
+  * Websites
 
 ## Azure Monitoring for Iaas VMs
 [Azure Virtual Machine Agent overview](https://docs.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows)
