@@ -15,5 +15,6 @@
   * IIS logs
 
 This will put this information in a storage account and access that information through the console.
+This can be found at: Diagnostics settings
 
 
