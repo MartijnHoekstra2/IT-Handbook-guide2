@@ -14,8 +14,6 @@
   * Diagnostic infrastructre logs
   * IIS logs
 
-This will put this information in a storage account and access that information through the console.
-
-This can be found at: Diagnostics settings
+This will put this information in a storage account and access that information through the console. You can see if the agent is installed by verifying this at the Diagnostics settings. This will also be the place where you can find the information back from the above named monitoring options.
 
 
