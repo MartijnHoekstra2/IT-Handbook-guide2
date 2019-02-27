@@ -1,4 +1,7 @@
-You can use Visual Studio or OMS to read log data written to Azure storage
+## Information
+* You can use Visual Studio or OMS to read log data written to Azure storage
+* [Metric Alerts with Dynamic Thresholds in Azure Monitor (Public Preview)](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-dynamic-thresholds)
+* [Supported resources for metric alerts in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-metric-near-real-time)
 https://app.pluralsight.com/library/courses/microsoft-azure-performance-monitoring/table-of-contents
 https://app.pluralsight.com/library/courses/azure-iaas-monitoring-management-getting-started/table-of-contents
 
