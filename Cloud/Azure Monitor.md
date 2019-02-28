@@ -13,7 +13,11 @@
 
 * [Analyze log data in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/log-query-overview)
 
-
+* Virtual Machine
+  * Does not require a reboot from the VM
+  * Diagnose Settings > Click on guest-level monitoring
+    * If you look under the METRIC NAMESPACE, we now have access to the Guest namespace. This is going to be metrics from inside our VM. And if we expand the METRIC list, we now have access to metrics about the disk attached to our VM, detailed memory usage stats, various process and processor metrics, and some system information such as the total number of processes currently running. That definitely can be very useful.
+ * [Collect performance counters for your Azure Cloud Service](https://docs.microsoft.com/en-us/azure/cloud-services/diagnostics-performance-counters)
 
 
 
@@ -64,6 +68,9 @@
 * Autoscale
   *  In a similar way, you can take advantage of Azure autoscale to automatically add resources to handle increases in load on your application when a metric reaches a specific threshold.
   
+
+
+
 
 
 
