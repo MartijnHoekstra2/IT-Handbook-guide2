@@ -1,5 +1,17 @@
 * [Azure status](https://azure.microsoft.com/en-us/status/#)
 * Create your own Dashboard by selecting Service Health at the creation of a new dashboard. Make it personal
+* Visual Studio and install the Azure Software Developtment Kit, or SDK.
+* Visual Studio 2015 Community Edition is free software
+  * New > Project, select Cloud and choose ASP.NET Web Application (.NET Framework)
+  * Select Add Application Insight to project Optimize perfromance and monitor usage in your live application
+
+* First Tier: Resource health
+  * Looking at individual resource health. How to enable diagnostic streams, and how to go in and on a per-resource basis
+* Second tier: Monitor center
+* Third tier: Log Analytics and operations Management Suite (OMS)
+
+
+* [Analyze log data in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/log-query-overview)
 
 
 ## Azure Resource Logs
@@ -100,7 +112,7 @@ This will put this information in a storage account and access that information 
     * IPsec Certificate
 
 
-## Application Insights
+## Application Insights > Is for the Developers and not for IT Operations
 * Detect, triage, and diagnose issues in web apps and services
 * Detect issues through e-mail and webhook alerts
 * Diagnose exceptions and web app performance issues
@@ -118,6 +130,9 @@ This will put this information in a storage account and access that information 
   * Custom client and server telemetry.
   * Segmentation by client location, browser version, OS version, server instance, custom dimensions, and more
   * Availability tests
+
+
+
 
 
 ## Global Service Monitor
@@ -142,6 +157,7 @@ This will put this information in a storage account and access that information 
 ## Operations Manager Suite
 [Operations Management Suite (OMS) Overview](https://azure.microsoft.com/en-us/resources/videos/operations-management-suite-oms-overview/)
 * OMS Workspace = Log Analytics workspace (data warehouse)
+* Needs to have an agent installed
 
 
 * OMS has Log Analytics functionality
