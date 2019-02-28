@@ -14,6 +14,68 @@
 * [Analyze log data in Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/log-query-overview)
 
 
+
+
+
+
+
+
+
+## Azure Monitor Components Overview
+#### Monitoring Data Types
+* Metrics
+  * Numerical values (e.g. application response time
+* Logs
+  * Rich records of event (e.g. errors, traces)
+
+#### Azure Monitor Data Sources
+* Application monitoring data
+  * Your code
+* Guest OS monitoring data
+  * CPU usage, memory usage, etc...
+* Azure resource monitoring data
+  * CosmosDB available storage, etc.
+* Azure subscription monitoring data
+  * Cost to data, Azure service health
+  
+#### Analyze
+* Metrics Explorer
+* Log Analytics
+
+#### Insights
+* Application Inisghts
+  * Application Insights specializes in monitoring web applications from availability to performance and usage. It relies on metrics and Log Analytics to provide deep insights into your application and can help diagnose errors without waiting for a user to report them.
+* Container Insights
+  * As the name indicates, this is a feature designed to monitor the performance of applications running on Azure Kubernetes Service. With this feature, you will get visibility and memory and processor metrics for your controllers, nodes, and container running on AKS. Container logs will also be collected to give you a full picture of your application's performance.
+* VM insights
+  * will help you analyze the performance and health of your VMs, regardless of the operating system they are running. What is really cool is that you will even get the visibility on the performance of individual processes and their dependencies.
+  
+#### Visualize
+* Azure Dashboard
+  * Lets you create your own custom dashboard combining metrics and logs. This is extremely useful, as you could build a dashboard representing the full health and performance of an application, using graphs for metrics, tables of activity logs, user charts from Applications Insights, or the output of a query from Log Analytics. And of course, you can then share your dashboard with your team so everyone can benefit from it.
+* Log Views
+  * As part of the Azure Log Analytics service, you can also create custom views to help you visualize your Log Analytics data. This is typically used to summarize data from log records by using a combination of charts and lists of critical data. Once you create custom views, you will be able to add them to your Azure Dashboards as well to get comprehensive insights of your application's performance. 
+* PowerBI
+  * Although it is not really part of Azure Monitor, Power BI can be extremely useful to visualize monitoring data. In case you're not familiar with Power BI, it is a business analytics service specializing in providing interactive visualizations for a wide range of data sources. Azure Monitor is one of these sources, and Power BI can be configured to automatically import log data from Azure Monitor. This is a really nice alternative to Azure Dashboards.
+
+#### Respond
+* Alerts
+  * You can set up alerts to notify you of potential issues with your application or its infrastructure. This could be as simple as sending an email or a text message to someone or a group of people, but you can also enable more advanced scenarios by using webhooks to have alerts trigger automated corrective actions.
+* Autoscale
+  *  In a similar way, you can take advantage of Azure autoscale to automatically add resources to handle increases in load on your application when a metric reaches a specific threshold.
+  
+
+
+
+
+
+
+
+
+
+
+
+
 ## Azure Resource Logs
 #### Activity Log
 * Also called the audit log
