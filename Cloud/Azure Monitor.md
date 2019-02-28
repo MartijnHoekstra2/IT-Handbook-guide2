@@ -1,3 +1,34 @@
+* [Azure status](https://azure.microsoft.com/en-us/status/#)
+* Create your own Dashboard by selecting Service Health at the creation of a new dashboard. Make it personal
+
+
+## Azure Resource Logs
+#### Activity Log
+* Also called the audit log
+* Records operational details
+* Who did what, and when, in Azure
+
+#### Diagnostic Log
+* Performance Counters
+* Event logs (System, Application, Security)
+* IIS Logs
+* Crash dump data
+* Custom error logs
+
+
+## Azure Monitor Components
+* Activity Log
+  * But on a much larger scale (Resource Group
+* Metrics
+  * Plot data points to a custom, shareable Dashboard
+* Diagnostics Logs
+  * Aggregated data can be analyzed with Power BI
+* Alerts
+  * Get notified when metrics exceed threshold values
+  * Automatic remediation (Azure Automation runbook; webhook)
+  
+
+
 ## Information
 * You can use Visual Studio or OMS to read log data written to Azure storage
 * [Metric Alerts with Dynamic Thresholds in Azure Monitor (Public Preview)](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-dynamic-thresholds)
@@ -102,9 +133,17 @@ This will put this information in a storage account and access that information 
    * Maximum number of requests per web test: 100
    * Maximum web test file size: 100 kilobytes (KB)
 
+## Log Analytics
+* Use Azure Log Analyticss (v2)
+* New query language
+
+
 
 ## Operations Manager Suite
 [Operations Management Suite (OMS) Overview](https://azure.microsoft.com/en-us/resources/videos/operations-management-suite-oms-overview/)
+* OMS Workspace = Log Analytics workspace (data warehouse)
+
+
 * OMS has Log Analytics functionality
   * Collects and analyzes log data
   * Works with on-premises and cloud based deployments
