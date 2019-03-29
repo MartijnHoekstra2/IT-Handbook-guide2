@@ -1,3 +1,5 @@
+C:\Users\%user%\AppData\Local\Temp
+
 ## Application Management
 * [Configure deployment/installation of Applications](https://lethewookiewin.wordpress.com/2011/04/21/84/)
 * [Test deployment/installation of Applications](https://www.techrepublic.com/article/mdt-advanced-settings-testing-settings-and-configuration/)
