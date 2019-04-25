@@ -32,6 +32,7 @@ C:\Users\%user%\AppData\Local\Temp
 
 ## MDT Property values
 * [Property Toolkit Reference](https://docs.microsoft.com/en-us/sccm/mdt/toolkit-reference)
+* [Providing Properties for Skipped Deployment Wizard Pages	](https://systemscenter.ru/mdt2012.en/provpropforskipdeplwizapage.htm#_mdttkrfprovpropforskipwinddeplw)
 * [Older version of: Property Toolkit Reference](https://technet.microsoft.com/en-us/library/bb490304.aspx)
 
 ## Offline image
